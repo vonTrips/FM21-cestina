@@ -1,0 +1,251 @@
+KEY-425389: Hope [%person#1] gets one over on [%person#1-his] former club.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425389-M: Hope [%male#1] gets one over on [%male#1-his] former club.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Doufám, že [%male#1] svůj bývalý klub porazí. [%male#1-hidden]
+KEY-425389-F: Hope [%female#1] gets one over on [%female#1-her] former club.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Doufám, že [%female#1] svůj bývalý klub porazí. [%female#1-hidden]
+
+KEY-425390: One of the bigger teams will be going out![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Jeden z těch větších týmů vypadne!
+
+KEY-425391: [%team#1-short] vs [%team#2-short]! What a tie![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Tým [%team#1-short] proti týmu [%team#2-short]! Skvělý zápas!
+
+KEY-425392: Glad we've got home advantage in this one! #[%team#1-short].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Jsem rád, že máme výhodu domácího prostředí! #[%team#1-short].
+
+KEY-425393: [%team#2-short] in the [%comp#1-short]. Great tie![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Tým [%team#2-short] v soutěži [%comp#1-short]. Skvělý zápas!
+
+KEY-425394: Tasty tie![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Pikantní zápas!
+
+KEY-425395: Looking forward to watching this one![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Těším se, až se na to podívám!
+
+KEY-425396: Tie of the round! Champions vs champions![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Zápas kola! Vítězové proti vítězům!
+
+KEY-425397: Two heavyweights of the [%comp#1-short] up against each other.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Dvě těžké váhy soutěže [%comp#1-short] proti sobě.
+
+KEY-425398: WOW![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: WOW!
+
+KEY-425399: Tie of the [%comp#1-short].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Zápas soutěže [%comp#1-short].
+
+KEY-425400: Well up for this one!!![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Na tohle jsem natěšený!!!
+
+KEY-425401: Away fans will hope this one is on telly.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Hostující fanoušci budou doufat, že to budou dávat v televizi.
+
+KEY-425402: Quite a way to travel![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Je to docela dálka!
+
+KEY-425403: Distance would put [%person#author-me] off that one![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425403-M: Distance would put [%male#author-me] off that one![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Vzdálenost by mě od toho odradila! [%male#author-hidden]
+KEY-425403-F: Distance would put [%female#author-me] off that one![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Vzdálenost by mě od toho odradila! [%female#author-hidden]
+
+KEY-425404: By far the biggest tie of the round! COME ON [%team#1-short]!![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Toto je největší zápas kola! Do toho [%team#1-short]!!
+
+KEY-425405: [%team#1-short] will win then we'll win the whole thing![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Pokud [%team#1-short] vyhraje, pak my budeme vítězi.
+
+KEY-425406: [%person#author-My] two favourites to win the [%comp#1-short] have been drawn against each other![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425406-M: [%male#author-My] two favourites to win the [%comp#1-short] have been drawn against each other![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Mí dva favorité na vítězství v soutěži [%comp#1-short] budou hrát proti sobě! [%male#author-hidden]
+KEY-425406-F: [%female#author-My] two favourites to win the [%comp#1-short] have been drawn against each other![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Mí dva favorité na vítězství v soutěži [%comp#1-short] budou hrát proti sobě! [%male#author-hidden]
+
+KEY-425407: Tough game but [%team#2-short] can do this.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Těžký zápas, ale [%team#2-short] to dokáže.
+
+KEY-425408: [%team#2-short] more than capable of winning this one.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: [%team#2-short] je více než schopný tento zápas vyhrát.
+
+KEY-425409: What a tie! Backing [%person#author-my] [%team#2-short].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425409-M: What a tie! Backing [%male#author-my] [%team#2-short].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Skvělý zápas! Podporuji svůj tým  [%team#2-short]. [%male#author-hidden]
+KEY-425409-F: What a tie! Backing [%female#author-my] [%team#2-short].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Skvělý zápas! Podporuji svůj tým  [%team#2-short]. [%female#author-hidden]
+
+KEY-425410: Trip to [%team#2-short] to visit the old boss![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Výlet na [%team#2-short] za bývalým manažerem!
+
+KEY-425411: [%comp#1-short] defence takes us on a trip to our former manager.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Obhajoba [%comp#1-short] nás vezme na výlet za bývalým manažerem.
+
+KEY-425412: The gaffer goes back to [%person#1-his] old club! What a tie this will be![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425412-M: The gaffer goes back to [%male#1-his] old club! What a tie this will be![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Šéfík proti starému klubu! To bude zápas! [%male#1-hidden]
+KEY-425412-F: The gaffer goes back to [%female#1-her] old club! What a tie this will be![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Šéfová proti starému klubu! To bude zápas! [%female#1-hidden]
+
+KEY-425413: Manager against [%person#1-his] old club. Extra bit of spice added to the game![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425413-M: Manager against [%male#1-his] old club. Extra bit of spice added to the game![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Manažer proti svému bývalému klubu. Tohle okoření celý zápas! [%male#1-hidden]
+KEY-425413-F: Manager against [%female#1-her] old club. Extra bit of spice added to the game![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Manažerka proti svému bývalému klubu. Tohle okoření celý zápas! [%female#1-hidden]
+
+KEY-425414: What a tie for [%team#2-short]![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Skvělý zápas pro [%team#2-short]!
+
+KEY-425415: Stuff that dreams are made of for [%team#2-short]![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1:
+
+KEY-425416: Beauty of the [%comp#1-short]![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Krása soutěže [%comp#1-short]!
+
+KEY-425417: Big money won't buy you the team spirit that [%team#2-short] have.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Velké peníze vám nekoupí týmového ducha, kterého má [%team#2-short].
+
+KEY-425418: Money alone won't get you the [%comp#1-short].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Samotné peníze vám nezískají [%comp#1-short].
+
+KEY-425419: Hate that [%team#2-short] think they can buy the [%comp#1-short]. We didn't![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Nesnáším, když si [%team#2-short] myslí, že si může koupit výhru v [%comp#1-short]. My bychom to neudělali!
+
+KEY-425420: Our [%comp#1-short] defence takes us to [%team#2-short]. Tricky game but we'll be up for it.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Obhajoba [%comp#1-short] nás zavede proti [%team#2-short].
+
+KEY-425421: We've been handed an away day in our defence of the [%comp#1-short].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1:
+
+KEY-425422: Would have preferred to get [%team#2-short] at home but we'll be up for it.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Raději bychom s [%team#2-short] hráli doma, ale i tak budeme připraveni.
+
+KEY-425423: A trip to [%team#2-short] in the [%comp#1-short]. In dream land![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Výjezd na [%team#2-short] v soutěži [%comp#1-short], to je sen!
+
+KEY-425424: What a draw! Away to [%team#2-short] is like a cup final![COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: To je los! Venku s [%team#2-short], to je jako finálový zápas!
+
+KEY-425425: [%team#2-short] won't know what's hit them when we turn up. #[%team#1-short][COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: [%team#2-short] nebude vědět, co se stalo, až je dorazíme.
+
+KEY-425426: An away day to [%team#2-short] will be huge for our club.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Den zápasu proti týmu [%team#2-short] pro nás bude obrovský.
+
+KEY-425427: Love that the [%comp#1-short] can throw up these ties.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Miluji, že [%comp#1-short] přináší takové zápasy.
+
+KEY-425428: A win away at [%team#2-short] in the [%comp#1-short] would be unreal. #DARETODREAM[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Vyhrát venku s [%team#2-short] v soutěži [%comp#1-short]? Nerealistické.
+
+KEY-425429: [%person#1-surname] will relish going up against [%person#1-his] old team.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425429-M: [%male#1-surname] will relish going up against [%male#1-his] old team.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: [%male#1-surname] se bude líbit souboj s bývalým týmem. [%male#1-hidden]
+KEY-425429-F: [%female#1-surname] will relish going up against [%female#1-her] old team.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: [%female#1-surname] se bude líbit souboj s bývalým týmem. [%female#1-hidden]
+
+KEY-425430: Managers must love going up against their old club.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Manažeři musí milovat zápasy proti bývalým klubům.
+
+KEY-425431: Hope [%person#1-surname] gets one over on [%person#1-his] former club.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425431-M: Hope [%male#1-surname] gets one over on [%male#1-his] former club.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Doufám, že [%male#1-surname] porazí jeho bývalý klub. [%male#1-hidden]
+KEY-425431-F: Hope [%female#1-surname] gets one over on [%female#1-her] former club.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Doufám, že [%male#1-surname] porazí její bývalý klub. [%female#1-hidden]
+
+KEY-425432: It's as if these [%comp#1-short] draws are pre-planned.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Losování [%comp#1-short] je snad dopředu naplánováno.
+
+KEY-425433: Doubt [%person#author-I]'ll go to this one.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425433-M: Doubt [%male#author-I]'ll go to this one.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1:
+KEY-425433-F: Doubt [%female#author-I]'ll go to this one.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1:
+
+KEY-425434: Rivalries tend to lose their spice when you play each other so often.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Rivalita ztrácí kouzlo, pokud spolu hrajete moc často.
+
+KEY-425435: That's our [%comp#1-short] dreams over then.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: To jsou naše sny o [%comp#1-short].
+
+KEY-425436: [%team#2-short] coming to town to knock us out.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: [%team#2-short] přichází do města, aby nás vyřadili.
+
+KEY-425437: [%team#2-short] won't be given any troubles in their defence of the [%comp#1-short] at our place.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: [%team#2-short] u nás nebude mít žádné problémy s obhajobou [%comp#1-short].
+
+KEY-425438: [%team#2-short] will turn up and get one over on their old gaffer.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1:
+
+KEY-425439: [%team#2-short] are better off without [%person#1].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425439-M: [%team#2-short] are better off without [%male#1].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: [%team#2-short] je lepší bez [%male#1].
+KEY-425439-F: [%team#2-short] are better off without [%female#1].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: [%team#2-short] je lepší bez [%female#1].
+
+KEY-425440: Reckon the pressure will get to [%person#1].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425440-M: Reckon the pressure will get to [%male#1].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Počítejte s tím, že tlak dožene [%male#1].
+KEY-425440-F: Reckon the pressure will get to [%female#1].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Počítejte s tím, že tlak dožene [%female#1].
+
+KEY-425441: The old gaffer is coming back. Definitely going to end our [%comp#1-short] run.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Starý šéfík je zpět, definitivně ukončí naše putování v [%comp#1-short].
+
+KEY-425442: Never like games against old managers or players. Just don't think we have a chance.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Nemám rád zápasy proti bývalým hráčům nebo manažerům. Prostě si nemyslím, že máme šanci.
+
+KEY-425443: That's our cup run over then.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: To je tedy náš pohár.
+
+KEY-425444: [%comp#1-short] defence to end against the gaffer's old club.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Obhajoba [%comp#1-short] skončí proti šéfikovu starému klubu.
+
+KEY-425445: Almost as if it was written for our [%comp#1-short] defence to end against [%person#1]{s} old club.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425445-M: Almost as if it was written for our [%comp#1-short] defence to end against [%male#1]{s} old club.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Asi je napsáno, že naše obhajoba [%comp#1-short] skončí proti bývalému klubu od [%male#1]{}.
+KEY-425445-F: Almost as if it was written for our [%comp#1-short] defence to end against [%female#1]{s} old club.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Asi je napsáno, že naše obhajoba [%comp#1-short] skončí proti bývalému klubu od [%female#1]{}.
+
+KEY-425446: Reckon [%team#2-short] will turn up and beat us.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Počítám, že nás [%team#2-short] porazí.
+
+KEY-425447: Can see [%person#2] coming back and knocking us out.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425447-M: Can see [%male#2] coming back and knocking us out.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Vidím, jak se [%male#2] vrací a vyřadí nás.
+KEY-425447-F: Can see [%female#2] coming back and knocking us out.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Vidím, jak se [%female#2] vrací a vyřadí nás.
+
+KEY-425448: Any team but [%person#2]{s} team...[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+KEY-425448-M: Any team but [%male#2]{s} team...[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Jakýkoli tým, krom týmu [%male#2]{}...
+KEY-425448-F: Any team but [%female#2]{s} team...[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Jakýkoli tým, krom týmu [%female#2]{}...
+
+KEY-425449: Really don't think [%team#1-short] will be able to get past [%team#2].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Vážně si nemyslím, že se [%team#1-short] dostane přes [%team#2]. 
+
+KEY-425450: A draw like that is pretty much a free pass for [%team#1-short].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Takový los je de facto pro [%team#1-short] zdarma.
+
+KEY-425451: Re-draw please.[%team#1-short] have been handed a free pass.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Opakujte losování prosím. [%team#1-short] to má zadarmo.
+
+KEY-425452: [%team#1-short] will underestimate [%team#2-short].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: [%team#1-short] podcení tým [%team#2-short].
+
+KEY-425453: That's [%team#1-short] going out then.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: To tedy [%team#1-short] vypadne.
+
+KEY-425454: We've got no chance against [%team#2-short].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Nemáme žádnou šanci proti [%team#2-short].
+
+KEY-425455: That's our [%comp#1-short] defence over then.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: To je naše obhajoba [%comp#1-short].
+
+KEY-425456: Tricky draw even as the home side.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Obtížný los i jako domácí.
+
+KEY-425457: Really not confident about us beating [%team#2-short].[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: Nejsme si jistí, že porazíme [%team#2-short].
+
+KEY-425458: [%team#2-short] will be too much for us.[COMMENT: in-game social media string, please feel free to translate 'informally' but also keep it short, there's no strict character limit but they're meant to be succinct, this is a competition draw (round draw, rather than in the result context) reaction string]
+STR-1: [%team#2-short] je pro nás příliš těžký soupeř.

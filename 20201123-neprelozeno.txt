@@ -1,0 +1,6 @@
+  13 - KEY-473505: Mature Age Rookie players sit outside the roster. (Mature Age Rookie???)
+  19 - KEY-473507: Use Home Team Substitution Rules (sorry, chybí mi souvislost, ani FM nepomohl)
+  22 - KEY-473508: Uses the substitute rules of the home team (jako výše)
+ 349 - KEY-473601: Nejsem si jist překladem, jestli křižuje pohyb nebo míč
+ 358 - KEY-473604: Že by se jednalo o registraci sestavy? Asi je hloupost aby hostující hráči nemuseli sedět na lavičce na hřišti?!
+ 953 - KEY-473693: Fakt nevím, něco s návštěvností

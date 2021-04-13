@@ -1,0 +1,1058 @@
+KEY-500901: [%person#1-surname]: VAR correct to disallow goal[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+KEY-500901-M: [%male#1-surname]: VAR correct to disallow goal[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: [%male#1-surname]: VAR správně neuznal branku
+KEY-500901-F: [%female#1-surname]: VAR correct to disallow goal[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: [%female#1-surname]: VAR správně neuznal branku
+
+KEY-500902: [%person#1-surname] 'doesn't want to doubt VAR'[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+KEY-500902-M: [%male#1-surname] 'doesn't want to doubt VAR'[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: [%male#1-surname] 'nechci pochybovat o VAR'
+KEY-500902-F: [%female#1-surname] 'doesn't want to doubt VAR'[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: [%female#1-surname] 'nechci pochybovat o VAR'
+
+KEY-500903: [%person#1-surname] feels [%team#1-short] goal should have stood[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+KEY-500903-M: [%male#1-surname] feels [%team#1-short] goal should have stood[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: [%male#1-surname] cítí, že gól [%team#1-short] měl platit.
+KEY-500903-F: [%female#1-surname] feels [%team#1-short] goal should have stood[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: [%female#1-surname] cítí, že gól [%team#1-short] měl platit.
+
+KEY-500904: [%person#1-surname] lashes out at VAR following disallowed goal[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+KEY-500904-M: [%male#1-surname] lashes out at VAR following disallowed goal[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: [%male#1-surname] bičuje VAR po neuznané brance.
+KEY-500904-F: [%female#1-surname] lashes out at VAR following disallowed goal[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: [%female#1-surname] bičuje VAR po neuznané brance.
+
+KEY-500905: [%person#1-I] haven't seen it back so [%person#1-I] can't comment[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+KEY-500905-M: [%male#1-I] haven't seen it back so [%male#1-I] can't comment[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: Ještě jsem to neviděl ze záznamu, takže nemohu komentovat. [%male#1-hidden][%male#1-hidden]
+KEY-500905-F: [%female#1-I] haven't seen it back so [%female#1-I] can't comment[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: Ještě jsem to neviděla ze záznamu, takže nemohu komentovat. [%female#1-hidden][%female#1-hidden]
+
+KEY-500906: It's pretty hard to argue with VAR, isn't it? It doesn't discriminate and it's clear that it was right to disallow it[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: Je docela těžké se s VAR hádat, co? Žádná diskriminace, prostě bylo správné to neuznat.
+
+KEY-500907: [%person#1-I] don't want to doubt the technology here, it serves its purpose well[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+KEY-500907-M: [%male#1-I] don't want to doubt the technology here, it serves its purpose well[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: Nechci zde pochybovat o technologii, která slouží svému účelu dobře.[%male#1-hidden]
+KEY-500907-F: [%female#1-I] don't want to doubt the technology here, it serves its purpose well[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: Nechci zde pochybovat o technologii, která slouží svému účelu dobře.[%female#1-hidden]
+
+KEY-500908: [%person#1-I] think it should've stood; the margins are too fine not to give the advantage to the attacking team[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION, should've stood means should've been allowed]
+KEY-500908-M: [%male#1-I] think it should've stood; the margins are too fine not to give the advantage to the attacking team[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION, should've stood means should've been allowed]
+STR-1: Myslím, že měl platit; bylo to těsné a nemyslím si, že útok získal výhodu.[%male#1-hidden]
+KEY-500908-F: [%female#1-I] think it should've stood; the margins are too fine not to give the advantage to the attacking team[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION, should've stood means should've been allowed]
+STR-1: Myslím, že měl platit; bylo to těsné a nemyslím si, že útok získal výhodu.[%female#1-hidden]
+
+KEY-500909: What are we doing to our game? If technology can rule out a perfectly good goal like that, then [%person#1-I] don't know where we're going[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+KEY-500909-M: What are we doing to our game? If technology can rule out a perfectly good goal like that, then [%male#1-I] don't know where we're going[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: Co děláme s naší hrou? Pokud technologie dokáže vyloučit jasně dobrý gól, tak nevím, kam jdeme.[%male#1-hidden]
+KEY-500909-F: What are we doing to our game? If technology can rule out a perfectly good goal like that, then [%female#1-I] don't know where we're going[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3413; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_VAR_VERSION]
+STR-1: Co děláme s naší hrou? Pokud technologie dokáže vyloučit jasně dobrý gól, tak nevím, kam jdeme.[%female#1-hidden]
+
+KEY-500910: VAR controversially awarded a goal against [%person#1-your] team today. What are [%person#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+KEY-500910-M: VAR controversially awarded a goal against [%male#1-your] team today. What are [%male#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: VAR dnes kontroverzně uznal branku proti Vám. Jaký je Váš názor na tento incident?[%male#1-hidden]
+KEY-500910-F: VAR controversially awarded a goal against [%female#1-your] team today. What are [%female#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: VAR dnes kontroverzně uznal branku proti Vám. Jaký je Váš názor na tento incident?[%female#1-hidden]
+
+KEY-500911: [%person#1-surname]: Controversial goal should have stood[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+KEY-500911-M: [%male#1-surname]: Controversial goal should have stood[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: [%male#1-surname]: Kontroverzní branka měla platit.
+KEY-500911-F: [%female#1-surname]: Controversial goal should have stood[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: [%female#1-surname]: Kontroverzní branka měla platit.
+
+KEY-500912: [%person#1-surname]: VAR got it right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+KEY-500912-M: [%male#1-surname]: VAR got it right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: [%male#1-surname]: VAR rozhodl správně.
+KEY-500912-F: [%female#1-surname]: VAR got it right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: [%female#1-surname]: VAR rozhodl správně.
+
+KEY-500913: [%person#1-surname] feels [%team#2-short] goal should have been disallowed[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+KEY-500913-M: [%male#1-surname] feels [%team#2-short] goal should have been disallowed[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: [%male#1-surname] cítí, že branka týmu [%team#2-short] neměla být uznána.
+KEY-500913-F: [%female#1-surname] feels [%team#2-short] goal should have been disallowed[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: [%female#1-surname] cítí, že branka týmu [%team#2-short] neměla být uznána.
+
+KEY-500914: [%person#1-surname] lashes out at VAR following controversial goal[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+KEY-500914-M: [%male#1-surname] lashes out at VAR following controversial goal[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: [%male#1-surname] bičuje VAR po kontroverzně uznané brance soupeře.
+KEY-500914-F: [%female#1-surname] lashes out at VAR following controversial goal[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: [%female#1-surname] bičuje VAR po kontroverzně uznané brance soupeře.
+
+KEY-500915: [%person#1-I] haven't seen it back so [%person#1-I] can't comment[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+KEY-500915-M: [%male#1-I] haven't seen it back so [%male#1-I] can't comment[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: Ještě jsem to neviděl ze záznamu, takže nemohu komentovat. [%male#1-hidden][%male#1-hidden]
+KEY-500915-F: [%female#1-I] haven't seen it back so [%female#1-I] can't comment[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: Ještě jsem to neviděla ze záznamu, takže nemohu komentovat. [%female#1-hidden][%female#1-hidden]
+
+KEY-500916: It's pretty hard to argue with VAR, isn't it? It was the right decision[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: Je docela těžké se s VAR hádat, co? Bylo to správné rozhodnutí.
+
+KEY-500917: [%person#1-I] think VAR got it right here, unfortunately[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+KEY-500917-M: [%male#1-I] think VAR got it right here, unfortunately[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: Myslím, bohužel pro nás, že VAR rozhodl správně.[%male#1-hidden]
+KEY-500917-F: [%female#1-I] think VAR got it right here, unfortunately[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: Myslím, bohužel pro nás, že VAR rozhodl správně.[%female#1-hidden]
+
+KEY-500918: [%person#1-I] reckon it should have been ruled out. We can't carry on like this when so much is at stake[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+KEY-500918-M: [%male#1-I] reckon it should have been ruled out. We can't carry on like this when so much is at stake[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: Myslím, že by se VAR měl přestat používat. Nemůžeme takto pokračovat, když je tolik v sázce.[%male#1-hidden]
+KEY-500918-F: [%female#1-I] reckon it should have been ruled out. We can't carry on like this when so much is at stake[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: Myslím, že by se VAR měl přestat používat. Nemůžeme takto pokračovat, když je tolik v sázce.[%female#1-hidden]
+
+KEY-500919: The whole VAR thing is an absolute waste of time and [%person#1-I] can't wait until we're rid of it[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+KEY-500919-M: The whole VAR thing is an absolute waste of time and [%male#1-I] can't wait until we're rid of it[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: Celý VAR je jen ztráta času a těším se, až se té technologie zbavíme.[%male#1-hidden]
+KEY-500919-F: The whole VAR thing is an absolute waste of time and [%female#1-I] can't wait until we're rid of it[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3414; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_GIVEN_VAR_VERSION]
+STR-1: Celý VAR je jen ztráta času a těším se, až se té technologie zbavíme.[%male#1-hidden]
+
+KEY-500920: There was some controversy today when VAR refused to award a penalty to [%team#1-short]. What are [%person#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+KEY-500920-M: There was some controversy today when VAR refused to award a penalty to [%team#1-short]. What are [%male#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: Dnes došlo k polemice, když VAR odepřel penaltu pro tým [%team#1-short] Jaké je váš názor na tento incident?[%male#1-hidden]
+KEY-500920-F: There was some controversy today when VAR refused to award a penalty to [%team#1-short]. What are [%female#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: Dnes došlo k polemice, když VAR odepřel penaltu pro tým [%team#1-short] Jaké je váš názor na tento incident?[%female#1-hidden]
+
+KEY-500921: [%person#1-surname]: It wasn't a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+KEY-500921-M: [%male#1-surname]: It wasn't a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: [%male#1-surname]: Nebyla to penalta.
+KEY-500921-F: [%female#1-surname]: It wasn't a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: [%female#1-surname]: Nebyla to penalta.
+
+KEY-500922: [%person#1-surname]: VAR got penalty call right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+KEY-500922-M: [%male#1-surname]: VAR got penalty call right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: [%male#1-surname]: VAR o penaltě rozhodl správně.
+KEY-500922-F: [%female#1-surname]: VAR got penalty call right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: [%female#1-surname]: VAR o penaltě rozhodl správně.
+
+KEY-500923: [%person#1-surname] feels [%team#1-short] should've had a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+KEY-500923-M: [%male#1-surname] feels [%team#1-short] should've had a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: [%male#1-surname] cítí, že tým [%team#1-short] měl kopat penaltu.
+KEY-500923-F: [%female#1-surname] feels [%team#1-short] should've had a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: [%female#1-surname] cítí, že tým [%team#1-short] měl kopat penaltu.
+
+KEY-500924: [%person#1-surname] lashes out at VAR following penalty controversy[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+KEY-500924-M: [%male#1-surname] lashes out at VAR following penalty controversy[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: [%male#1-surname] bičuje VAR po penaltové kontroverzi.
+KEY-500924-F: [%female#1-surname] lashes out at VAR following penalty controversy[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: [%female#1-surname] bičuje VAR po penaltové kontroverzi.
+
+KEY-500925: [%person#1-I] haven't seen it back so it'd be inappropriate to comment here[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+KEY-500925-M: [%male#1-I] haven't seen it back so it'd be inappropriate to comment here[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: Ještě jsem to neviděl ze zpětného záznamu, takže by nebylo vhodné to nyní komentovat.[%male#1-hidden]
+KEY-500925-F: [%female#1-I] haven't seen it back so it'd be inappropriate to comment here[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: Ještě jsem to neviděla ze zpětného záznamu, takže by nebylo vhodné to nyní komentovat.[%female#1-hidden]
+
+KEY-500926: It wasn't a penalty, let's leave it at that[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: Nebyla to penalta, nechme to tak
+
+KEY-500927: [%person#1-I] think VAR got it right, although it's not easy to admit that[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+KEY-500927-M: [%male#1-I] think VAR got it right, although it's not easy to admit that[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: Myslím, že VAR rozhodl správně, i když není snadné to připustit.[%male#1-hidden]
+KEY-500927-F: [%female#1-I] think VAR got it right, although it's not easy to admit that[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: Myslím, že VAR rozhodl správně, i když není snadné to připustit.[%female#1-hidden]
+
+KEY-500928: It was a close one, but [%person#1-I]'ve seen them given, and it's the inconsistency that frustrated [%person#1-me] most[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+KEY-500928-M: It was a close one, but [%male#1-I]'ve seen them given, and it's the inconsistency that frustrated [%male#1-me] most[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: 
+KEY-500928-F: It was a close one, but [%female#1-I]'ve seen them given, and it's the inconsistency that frustrated [%female#1-me] most[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: 
+
+KEY-500929: [%person#1-I] don't know why we're bothering with VAR if it won't give that sort of decision. It's a complete farce[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+KEY-500929-M: [%male#1-I] don't know why we're bothering with VAR if it won't give that sort of decision. It's a complete farce[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: Nevím, proč se trápíme s VAR, když nedojde k takovému rozhodnutí. Je to úplná fraška.[%male#1-hidden]
+KEY-500929-F: [%female#1-I] don't know why we're bothering with VAR if it won't give that sort of decision. It's a complete farce[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3415; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_APPEAL_TURNED_DOWN_VAR_VERSION]
+STR-1: Nevím, proč se trápíme s VAR, když nedojde k takovému rozhodnutí. Je to úplná fraška.[%female#1-hidden]
+
+KEY-500930: There was some controversy today when VAR awarded a penalty to [%team#1-short]. What are [%person#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+KEY-500930-M: There was some controversy today when VAR awarded a penalty to [%team#1-short]. What are [%male#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: Dnes došlo k polemice, když VAR přiřkl penaltu pro tým [%team#1-short]. Jaký je váš názor na tento incident?[%male#1-hidden]
+KEY-500930-F: There was some controversy today when VAR awarded a penalty to [%team#1-short]. What are [%female#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: Dnes došlo k polemice, když VAR přiřkl penaltu pro tým [%team#1-short]. Jaký je váš názor na tento incident?[%female#1-hidden]
+
+KEY-500931: [%person#1-surname]: It was a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+KEY-500931-M: [%male#1-surname]: It was a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: [%male#1-surname]: Byla to penalta.
+KEY-500931-F: [%female#1-surname]: It was a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: [%female#1-surname]: Byla to penalta.
+
+KEY-500932: [%person#1-surname]: VAR got [%team#2-short] penalty right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+KEY-500932-M: [%male#1-surname]: VAR got [%team#2-short] penalty right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: [%male#1-surname]: VAR správně uznal penaltu týmu [%team#2-short]
+KEY-500932-F: [%female#1-surname]: VAR got [%team#2-short] penalty right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: [%female#1-surname]: VAR správně uznal penaltu týmu [%team#2-short]
+
+KEY-500933: [%person#1-surname] says [%team#2-short] penalty felt 'harsh'[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+KEY-500933-M: [%male#1-surname] says [%team#2-short] penalty felt 'harsh'[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: [%male#1-surname] říká, že penalta pro tým [%team#2-short] byla 'tvrdá'
+KEY-500933-F: [%female#1-surname] says [%team#2-short] penalty felt 'harsh'[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: [%female#1-surname] říká, že penalta pro tým [%team#2-short] byla 'tvrdá'
+
+KEY-500934: [%person#1-surname] lashes out at VAR following penalty decision[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+KEY-500934-M: [%male#1-surname] lashes out at VAR following penalty decision[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: [%male#1-surname] bičuje VAR za rozhodnutí o pokutovém kopu.
+KEY-500934-F: [%female#1-surname] lashes out at VAR following penalty decision[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: [%female#1-surname] bičuje VAR za rozhodnutí o pokutovém kopu.
+
+KEY-500935: [%person#1-I] prefer not to speak. If [%person#1-I] speak, [%person#1-I] am in big trouble[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+KEY-500935-M: [%male#1-I] prefer not to speak. If [%male#1-I] speak, [%male#1-I] am in big trouble[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: Preferuji mlčet. Pokud bych promluvil, dostal bych se do velkých problémů.[%male#1-hidden][%male#1-hidden][%male#1-hidden]
+KEY-500935-F: [%female#1-I] prefer not to speak. If [%female#1-I] speak, [%female#1-I] am in big trouble[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: Preferuji mlčet. Pokud bych promluvila, dostala bych se do velkých problémů.[%female#1-hidden][%female#1-hidden][%female#1-hidden]
+
+KEY-500936: [%person#1-I] don't have a problem with VAR here, it was a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+KEY-500936-M: [%male#1-I] don't have a problem with VAR here, it was a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: Tady s VAR problém nemám, byla to penalta.[%male#1-hidden]
+KEY-500936-F: [%female#1-I] don't have a problem with VAR here, it was a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: Tady s VAR problém nemám, byla to penalta.[%female#1-hidden]
+
+KEY-500937: VAR got it right this time, we have no right to feel aggrieved[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: VAR to tentokrát udělal správně, nemáme právo se cítit poškozeni
+
+KEY-500938: [%person#1-I] think it was harsh and it certainly didn't feel clear and obvious[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+KEY-500938-M: [%male#1-I] think it was harsh and it certainly didn't feel clear and obvious[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: Myslím, že to bylo kruté a rozhodně to nebylo tak jasné a zřejmé.[%male#1-hidden]
+KEY-500938-F: [%female#1-I] think it was harsh and it certainly didn't feel clear and obvious[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: Myslím, že to bylo kruté a rozhodně to nebylo tak jasné a zřejmé.[%female#1-hidden]
+
+KEY-500939: [%person#1-I] don't know how that was given and [%person#1-I] don't know what VAR is doing[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+KEY-500939-M: [%male#1-I] don't know how that was given and [%male#1-I] don't know what VAR is doing[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: Nevím, jak to bylo zamýšleno, a nevím, co VAR dělá.[%male#1-hidden][%male#1-hidden]
+KEY-500939-F: [%female#1-I] don't know how that was given and [%female#1-I] don't know what VAR is doing[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3416; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_PENALTY_GIVEN_VAR_VERSION]
+STR-1: Nevím, jak to bylo zamýšleno, a nevím, co VAR dělá.[%female#1-hidden][%female#1-hidden]
+
+KEY-500940: VAR came to the fore again, intervening to send [%male#2] off. What are [%person#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+KEY-500940-M: VAR came to the fore again, intervening to send [%male#2] off. What are [%male#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: VAR opět vystoupil do popředí, aby zasáhl do vyloučení [%male#2]. Jaký je váš názor na tento incident?[%male#1-hidden]
+KEY-500940-F: VAR came to the fore again, intervening to send [%male#2] off. What are [%female#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: VAR opět vystoupil do popředí, aby zasáhl do vyloučení [%male#2]. Jaký je váš názor na tento incident?[%female#1-hidden]
+
+KEY-500941: [%person#1-surname] feels VAR was right to dismiss [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+KEY-500941-M: [%male#1-surname] feels VAR was right to dismiss [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: [%male#1-surname] cítí, že VAR správně vyloučil hráče [%male#2-surname]
+KEY-500941-F: [%female#1-surname] feels VAR was right to dismiss [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: [%female#1-surname] cítí, že VAR správně vyloučil hráče [%male#2-surname]
+
+KEY-500942: [%person#1-surname]: VAR got red card decision right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+KEY-500942-M: [%male#1-surname]: VAR got red card decision right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: [%male#1-surname]: VAR rozhodl o vyloučení správně
+KEY-500942-F: [%female#1-surname]: VAR got red card decision right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: [%female#1-surname]: VAR rozhodl o vyloučení správně
+
+KEY-500943: [%person#1-surname] feels VAR red card was harsh[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+KEY-500943-M: [%male#1-surname] feels VAR red card was harsh[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: [%male#1-surname] cítí, že červená díky VAR byla přísná
+KEY-500943-F: [%female#1-surname] feels VAR red card was harsh[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: [%female#1-surname] cítí, že červená díky VAR byla přísná
+
+KEY-500944: [%person#1-surname] lashes out at VAR following [%male#2-surname] dismissal[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+KEY-500944-M: [%male#1-surname] lashes out at VAR following [%male#2-surname] dismissal[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: [%male#1-surname] bičuje VAR po vyloučení hráče [%male#2-surname]
+KEY-500944-F: [%female#1-surname] lashes out at VAR following [%male#2-surname] dismissal[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: [%female#1-surname] bičuje VAR po vyloučení hráče [%male#2-surname]
+
+KEY-500945: Ask [%person#1-me] again after [%person#1-I]'ve re-watched it[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+KEY-500945-M: Ask [%male#1-me] again after [%male#1-I]'ve re-watched it[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: Zeptejte se mě znovu, až se na to podívám ze záznamu[%male#1-hidden][%male#1-hidden]
+KEY-500945-F: Ask [%female#1-me] again after [%female#1-I]'ve re-watched it[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: Zeptejte se mě znovu, až se na to podívám ze záznamu[%female#1-hidden][%female#1-hidden]
+
+KEY-500946: [%male#2-first] shouldn't have put himself in that position. It's hard to argue against the decision[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: [%male#2-first] se do takové pozice neměl dostat. Proti rozhodnutí je těžké argumentovat.
+
+KEY-500947: [%person#1-I]'d have been calling for a red card were the roles reversed so [%person#1-I] think they got it right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+KEY-500947-M: [%male#1-I]'d have been calling for a red card were the roles reversed so [%male#1-I] think they got it right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: Asi bych volal po červené kartě, kdyby se role obrátily, takže si myslím, že to rozhodli správně.[%male#1-hidden][%male#1-hidden]
+KEY-500947-F: [%female#1-I]'d have been calling for a red card were the roles reversed so [%female#1-I] think they got it right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: Asi bych volal po červené kartě, kdyby se role obrátily, takže si myslím, že to rozhodli správně.[%female#1-hidden][%female#1-hidden]
+
+KEY-500948: It was harsh, whatever happened to clear and obvious?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION, 'clear and obvious' is one of the rules that has to be taken into account when VAR gets involved]
+STR-1: Bylo to kruté, co se stalo s jasným a zřejmým rozhodnutím?
+
+KEY-500949: If VAR is giving that as a red card then we might as well all pack up our things and go home[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3417; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_RED_CARD_VAR_VERSION]
+STR-1: Pokud to VAR uzná jako červenou kartu, mohli bychom si také sbalit věci a jít domů
+
+KEY-500950: VAR was at the centre of attention again in not sending [%male#2] off. What are [%person#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+KEY-500950-M: VAR was at the centre of attention again in not sending [%male#2] off. What are [%male#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: VAR byl opět v centru dění, když neposlal ze hřiště hráče [%male#2]. Jaký já váš názor na tento incident?[%male#1-hidden]
+KEY-500950-F: VAR was at the centre of attention again in not sending [%male#2] off. What are [%female#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: VAR byl opět v centru dění, když neposlal ze hřiště hráče [%male#2]. Jaký já váš názor na tento incident?[%female#1-hidden]
+
+KEY-500951: [%person#1-surname] feels VAR got [%male#2-surname] decision correct[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+KEY-500951-M: [%male#1-surname] feels VAR got [%male#2-surname] decision correct[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: [%male#1-surname] cití, že VAR o hráči [%male#2-surname] rozhodl správně
+KEY-500951-F: [%female#1-surname] feels VAR got [%male#2-surname] decision correct[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: [%female#1-surname] cití, že VAR o hráči [%male#2-surname] rozhodl správně
+
+KEY-500952: [%person#1-surname]: [%male#2-surname] decision was probably fair[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+KEY-500952-M: [%male#1-surname]: [%male#2-surname] decision was probably fair[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: [%male#1-surname]: Nevyloučení hráče [%male#2-surname] bylo pravděpodobně správné
+KEY-500952-F: [%female#1-surname]: [%male#2-surname] decision was probably fair[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: [%female#1-surname]: Nevyloučení hráče [%male#2-surname] bylo pravděpodobně správné
+
+KEY-500953: [%person#1-surname] asks why [%male#2-surname] wasn't sent off[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+KEY-500953-M: [%male#1-surname] asks why [%male#2-surname] wasn't sent off[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: [%male#1-surname] se ptá, proč nebyl hráč [%male#2-surname] vyloučen
+KEY-500953-F: [%female#1-surname] asks why [%male#2-surname] wasn't sent off[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: [%female#1-surname] se ptá, proč nebyl hráč [%male#2-surname] vyloučen
+
+KEY-500954: [%person#1-surname] lashes out at VAR following [%male#2-surname] let-off[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+KEY-500954-M: [%male#1-surname] lashes out at VAR following [%male#2-surname] let-off[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: [%male#1-surname] bičuje VAR po nevyloučení hráče [%male#2-surname]
+KEY-500954-F: [%female#1-surname] lashes out at VAR following [%male#2-surname] let-off[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: [%female#1-surname] bičuje VAR po nevyloučení hráče [%male#2-surname]
+
+KEY-500955: [%person#1-I] don't know right now, [%person#1-I] need to watch it back[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+KEY-500955-M: [%male#1-I] don't know right now, [%male#1-I] need to watch it back[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: Teď opravdu nevím, musím se na to podívat ze záznamu.[%male#1-hidden][%male#1-hidden]
+KEY-500955-F: [%female#1-I] don't know right now, [%female#1-I] need to watch it back[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: Teď opravdu nevím, musím se na to podívat ze záznamu.[%female#1-hidden][%female#1-hidden]
+
+KEY-500956: [%person#1-I] have no arguments, it was clearly the right decision[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+KEY-500956-M: [%male#1-I] have no arguments, it was clearly the right decision[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: Nemám žádné argumenty, bylo to jasně správné rozhodnutí[%male#1-hidden]
+KEY-500956-F: [%female#1-I] have no arguments, it was clearly the right decision[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: Nemám žádné argumenty, bylo to jasně správné rozhodnutí[%female#1-hidden]
+
+KEY-500957: [%person#1-I]'d have been annoyed had one of [%person#1-my] players been sent off in that situation so it's hard to argue against[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+KEY-500957-M: [%male#1-I]'d have been annoyed had one of [%male#1-my] players been sent off in that situation so it's hard to argue against[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: Byl bych naštvaný, kdyby byl v této situaci vyloučen jeden z mých hráčů, takže je těžké proti tomu argumentovat.[%male#1-hidden][%male#1-hidden]
+KEY-500957-F: [%female#1-I]'d have been annoyed had one of [%female#1-my] players been sent off in that situation so it's hard to argue against[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: Byla bych naštvaná, kdyby byl v této situaci vyloučen jeden z mých hráčů, takže je těžké proti tomu argumentovat.[%female#1-hidden][%female#1-hidden]
+
+KEY-500958: Why wasn't there a red card shown? [%person#1-I]'ve seen players sent off for similar incidents and the inconsistency is infuriating[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+KEY-500958-M: Why wasn't there a red card shown? [%male#1-I]'ve seen players sent off for similar incidents and the inconsistency is infuriating[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: Proč sudí hráči neukázal červenou? Viděl jsem jiná vyloučení za stejný zákrok a tato nekonzistence je frustrující.[%male#1-hidden]
+KEY-500958-F: Why wasn't there a red card shown? [%female#1-I]'ve seen players sent off for similar incidents and the inconsistency is infuriating[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: Proč sudí hráči neukázal červenou? Viděla jsem jiná vyloučení za stejný zákrok a tato nekonzistence je frustrující.[%male#1-hidden]
+
+KEY-500959: If that's not a red card then [%person#1-I] don't know what is. VAR is a shambles[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+KEY-500959-M: If that's not a red card then [%male#1-I] don't know what is. VAR is a shambles[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: Pokud toto nebyla červená, tak už nevím za co by měla být. VAR je k smíchu[%male#1-hidden]
+KEY-500959-F: If that's not a red card then [%female#1-I] don't know what is. VAR is a shambles[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3418; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_NO_RED_CARD_VAR_VERSION]
+STR-1: Pokud toto nebyla červená, tak už nevím za co by měla být. VAR je k smíchu[%female#1-hidden]
+
+KEY-500960: VAR came to the fore again in deciding not to award [%team#2-short] a penalty. Did they get it right?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: VAR se opět dostal do popředí při neudělení penalty pro tým [%team#2-short]. Bylo to správné rozhodnutí?
+
+KEY-500961: [%person#1-surname] backs VAR in penalty controversy[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500961-M: [%male#1-surname] backs VAR in penalty controversy[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%male#1-surname] stojí za VAR při kontroverzním rozhodnutí o penaltě
+KEY-500961-F: [%female#1-surname] backs VAR in penalty controversy[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%female#1-surname] stojí za VAR při kontroverzním rozhodnutí o penaltě
+
+KEY-500962: [%person#1-surname]: The technology works[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500962-M: [%male#1-surname]: The technology works[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%male#1-surname]: Technologie funguje
+KEY-500962-F: [%female#1-surname]: The technology works[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%female#1-surname]: Technologie funguje
+
+KEY-500963: [%person#1-surname] admits [%team#1-short] were lucky not to concede penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500963-M: [%male#1-surname] admits [%team#1-short] were lucky not to concede penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%male#1-surname] přiznává, že jeho tým [%team#1-short] měl štěstí při nepísknuté penaltě
+KEY-500963-F: [%female#1-surname] admits [%team#1-short] were lucky not to concede penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%female#1-surname] přiznává, že jeho tým [%team#1-short] měl štěstí při nepísknuté penaltě
+
+KEY-500964: [%person#1-surname] questions VAR process in [%team#1-short] let-off[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500964-M: [%male#1-surname] questions VAR process in [%team#1-short] let-off[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%male#1-surname] zpochybňuje rozhodování VAR po neodpískané penaltě pro tým [%team#1-short]
+KEY-500964-F: [%female#1-surname] questions VAR process in [%team#1-short] let-off[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%female#1-surname] zpochybňuje rozhodování VAR po neodpískané penaltě pro tým [%team#1-short]
+
+KEY-500965: [%person#1-I] know it sounds like a copout but [%person#1-I] haven't seen the video evidence yet[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500965-M: [%male#1-I] know it sounds like a copout but [%male#1-I] haven't seen the video evidence yet[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Vím, že to zní jako vykrucování se, ale zatím jsem neviděl důkaz z videa[%male#1-hidden][%male#1-hidden]
+KEY-500965-F: [%female#1-I] know it sounds like a copout but [%female#1-I] haven't seen the video evidence yet[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Vím, že to zní jako vykrucování se, ale zatím jsem neviděl důkaz z videa[%female#1-hidden][%female#1-hidden]
+
+KEY-500966: [%person#1-I] think VAR was spot-on, it was never a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500966-M: [%male#1-I] think VAR was spot-on, it was never a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Myslím, že VAR byl dokonale přesný, tohle nebyla penalta[%male#1-hidden]
+KEY-500966-F: [%female#1-I] think VAR was spot-on, it was never a penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Myslím, že VAR byl dokonale přesný, tohle nebyla penalta[%female#1-hidden]
+
+KEY-500967: This was a perfect example of why the technology works. They wanted to take a closer look, they decided it wasn't a penalty, and made the correct decision[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: To byl dokonalý příklad, proč tato technologie funguje. Chtěli se blíže podívat, rozhodli se, že to není penalta, a rozhodli se správně
+
+KEY-500968: We probably got a bit lucky there. [%person#1-I]'d have been calling for a penalty if it was for us[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500968-M: We probably got a bit lucky there. [%male#1-I]'d have been calling for a penalty if it was for us[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Pravděpodobně jsme tam měli trochu štěstí. Kdyby to bylo pro nás, volal bych po pokutovém kopu[%male#1-hidden]
+KEY-500968-F: We probably got a bit lucky there. [%female#1-I]'d have been calling for a penalty if it was for us[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Pravděpodobně jsme tam měli trochu štěstí. Kdyby to bylo pro nás, volal bych po pokutovém kopu[%female#1-hidden]
+
+KEY-500969: We had a let-off there and it's just another example of VAR being unfit for purpose[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3419; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OPPOSITION_NOT_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Opět to bylo proti nám a je to jen další příklad toho, že VAR je nevhodný pro daný účel
+
+KEY-500970: The decision to award [%team#1-short] a penalty after video review was met with plenty of controversy. How did [%person#1-you] see it?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500970-M: The decision to award [%team#1-short] a penalty after video review was met with plenty of controversy. How did [%male#1-you] see it?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Rozhodnutí o písknutí penalty pro tým [%team#1-short] po přezkoumání u videa, se setkalo se značnou kontroverzí. Jak jste to viděl vy?[%male#1-hidden]
+KEY-500970-F: The decision to award [%team#1-short] a penalty after video review was met with plenty of controversy. How did [%female#1-you] see it?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Rozhodnutí o písknutí penalty pro tým [%team#1-short] po přezkoumání u videa, se setkalo se značnou kontroverzí. Jak jste to viděla vy?[%female#1-hidden]
+
+KEY-500971: [%person#1-surname] backs VAR in [%team#1-short] penalty controversy[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500971-M: [%male#1-surname] backs VAR in [%team#1-short] penalty controversy[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%male#1-surname] stojí za VAR při penaltové kontroverzi pro tým [%team#1-short]
+KEY-500971-F: [%female#1-surname] backs VAR in [%team#1-short] penalty controversy[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%female#1-surname] stojí za VAR při penaltové kontroverzi pro tým [%team#1-short]
+
+KEY-500972: [%person#1-surname] claims VAR got penalty decision right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500972-M: [%male#1-surname] claims VAR got penalty decision right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%male#1-surname] tvrdí, že VAR ohledně pokutového kopu rozhodl správně
+KEY-500972-F: [%female#1-surname] claims VAR got penalty decision right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%female#1-surname] tvrdí, že VAR ohledně pokutového kopu rozhodl správně
+
+KEY-500973: [%person#1-surname] admits [%team#1-short] were lucky to get penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500973-M: [%male#1-surname] admits [%team#1-short] were lucky to get penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%male#1-surname] připouští, že tým [%team#1-short] měl s penaltou štěstí
+KEY-500973-F: [%female#1-surname] admits [%team#1-short] were lucky to get penalty[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%female#1-surname] připouští, že tým [%team#1-short] měl s penaltou štěstí
+
+KEY-500974: [%person#1-surname] questions VAR process in [%team#1-short] penalty drama[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500974-M: [%male#1-surname] questions VAR process in [%team#1-short] penalty drama[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%male#1-surname] zpochybňuje rozhodnutí VAR o penaltě pro [%team#1-short]
+KEY-500974-F: [%female#1-surname] questions VAR process in [%team#1-short] penalty drama[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: [%female#1-surname] zpochybňuje rozhodnutí VAR o penaltě pro [%team#1-short]
+
+KEY-500975: [%person#1-I] need to see it again before commenting[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500975-M: [%male#1-I] need to see it again before commenting[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Než to budu komentovat, musím se na to znovu podívat[%male#1-hidden]
+KEY-500975-F: [%female#1-I] need to see it again before commenting[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Než to budu komentovat, musím se na to znovu podívat[%female#1-hidden]
+
+KEY-500976: [%person#1-I] think VAR was spot-on, it looked a penalty to [%person#1-me][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500976-M: [%male#1-I] think VAR was spot-on, it looked a penalty to [%male#1-me][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Myslím, že VAR rozhodl naprosto správně, vypadalo to jako penalta[%male#1-hidden]
+KEY-500976-F: [%female#1-I] think VAR was spot-on, it looked a penalty to [%female#1-me][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Myslím, že VAR rozhodl naprosto správně, vypadalo to jako penalta[%female#1-hidden]
+
+KEY-500977: This was a perfect example of why the technology works. They wanted to take a closer look, they decided it was a penalty, and made the correct decision[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: To byl dokonalý příklad, proč tato technologie funguje. Chtěli se blíže podívat, rozhodli se, že je to penalta, a rozhodli se správně
+
+KEY-500978: We probably got a bit lucky there. [%person#1-I]'d have been furious had it been given against us[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+KEY-500978-M: We probably got a bit lucky there. [%male#1-I]'d have been furious had it been given against us[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Pravděpodobně jsme měli trošku štěstí. Byl bych zuřivý, kdyby to bylo dáno proti nám[%male#1-hidden]
+KEY-500978-F: We probably got a bit lucky there. [%female#1-I]'d have been furious had it been given against us[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Pravděpodobně jsme měli trošku štěstí. Byla bych zuřivá, kdyby to bylo dáno proti nám[%female#1-hidden]
+
+KEY-500979: We've had a real stroke of luck and it's another demonstration that VAR isn't fit for purpose[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3420; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_OWN_TEAM_AWARDED_CONTROVERSIAL_PENALTY_VAR_VERSION]
+STR-1: Měli jsme skutečnou dávku štěstí a je to další ukázka toho, že VAR není vhodný pro daný účel
+
+KEY-500980: There will be much discussion about the decision to send [%male#2] off for violent conduct after VAR intervened. How did [%person#1-you] see it?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+KEY-500980-M: There will be much discussion about the decision to send [%male#2] off for violent conduct after VAR intervened. How did [%male#1-you] see it?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: Po zásahu VAR se bude hodně diskutovat o rozhodnutí vyloučit hráče [%male#2] za hrubé chování. Jak jste to viděl vy? [%male#1-hidden]
+KEY-500980-F: There will be much discussion about the decision to send [%male#2] off for violent conduct after VAR intervened. How did [%female#1-you] see it?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: Po zásahu VAR se bude hodně diskutovat o rozhodnutí vyloučit hráče [%male#2] za hrubé chování. Jak jste to viděla vy? [%female#1-hidden]
+
+KEY-500981: [%person#1-surname] backs VAR over [%male#2-surname] controversy[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+KEY-500981-M: [%male#1-surname] backs VAR over [%male#2-surname] controversy[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: [%male#1-surname] stojí za VAR ohledně vyloučení hráče [%male#2-surname]
+KEY-500981-F: [%female#1-surname] backs VAR over [%male#2-surname] controversy[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: [%female#1-surname] stojí za VAR ohledně vyloučení hráče [%male#2-surname]
+
+KEY-500982: [%person#1-surname] claims VAR got [%male#2-surname] red card right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+KEY-500982-M: [%male#1-surname] claims VAR got [%male#2-surname] red card right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: [%male#1-surname] tvrdí, že VAR vyloučil hráče [%male#2-surname] správně
+KEY-500982-F: [%female#1-surname] claims VAR got [%male#2-surname] red card right[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: [%female#1-surname] tvrdí, že VAR vyloučil hráče [%male#2-surname] správně
+
+KEY-500983: [%person#1-surname] feels [%male#2-surname] was harshly dismissed[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+KEY-500983-M: [%male#1-surname] feels [%male#2-surname] was harshly dismissed[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: [%male#1-surname] má pocit, že vyloučení hráče [%male#2-surname] bylo přísné.
+KEY-500983-F: [%female#1-surname] feels [%male#2-surname] was harshly dismissed[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: [%female#1-surname] má pocit, že vyloučení hráče [%male#2-surname] bylo přísné.
+
+KEY-500984: [%person#1-surname] questions VAR process as [%male#2-surname] sees red[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+KEY-500984-M: [%male#1-surname] questions VAR process as [%male#2-surname] sees red[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: [%male#1-surname] zpochybňuje VAR za udělení červené karty hráči [%male#2-surname]
+KEY-500984-F: [%female#1-surname] questions VAR process as [%male#2-surname] sees red[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: [%female#1-surname] zpochybňuje VAR za udělení červené karty hráči [%male#2-surname]
+
+KEY-500985: [%person#1-I] can't really pass judgement right now[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+KEY-500985-M: [%male#1-I] can't really pass judgement right now[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: Opravdu nyní nemohu soudit[%male#1-hidden]
+KEY-500985-F: [%female#1-I] can't really pass judgement right now[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: Opravdu nyní nemohu soudit[%female#1-hidden]
+
+KEY-500986: [%person#1-I] think VAR got it right. When you look at the replays, there's enough there to justify a red[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+KEY-500986-M: [%male#1-I] think VAR got it right. When you look at the replays, there's enough there to justify a red[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: Myslím, že VAR rozhodl správně. Pokud shlédnete různé záznamy, najdete jich dost abyste červenou ospravedlnili.[%male#1-hidden]
+KEY-500986-F: [%female#1-I] think VAR got it right. When you look at the replays, there's enough there to justify a red[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: Myslím, že VAR rozhodl správně. Pokud shlédnete různé záznamy, najdete jich dost abyste červenou ospravedlnili.[%female#1-hidden]
+
+KEY-500987: It showed the process as it's meant to happen; different angles presented a case for a dismissal, which was ultimately the right call[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: Ukázalo to proces, jak by měl fungovat; záběry z různých úhlů našly důvod pro vyloučení, což bylo správné rozhodnutí
+
+KEY-500988: It was a bit harsh to be honest. If VAR is calling that violent conduct then a lot of players are going to be in trouble[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: Bylo to trochu kruté, abych byl upřímný. Pokud VAR označí toto za násilné chování, pak se spousta hráčů dostane do potíží
+
+KEY-500989: We're only supposed to see VAR intervene when there is clear and obvious evidence to do so. That wasn't the case here[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3421; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_SENT_OFF_FOR_VIOLENT_CONDUCT_VAR_VERSION]
+STR-1: VAR by měl zadáhnout pouze, pokud k tomu existují jasné a zjevné důkazy. Tak tomu zde nebylo
+
+KEY-500990: VAR controversially disallowed [%male#2]{s} goal today. What are [%person#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3422; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_NAMED_PLAYER_VAR_VERSION]
+KEY-500990-M: VAR controversially disallowed [%male#2]{s} goal today. What are [%male#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3422; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_NAMED_PLAYER_VAR_VERSION]
+STR-1: VAR dnes kontroverzně neuznal branku hráče [%male#2]{}. Jaký máte názor na tento incident?[%male#1-hidden]
+KEY-500990-F: VAR controversially disallowed [%male#2]{s} goal today. What are [%female#1-your] thoughts on the incident?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3422; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_REACT_TO_CONTROVERSIAL_DECISION_GOAL_DISALLOWED_NAMED_PLAYER_VAR_VERSION]
+STR-1: VAR dnes kontroverzně neuznal branku hráče [%male#2]{}. Jaký máte názor na tento incident?[%female#1-hidden]
+
+KEY-500991: What was the thinking behind using [%male#2] [%position#1-sentence] ahead of [%male#3]?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: Jaké bylo pozadí upřednostnění hráče [%male#2] na pozici [%position#1-sentence] před hráčem [%male#3]?
+
+KEY-500992: [%person#1-surname] trusts [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+KEY-500992-M: [%male#1-surname] trusts [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: [%male#1-surname] věří hráči [%male#2-surname]
+KEY-500992-F: [%female#1-surname] trusts [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: [%female#1-surname] věří hráči [%male#2-surname]
+
+KEY-500993: [%person#1-surname]: [%male#2-surname] gives us something more[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+KEY-500993-M: [%male#1-surname]: [%male#2-surname] gives us something more[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: [%male#1-surname]: [%male#2-surname] nám dává něco navíc
+KEY-500993-F: [%female#1-surname]: [%male#2-surname] gives us something more[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: [%female#1-surname]: [%male#2-surname] nám dává něco navíc
+
+KEY-500994: [%person#1-surname] explains team selection[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+KEY-500994-M: [%male#1-surname] explains team selection[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: [%male#1-surname] vysvětluje výběr sestavy
+KEY-500994-F: [%female#1-surname] explains team selection[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: [%female#1-surname] vysvětluje výběr sestavy
+
+KEY-500995: [%person#1-surname] wants more from [%male#3-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+KEY-500995-M: [%male#1-surname] wants more from [%male#3-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: [%male#1-surname] očekává více od hráče [%male#3-surname]
+KEY-500995-F: [%female#1-surname] wants more from [%male#3-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: [%female#1-surname] očekává více od hráče [%male#3-surname]
+
+KEY-500996: [%person#1-I]'d prefer to keep [%person#1-my] thoughts private for the time being[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+KEY-500996-M: [%male#1-I]'d prefer to keep [%male#1-my] thoughts private for the time being[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: Raději bych své myšlenky nechal prozatím soukromé[%male#1-hidden][%male#1-hidden]
+KEY-500996-F: [%female#1-I]'d prefer to keep [%female#1-my] thoughts private for the time being[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: Raději bych své myšlenky nechala prozatím soukromé[%female#1-hidden][%female#1-hidden]
+
+KEY-500997: [%person#1-I] trust him implicitly, even if it's not his ideal position, and we needed him there today[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+KEY-500997-M: [%male#1-I] trust him implicitly, even if it's not his ideal position, and we needed him there today[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: Implicitně mu věřím, i když to není jeho ideální pozice, a dnes jsme ho tam potřebovali[%male#1-hidden]
+KEY-500997-F: [%female#1-I] trust him implicitly, even if it's not his ideal position, and we needed him there today[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: Implicitně mu věřím, i když to není jeho ideální pozice, a dnes jsme ho tam potřebovali[%female#1-hidden]
+
+KEY-500998: He's in good form and deserves to be playing[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: Je v dobré formě a zaslouží si hrát
+
+KEY-500999: [%person#1-I] just put out the eleven [%person#1-I] thought would give us the best chance of winning[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+KEY-500999-M: [%male#1-I] just put out the eleven [%male#1-I] thought would give us the best chance of winning[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: Poslal jsem tam jedenáctku, o které jsem byl převědčen, že má největší šanci vyhrát[%male#1-hidden][%male#1-hidden]
+KEY-500999-F: [%female#1-I] just put out the eleven [%female#1-I] thought would give us the best chance of winning[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: Poslal jsem tam jedenáctku, o které jsem byl převědčen, že má největší šanci vyhrát[%female#1-hidden][%female#1-hidden]
+
+KEY-501000: [%male#3-surname] needs to give us a little bit more; it's nothing personal, but he needs to raise his game[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3445; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_POSITION_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_POSITION]
+STR-1: [%male#3-surname] nám musí dát trochu víc; není to nic osobního, ale musí zlepšit svoji hru
+
+KEY-501001: What was the thinking behind using [%male#2] ahead of [%male#3] as {an}[%tactical_role#1]?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3446; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_IDEAL_ROLE_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_ROLE]
+STR-1: Jaké bylo pozadí upřednostnění hráče [%male#2] před [%male#3] v roli {}[%tactical_role#1]?
+
+KEY-501002: [%person#1-I] trust him implicitly, even if it's not his ideal role, and we needed him to play a different type of game today[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3446; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_IDEAL_ROLE_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_ROLE]
+KEY-501002-M: [%male#1-I] trust him implicitly, even if it's not his ideal role, and we needed him to play a different type of game today[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3446; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_IDEAL_ROLE_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_ROLE]
+STR-1: 
+KEY-501002-F: [%female#1-I] trust him implicitly, even if it's not his ideal role, and we needed him to play a different type of game today[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3446; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_IDEAL_ROLE_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_ROLE]
+STR-1: Implicitně mu věřím, i když to není jeho ideální role, a dnes jsme potřebovali, aby hrál jiný způsob hry
+
+KEY-501003: He gives us something extra by playing in that role and deserves to be there right now[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3446; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_PLAYER_OUT_OF_IDEAL_ROLE_PLAYING_AHEAD_OF_SOMEONE_NATURAL_IN_ROLE]
+STR-1: Tím, že hraje v této roli, nám dává něco navíc a zaslouží si hrát právě teď
+
+KEY-501004: [%male#2] is unsettled and was left out of the team today. What does his future hold?[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: [%male#2] je neklidný a dnes byl vynechán z týmu. Jaká je jeho budoucnost?
+
+KEY-501005: [%person#1-surname] keeps door open for [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+KEY-501005-M: [%male#1-surname] keeps door open for [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: [%male#1-surname] nechává pro hráče [%male#2-surname] dveře otevřené
+KEY-501005-F: [%female#1-surname] keeps door open for [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: [%male#1-surname] nechává pro hráče [%male#2-surname] dveře otevřené
+
+KEY-501006: [%person#1-surname] wants [%male#2-surname] to prove his commitment to [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+KEY-501006-M: [%male#1-surname] wants [%male#2-surname] to prove his commitment to [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: [%male#1-surname] chce, aby [%male#2-surname] prokázal svůj závazek vůči týmu [%team#1-short]
+KEY-501006-F: [%female#1-surname] wants [%male#2-surname] to prove his commitment to [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: [%female#1-surname] chce, aby [%male#2-surname] prokázal svůj závazek vůči týmu [%team#1-short]
+
+KEY-501007: [%person#1-surname] planning for future without [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+KEY-501007-M: [%male#1-surname] planning for future without [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: [%male#1-surname] plánuje budoucnost bez hráče [%male#2-surname]
+KEY-501007-F: [%female#1-surname] planning for future without [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: [%female#1-surname] plánuje budoucnost bez hráče [%male#2-surname]
+
+KEY-501008: [%person#1-surname] calls time on [%male#2-surname]{s} [%team#1-short] career[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE, to call time on something is to bring it to an end]
+KEY-501008-M: [%male#1-surname] calls time on [%male#2-surname]{s} [%team#1-short] career[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE, to call time on something is to bring it to an end]
+STR-1: [%male#1-surname] volá po konci hráče [%male#2-surname]{} v týmu [%team#1-short]
+KEY-501008-F: [%female#1-surname] calls time on [%male#2-surname]{s} [%team#1-short] career[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE, to call time on something is to bring it to an end]
+STR-1: [%female#1-surname] volá po konci hráče [%male#2-surname]{} v týmu [%team#1-short]
+
+KEY-501009: That's something you need to ask him[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: Na toto se musíte zeptat jeho
+
+KEY-501010: [%person#1-I] didn't pick him today but the door certainly isn't closed. As long as he's {an}[%team#1-short] player he's a part of [%person#1-my] plans[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+KEY-501010-M: [%male#1-I] didn't pick him today but the door certainly isn't closed. As long as he's {an}[%team#1-short] player he's a part of [%male#1-my] plans[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: Dnes jsem si ho nevybral, ale dveře rozhodně nemá zavřené. Dokud je hráčem týmu {}[%team#1-short] je i součástí mých plánů[%male#1-hidden][%male#1-hidden]
+KEY-501010-F: [%female#1-I] didn't pick him today but the door certainly isn't closed. As long as he's {an}[%team#1-short] player he's a part of [%female#1-my] plans[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: Dnes jsem si ho nevybrala, ale dveře rozhodně nemá zavřené. Dokud je hráčem týmu {}[%team#1-short] je i součástí mých plánů[%female#1-hidden][%female#1-hidden]
+
+KEY-501011: It's up to him now. If he wants to play for us, he has to display the right attitude and commitment[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: Teď je to na něm. Pokud chce za nás hrát, musí projevit správný přístup a odhodlání
+
+KEY-501012: It's nothing personal but, given the state of play, we have to plan for a future without him[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: Není to nic osobního, ale vzhledem k současnému stavu musíme plánovat budoucnost bez něj
+
+KEY-501013: He's made it clear that he doesn't want to be here anymore so, as far as [%person#1-I]'m concerned, it's time to move on without him[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+KEY-501013-M: He's made it clear that he doesn't want to be here anymore so, as far as [%male#1-I]'m concerned, it's time to move on without him[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: Dal jasně najevo, že tu už nechce být, takže pokud jde o mě, je čas řešit budoucnost bez něj[%male#1-hidden]
+KEY-501013-F: He's made it clear that he doesn't want to be here anymore so, as far as [%female#1-I]'m concerned, it's time to move on without him[COMMENT: AREA: Press Conferences; SUB-AREA: Post Match Reaction; FR-BN: QID 3448; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_UNSETTLED_PLAYER_LEFT_OUT_OF_TEAM_ASK_ABOUT_FUTURE]
+STR-1: Dal jasně najevo, že tu už nechce být, takže pokud jde o mě, je čas řešit budoucnost bez něj[%female#1-hidden]
+
+KEY-501014: Angry that the team does not pose a threat when counter-attacking.[COMMENT: AREA: Confidence; SUB-AREA: Tactics Confidence; FR-BN: 28245; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: tactics confidence string]
+STR-1: Rozzlobený, že tým při protiútocích nepředstavuje hrozbu.
+
+KEY-501015: Home-grown player from same nation (trained for [%number#1] years between ages of [%number#2] and [%number#3])[COMMENT: AREA: Hint text for player status flag; FR: 30290; TONE: Formal; CHARLIMIT: None]
+STR-1: Domácí hráč stejné národnosti (trénován let: [%number#1], ve věku [%number#2] až [%number#3])
+
+KEY-501016: [%person#2], seeking to replace the outgoing [%job#1], has made headlines by promising to investigate the opportunity of building a brand new stadium which [%person#2-he] envisages as being able to catapult the club into a new era of success.[COMMENT: AREA: Media and News; SUB-AREA: Board Takeovers; FR-BN: 28163; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: speculation about changes a new chairman might make]
+KEY-501016-M: [%male#2], seeking to replace the outgoing [%job#1], has made headlines by promising to investigate the opportunity of building a brand new stadium which [%male#2-he] envisages as being able to catapult the club into a new era of success.[COMMENT: AREA: Media and News; SUB-AREA: Board Takeovers; FR-BN: 28163; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: speculation about changes a new chairman might make]
+STR-1: [%male#2], snažící se nahradit odcházející personál([%job#1]), se dostal na titulní stranu tím, že slíbil prozkoumat možnosti výstavby zcela nového stadionu, o kterém si myslí, že je schopen katapultovat klub do nové éry úspěchu.[%male#2-hidden]
+KEY-501016-F: [%female#2], seeking to replace the outgoing [%job#1], has made headlines by promising to investigate the opportunity of building a brand new stadium which [%female#2-she] envisages as being able to catapult the club into a new era of success.[COMMENT: AREA: Media and News; SUB-AREA: Board Takeovers; FR-BN: 28163; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: speculation about changes a new chairman might make]
+STR-1: [%female#2], snažící se nahradit odcházející personál([%job#1]), se dostala na titulní stranu tím, že slíbila prozkoumat možnosti výstavby zcela nového stadionu, o kterém si myslí, že je schopen katapultovat klub do nové éry úspěchu.[%female#2-hidden]
+
+KEY-501017: It was a day to remember for [%number#3] year-old [%city#1]-born [%position#1-lowercase] [%male#1] as he launched his [%team#1-short] career in impressive fashion with [%number#2-text] goals in [%scoreline#1-long].[COMMENT: AREA: News and Media; SUB-AREA: Player Debut News; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: PLAYER_CLUB_DEBUT_NEWS; news item]
+STR-1: Byl to den, který by si měl [%male#1], [%number#3] let starý rodák z města [%city#1], zapamatovat, neboť započal svou kariéru v týmu [%team#1-short] působivým způsobem - prosadil se [%number#2] krát v zápase [%scoreline#1-long].
+
+KEY-501018: It was a day to remember for [%number#3] year-old [%position#1-lowercase] [%male#1] as he made an impressive start to his [%team#1-short] career after coming on as a [%number#1-nth] minute substitute in [%scoreline#1-long].[COMMENT: AREA: News and Media; SUB-AREA: Player Debut News; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: PLAYER_CLUB_DEBUT_NEWS; news item]
+STR-1: Byl to den, který by si měl [%male#1], [%number#3] let starý [%position#1-lowercase], zapamatovat, protože měl impozantní vstup do klubu [%team#1-short] poté, co nastoupil jako nahrádaník od [%number#1]. minuty v zápase [%scoreline#1-long].
+
+KEY-501020: It feels like [%person#2-you]'ve been criticising player conduct a little too often.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501020-M: It feels like [%male#2-you]'ve been criticising player conduct a little too often.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Cítím se, jako byste příliš často kriztizovali chování hráče.[%male#2-hidden]
+KEY-501020-F: It feels like [%female#2-you]'ve been criticising player conduct a little too often.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Cítím se, jako byste příliš často kriztizovali chování hráče.[%female#2-hidden]
+
+KEY-501021: This isn't the first time [%person#2-you]'ve criticised player conduct and it's getting a bit tiresome.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501021-M: This isn't the first time [%male#2-you]'ve criticised player conduct and it's getting a bit tiresome.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Není to poprvé, co jste kritizovali chování hráče, a začíná to být trochu únavné.[%male#2-hidden]
+KEY-501021-F: This isn't the first time [%female#2-you]'ve criticised player conduct and it's getting a bit tiresome.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Není to poprvé, co jste kritizovali chování hráče, a začíná to být trochu únavné.[%female#2-hidden]
+
+KEY-501022: Why are [%person#2-you] criticising player conduct again?[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501022-M: Why are [%male#2-you] criticising player conduct again?[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč opět kritizujete chování hráče?[%male#2-hidden]
+KEY-501022-F: Why are [%female#2-you] criticising player conduct again?[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč opět kritizujete chování hráče?[%female#2-hidden]
+
+KEY-501023: [%person#1-I]'ll criticise conduct where that conduct hasn't been acceptable. It's as simple as that.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: manager talking to player]
+KEY-501023-M: [%male#1-I]'ll criticise conduct where that conduct hasn't been acceptable. It's as simple as that.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: manager talking to player]
+STR-1: Budu kritizovat chování tehdy, když toto chování není přijatelné. Je to tak jednoduché.[%male#1-hidden]
+KEY-501023-F: [%female#1-I]'ll criticise conduct where that conduct hasn't been acceptable. It's as simple as that.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: manager talking to player]
+STR-1: Budu kritizovat chování tehdy, když toto chování není přijatelné. Je to tak jednoduché.[%female#1-hidden]
+
+KEY-501024: [%person#2-You]'re the manager, that sounds fair enough to me.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501024-M: [%male#2-You]'re the manager, that sounds fair enough to me.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Vy jste manažer, to mi zní fér.[%male#2-hidden]
+KEY-501024-F: [%female#2-You]'re the manager, that sounds fair enough to me.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Vy jste manažer, to mi zní fér.[%female#2-hidden]
+
+KEY-501025: Okay, I guess that makes sense.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: 
+
+KEY-501026: Fine, I won't say any more on the subject.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Dobře, myslím, že to dává smysl.
+
+KEY-501027: I don't think it's appropriate this time, that's all I wanted to say.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Nemyslím si, že je to tentokrát vhodné, to je vše, co jsem chtěl říct.
+
+KEY-501028: I'm afraid I can't agree with that right now.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Obávám se, že s tím teď nemohu souhlasit.
+
+KEY-501029: [%person#2-You]'re out of order acting like this.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501029-M: [%male#2-You]'re out of order acting like this.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Jste úplně mimo takovým herectvím. [%male#2-hidden]
+KEY-501029-F: [%female#2-You]'re out of order acting like this.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Jste úplně mimo takovým herectvím. [%female#2-hidden]
+
+KEY-501030: I don't mind criticism where it's justified but I don't believe my ambassadorial duties warrant such criticism.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager about ambassadorial duties, which is basically asking them to welcome new players to the club]
+STR-1: Nevadí mi kritika tam, kde je to oprávněné, ale nevěřím, že mé zástupcovy povinnosti takovou kritiku vyžadují.
+
+KEY-501031: If [%person#2-you] can justify it, fine, but I thought I handled my ambassadorial duties just fine.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager, which is basically asking them to welcome new players to the club]
+KEY-501031-M: If [%male#2-you] can justify it, fine, but I thought I handled my ambassadorial duties just fine.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager, which is basically asking them to welcome new players to the club]
+STR-1: Pokud to dokážete ospravedlnit, dobře, ale myslel jsem si, že své zástupcovy povinnosti zvládám v pohodě.[%male#2-hidden]
+KEY-501031-F: If [%female#2-you] can justify it, fine, but I thought I handled my ambassadorial duties just fine.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager, which is basically asking them to welcome new players to the club]
+STR-1: Pokud to dokážete ospravedlnit, dobře, ale myslel jsem si, že své zástupcovy povinnosti zvládám v pohodě.[%female#2-hidden]
+
+KEY-501032: [%person#2-You] can't justify this particular criticism though, and that's the problem I have right now.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager, which is basically asking them to welcome new players to the club]
+KEY-501032-M: [%male#2-You] can't justify this particular criticism though, and that's the problem I have right now.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager, which is basically asking them to welcome new players to the club]
+STR-1: Tuto konkrétní kritiku však nemůžete ospravedlnit, a to je problém, který právě teď mám.[%male#2-hidden]
+KEY-501032-F: [%female#2-You] can't justify this particular criticism though, and that's the problem I have right now.[COMMENT: AREA: Interaction; SUB-AREA: Player Criticise Conduct; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager, which is basically asking them to welcome new players to the club]
+STR-1: Tuto konkrétní kritiku však nemůžete ospravedlnit, a to je problém, který právě teď mám.[%female#2-hidden]
+
+KEY-501033: It feels like [%person#2-you] always want to give players a rest.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501033-M: It feels like [%male#2-you] always want to give players a rest.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Vypadá to, že hráčům vždy chcete dát odpočinek.[%male#2-hidden]
+KEY-501033-F: It feels like [%female#2-you] always want to give players a rest.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Vypadá to, že hráčům vždy chcete dát odpočinek.[%female#2-hidden]
+
+KEY-501034: [%person#2-You] talk about giving players a rest quite a lot. Don't [%person#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501034-M: [%male#2-You] talk about giving players a rest quite a lot. Don't [%male#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Mluvíte o tom, že si hráči mohou hodně odpočinout. Nemyslíte si, že je to trochu zbytečné?[%male#2-hidden][%male#2-hidden]
+KEY-501034-F: [%female#2-You] talk about giving players a rest quite a lot. Don't [%female#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Mluvíte o tom, že si hráči mohou hodně odpočinout. Nemyslíte si, že je to trochu zbytečné?[%female#2-hidden][%female#2-hidden]
+
+KEY-501035: Why are [%person#2-you] so keen to rest players?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501035-M: Why are [%male#2-you] so keen to rest players?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak rád necháváte hráče odpočívat?[%male#2-hidden]
+KEY-501035-F: Why are [%female#2-you] so keen to rest players?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak ráda necháváte hráče odpočívat?[%female#2-hidden]
+
+KEY-501036: It feels like [%person#2-you] always want to give players a long rest.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501036-M: It feels like [%male#2-you] always want to give players a long rest.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Vypadá to, že hráčům vždy chcete dát dlouhý odpočinek.[%male#2-hidden]
+KEY-501036-F: It feels like [%female#2-you] always want to give players a long rest.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Vypadá to, že hráčům vždy chcete dát dlouhý odpočinek.[%female#2-hidden]
+
+KEY-501037: [%person#2-You] talk about giving players a long rest quite a lot. Don't [%person#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501037-M: [%male#2-You] talk about giving players a long rest quite a lot. Don't [%male#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Mluvíte o tom, že si hráči mohou hodně dlouho odpočinout. Nemyslíte si, že je to trochu zbytečné?[%male#2-hidden][%male#2-hidden]
+KEY-501037-F: [%female#2-You] talk about giving players a long rest quite a lot. Don't [%female#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Mluvíte o tom, že si hráči mohou hodně dlouho odpočinout. Nemyslíte si, že je to trochu zbytečné?[%female#2-hidden][%female#2-hidden]
+
+KEY-501038: Why are [%person#2-you] so keen to rest players for such a long time?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501038-M: Why are [%male#2-you] so keen to rest players for such a long time?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak dlouho chcete nechat odpočívat hráče?[%male#2-hidden]
+KEY-501038-F: Why are [%female#2-you] so keen to rest players for such a long time?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak dlouho chcete nechat odpočívat hráče?[%female#2-hidden]
+
+KEY-501039: [%person#2-You] talk about giving players a month's rest quite a lot. Don't [%person#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501039-M: [%male#2-You] talk about giving players a month's rest quite a lot. Don't [%male#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Mluvíte o tom, že hráčům poskytnete měsíce dlouhý odpočinek. Nemyslíte si, že je to trochu zbytečné?[%male#2-hidden][%male#2-hidden]
+KEY-501039-F: [%female#2-You] talk about giving players a month's rest quite a lot. Don't [%female#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Mluvíte o tom, že hráčům poskytnete měsíce dlouhý odpočinek. Nemyslíte si, že je to trochu zbytečné?[%female#2-hidden][%female#2-hidden]
+
+KEY-501040: Why are [%person#2-you] so keen to rest players for as long as a month?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501040-M: Why are [%male#2-you] so keen to rest players for as long as a month?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak rád necháváte odpočívat hráče i celý měsíc?[%male#2-hidden]
+KEY-501040-F: Why are [%female#2-you] so keen to rest players for as long as a month?[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak ráda necháváte odpočívat hráče i celý měsíc?[%female#2-hidden]
+
+KEY-501041: [%person#1-I] know what [%person#1-my] players need and, if [%person#1-I] think a rest is needed, they'll get a rest.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: manager talking to player]
+KEY-501041-M: [%male#1-I] know what [%male#1-my] players need and, if [%male#1-I] think a rest is needed, they'll get a rest.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: manager talking to player]
+STR-1: Vím, co moji hráči potřebují a pokud si myslím, že je třeba aby si odpočinuli, tak dostanou odpočinek.[%male#1-hidden][%male#1-hidden][%male#1-hidden]
+KEY-501041-F: [%female#1-I] know what [%female#1-my] players need and, if [%female#1-I] think a rest is needed, they'll get a rest.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: manager talking to player]
+STR-1: Vím, co moji hráči potřebují a pokud si myslím, že je třeba aby si odpočinuli, tak dostanou odpočinek.[%female#1-hidden][%female#1-hidden][%female#1-hidden]
+
+KEY-501042: That sounds very fair to me, thanks.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Díky, to pro mě zní férově.
+
+KEY-501043: [%person#2-You] make a good point, forget I said anything.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501043-M: [%male#2-You] make a good point, forget I said anything.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Dobrá poznámka, zapomeňte na to, co jsem řekl.[%male#2-hidden]
+KEY-501043-F: [%female#2-You] make a good point, forget I said anything.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Dobrá poznámka, zapomeňte na to, co jsem řekl.[%female#2-hidden]
+
+KEY-501044: If that's the way [%person#2-you] want to run things, I won't disagree.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501044-M: If that's the way [%male#2-you] want to run things, I won't disagree.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Pokud chcete řídit věci takhle, nebudu nesouhlasit.[%male#2-hidden]
+KEY-501044-F: If that's the way [%female#2-you] want to run things, I won't disagree.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Pokud chcete řídit věci takhle, nebudu nesouhlasit.[%female#2-hidden]
+
+KEY-501045: I think [%person#2-you] overestimate how much rest players need.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501045-M: I think [%male#2-you] overestimate how much rest players need.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Myslím, že přeceňujete, kolik odpočinku hráči potřebují.[%male#2-hidden]
+KEY-501045-F: I think [%female#2-you] overestimate how much rest players need.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Myslím, že přeceňujete, kolik odpočinku hráči potřebují.[%female#2-hidden]
+
+KEY-501046: [%person#2-You] don't seem to have a strong grasp over how much rest we need.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501046-M: [%male#2-You] don't seem to have a strong grasp over how much rest we need.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Nezdá se, že byste dostatečně chápal, kolik odpočinku potřebujeme.[%male#2-hidden]
+KEY-501046-F: [%female#2-You] don't seem to have a strong grasp over how much rest we need.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Nezdá se, že byste dostatečně chápala, kolik odpočinku potřebujeme.[%female#2-hidden]
+
+KEY-501047: It seems [%person#2-you] really don't understand how much rest we need.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501047-M: It seems [%male#2-you] really don't understand how much rest we need.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Zdá se, že opravdu nechápete, kolik odpočinku potřebujeme.[%male#2-hidden]
+KEY-501047-F: It seems [%female#2-you] really don't understand how much rest we need.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Zdá se, že opravdu nechápete, kolik odpočinku potřebujeme.[%female#2-hidden]
+
+KEY-501048: I think [%person#2-your] intentions are good but we don't always need a rest.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501048-M: I think [%male#2-your] intentions are good but we don't always need a rest.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Myslím, že vaše úmysly jsou dobré, ale my nepotřebujeme pokaždé odpočinek.[%male#2-hidden]
+KEY-501048-F: I think [%female#2-your] intentions are good but we don't always need a rest.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Myslím, že vaše úmysly jsou dobré, ale my nepotřebujeme pokaždé odpočinek.[%female#2-hidden]
+
+KEY-501049: I appreciate the intent but I don't think a rest is needed here.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Oceňuji záměr, ale nemyslím si, že by nyní bylo zapotřebí odpočívat.
+
+KEY-501050: I know where [%person#2-you]'re coming from but, on this occasion at least, this isn't the way to handle things.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager and still disagrees about being given a rest]
+KEY-501050-M: I know where [%male#2-you]'re coming from but, on this occasion at least, this isn't the way to handle things.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager and still disagrees about being given a rest]
+STR-1: Vím, odkud přicházíte, ale přinejmenším v tomto případě to není způsob řešení věcí.[%male#2-hidden]
+KEY-501050-F: I know where [%female#2-you]'re coming from but, on this occasion at least, this isn't the way to handle things.[COMMENT: AREA: Interaction; SUB-AREA: Give Player Rest; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager and still disagrees about being given a rest]
+STR-1: Vím, odkud přicházíte, ale přinejmenším v tomto případě to není způsob řešení věcí.[%female#2-hidden]
+
+KEY-501051: It feels like [%person#2-you]'re very keen to praise players for doing well in training. Don't [%person#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501051-M: It feels like [%male#2-you]'re very keen to praise players for doing well in training. Don't [%male#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Mám pocit, jako byste velmi rád chválil hráče za to, že se jim v tréninku daří. Nemyslíte si, že je to trochu zbytečné?[%male#2-hidden][%male#2-hidden]
+KEY-501051-F: It feels like [%female#2-you]'re very keen to praise players for doing well in training. Don't [%female#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Mám pocit, jako byste velmi ráda chválila hráče za to, že se jim v tréninku daří. Nemyslíte si, že je to trochu zbytečné?[%female#2-hidden][%female#2-hidden]
+
+KEY-501052: [%person#2-You] praise players for doing well in training so often that I'm worried it could lead to complacency.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501052-M: [%male#2-You] praise players for doing well in training so often that I'm worried it could lead to complacency.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Chválíte hráče za to, že se jim na tréninku daří tak často, že se obávám, že by to mohlo vést k uspokojení.[%male#2-hidden]
+KEY-501052-F: [%female#2-You] praise players for doing well in training so often that I'm worried it could lead to complacency.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Chválíte hráče za to, že se jim na tréninku daří tak často, že se obávám, že by to mohlo vést k uspokojení.[%female#2-hidden]
+
+KEY-501053: Why are [%person#2-you] so quick to praise training performances? It seems to happen so often that it barely means anything anymore.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501053-M: Why are [%male#2-you] so quick to praise training performances? It seems to happen so often that it barely means anything anymore.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak rychle chválíte tréninkové výkony? Zdá se, že se to stává tak často, že to už sotva něco znamená.[%male#2-hidden]
+KEY-501053-F: Why are [%female#2-you] so quick to praise training performances? It seems to happen so often that it barely means anything anymore.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak rychle chválíte tréninkové výkony? Zdá se, že se to stává tak často, že to už sotva něco znamená.[%female#2-hidden]
+
+KEY-501054: It feels like [%person#2-you]'re very keen to praise players for improvements in training. Don't [%person#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501054-M: It feels like [%male#2-you]'re very keen to praise players for improvements in training. Don't [%male#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Mám pocit, jako byste velmi rád chvílil hráče za zlepšení v tréninku. Nemyslíte si, že je to trochu zbytečné?[%male#2-hidden][%male#2-hidden]
+KEY-501054-F: It feels like [%female#2-you]'re very keen to praise players for improvements in training. Don't [%female#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Mám pocit, jako byste velmi ráda chvílila hráče za zlepšení v tréninku. Nemyslíte si, že je to trochu zbytečné?[%female#2-hidden][%female#2-hidden]
+
+KEY-501055: [%person#2-You] praise players for improvements in training so often that I'm worried it could lead to complacency.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501055-M: [%male#2-You] praise players for improvements in training so often that I'm worried it could lead to complacency.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Chválíte hráče za to, že se v tréninku zlepšili tak často, že se obávám, že by to mohlo vést k uspokojení.[%male#2-hidden]
+KEY-501055-F: [%female#2-You] praise players for improvements in training so often that I'm worried it could lead to complacency.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Chválíte hráče za to, že se v tréninku zlepšili tak často, že se obávám, že by to mohlo vést k uspokojení.[%female#2-hidden]
+
+KEY-501056: Why are [%person#2-you] so quick to praise improved training performances? It seems to happen so often that it barely means anything anymore.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501056-M: Why are [%male#2-you] so quick to praise improved training performances? It seems to happen so often that it barely means anything anymore.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak rychle chválíte zlepšení v tréninku? Zdá se, že se to stává tak často, že to už sotva něco znamená.[%male#2-hidden]
+KEY-501056-F: Why are [%female#2-you] so quick to praise improved training performances? It seems to happen so often that it barely means anything anymore.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak rychle chválíte zlepšení v tréninku? Zdá se, že se to stává tak často, že to už sotva něco znamená.[%female#2-hidden]
+
+KEY-501057: It feels like [%person#2-you]'re too keen to praise players for training well in a new position. Don't [%person#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501057-M: It feels like [%male#2-you]'re too keen to praise players for training well in a new position. Don't [%male#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Vypadá to, že máte příliš velký zájem chválit hráče za to, že dobře trénují na nové pozici. Nemyslíte si, že je to trochu zbytečné?[%male#2-hidden][%male#2-hidden]
+KEY-501057-F: It feels like [%female#2-you]'re too keen to praise players for training well in a new position. Don't [%female#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Vypadá to, že máte příliš velký zájem chválit hráče za to, že dobře trénují na nové pozici. Nemyslíte si, že je to trochu zbytečné?[%female#2-hidden][%female#2-hidden]
+
+KEY-501058: [%person#2-You] praise players for training well in a new position so often that I'm worried it could lead to complacency.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501058-M: [%male#2-You] praise players for training well in a new position so often that I'm worried it could lead to complacency.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Chválíte hráče za to, že se v tréninku na nové pozici zlepšují tak často, že se obávám, že by to mohlo vést k uspokojení.[%male#2-hidden]
+KEY-501058-F: [%female#2-You] praise players for training well in a new position so often that I'm worried it could lead to complacency.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Chválíte hráče za to, že se v tréninku na nové pozici zlepšují tak často, že se obávám, že by to mohlo vést k uspokojení.[%female#2-hidden]
+
+KEY-501059: Why are [%person#2-you] so quick to praise players for training well in a new position? It seems to happen so often that it barely means anything anymore.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501059-M: Why are [%male#2-you] so quick to praise players for training well in a new position? It seems to happen so often that it barely means anything anymore.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak rychle chválíte zlepšení v tréninku na nové pozici? Zdá se, že se to stává tak často, že to už sotva něco znamená.[%male#2-hidden]
+KEY-501059-F: Why are [%female#2-you] so quick to praise players for training well in a new position? It seems to happen so often that it barely means anything anymore.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak rychle chválíte zlepšení v tréninku na nové pozici? Zdá se, že se to stává tak často, že to už sotva něco znamená.[%female#2-hidden]
+
+KEY-501060: It feels like [%person#2-you]'re very keen to praise players for training well in a new role. Don't [%person#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501060-M: It feels like [%male#2-you]'re very keen to praise players for training well in a new role. Don't [%male#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Vypadá to, že máte příliš velký zájem chválit hráče za to, že dobře trénují na nové roli. Nemyslíte si, že je to trochu zbytečné?[%male#2-hidden][%male#2-hidden]
+KEY-501060-F: It feels like [%female#2-you]'re very keen to praise players for training well in a new role. Don't [%female#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Vypadá to, že máte příliš velký zájem chválit hráče za to, že dobře trénují na nové roli. Nemyslíte si, že je to trochu zbytečné?[%female#2-hidden][%female#2-hidden]
+
+KEY-501061: [%person#2-You] praise players for training well in a new role so often that I'm worried it could lead to complacency.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501061-M: [%male#2-You] praise players for training well in a new role so often that I'm worried it could lead to complacency.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Chválíte hráče za to, že se v tréninku na novou roli zlepšují tak často, že se obávám, že by to mohlo vést k uspokojení.[%male#2-hidden]
+KEY-501061-F: [%female#2-You] praise players for training well in a new role so often that I'm worried it could lead to complacency.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Chválíte hráče za to, že se v tréninku na novou roli zlepšují tak často, že se obávám, že by to mohlo vést k uspokojení.[%female#2-hidden]
+
+KEY-501062: Why are [%person#2-you] so quick to praise players for training well in a new role? It seems to happen so often that it barely means anything anymore.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501062-M: Why are [%male#2-you] so quick to praise players for training well in a new role? It seems to happen so often that it barely means anything anymore.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak rychle chválíte zlepšení v tréninku na novou roli? Zdá se, že se to stává tak často, že to už sotva něco znamená.[%male#2-hidden]
+KEY-501062-F: Why are [%female#2-you] so quick to praise players for training well in a new role? It seems to happen so often that it barely means anything anymore.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč tak rychle chválíte zlepšení v tréninku na novou roli? Zdá se, že se to stává tak často, že to už sotva něco znamená.[%female#2-hidden]
+
+KEY-501063: [%person#1-I] think players need to be told they're doing well and it can only boost their confidence.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: manager talking to player]
+KEY-501063-M: [%male#1-I] think players need to be told they're doing well and it can only boost their confidence.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: manager talking to player]
+STR-1: Myslím si, že hráčům je třeba říct, že se jim daří, a to může jen posílit jejich sebevědomí.[%male#1-hidden]
+KEY-501063-F: [%female#1-I] think players need to be told they're doing well and it can only boost their confidence.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: manager talking to player]
+STR-1: Myslím si, že hráčům je třeba říct, že se jim daří, a to může jen posílit jejich sebevědomí.[%female#1-hidden]
+
+KEY-501064: That's fair enough, I appreciate it.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: To je dost fér, vážím si toho.
+
+KEY-501065: [%person#2-You]'re right, a little praise never goes amiss. Thanks for explaining.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501065-M: [%male#2-You]'re right, a little praise never goes amiss. Thanks for explaining.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Máte pravdu, malá chvála nikdy nezaškodí. Díky za vysvětlení.[%male#2-hidden]
+KEY-501065-F: [%female#2-You]'re right, a little praise never goes amiss. Thanks for explaining.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Máte pravdu, malá chvála nikdy nezaškodí. Díky za vysvětlení.[%female#2-hidden]
+
+KEY-501066: If [%person#2-you] want to praise people, don't let me stop [%person#2-you].[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501066-M: If [%male#2-you] want to praise people, don't let me stop [%male#2-you].[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Pokud chcete lidi pochválit, nedovolte mi zastavit vás.[%male#2-hidden][%male#2-hidden]
+KEY-501066-F: If [%female#2-you] want to praise people, don't let me stop [%female#2-you].[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Pokud chcete lidi pochválit, nedovolte mi zastavit vás.[%female#2-hidden][%female#2-hidden]
+
+KEY-501067: I just don't think it's justified on this occasion.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Jen si nemyslím, že je to při této příležitosti oprávněné.
+
+KEY-501068: I'd feel happier knowing I deserved it and I think other players would agree.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Cítil bych se šťastnější, kdybych věděl, že si to zasloužím, a myslím, že ostatní hráči by souhlasili.
+
+KEY-501069: If [%person#2-you]'re going to praise players when they don't deserve it, there will be problems.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501069-M: If [%male#2-you]'re going to praise players when they don't deserve it, there will be problems.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Pokud budete chválit hráče, když si to nezaslouží, nastanou problémy.[%male#2-hidden]
+KEY-501069-F: If [%female#2-you]'re going to praise players when they don't deserve it, there will be problems.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Pokud budete chválit hráče, když si to nezaslouží, nastanou problémy.[%female#2-hidden]
+
+KEY-501070: I don't mind praise when it's deserved, but it doesn't feel like it was this time.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Nevadí mi chvála, když si ji zasloužím, ale nemám pocit, tomu tak bylo tentokrát.
+
+KEY-501071: I have no problem receiving praise, it just felt undeserved this time.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Nemám problém přijmout chválu, tentokrát mi to připadalo nezasloužené.
+
+KEY-501072: Keep on praising players if [%person#2-you] want, just make sure it's warranted.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501072-M: Keep on praising players if [%male#2-you] want, just make sure it's warranted.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Chvalte si hráče jak chcete, jen se ujistěte, že je to oprávněné.[%male#2-hidden]
+KEY-501072-F: Keep on praising players if [%female#2-you] want, just make sure it's warranted.[COMMENT: AREA: Interaction; SUB-AREA: Praise Training Level; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Chvalte si hráče jak chcete, jen se ujistěte, že je to oprávněné.[%female#2-hidden]
+
+KEY-501073: It feels like [%person#2-you] keep asking me to recommend the club to other players. Don't [%person#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501073-M: It feels like [%male#2-you] keep asking me to recommend the club to other players. Don't [%male#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Cítím, že mě stále žádáte, abych doporučil klub ostatním hráčům. Nemyslíte si, že je to trochu zbytečné?[%male#2-hidden][%male#2-hidden]
+KEY-501073-F: It feels like [%female#2-you] keep asking me to recommend the club to other players. Don't [%female#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Cítím, že mě stále žádáte, abych doporučil klub ostatním hráčům. Nemyslíte si, že je to trochu zbytečné?[%female#2-hidden][%female#2-hidden]
+
+KEY-501074: [%person#2-You] keep on asking me to recommend the club to other players and I think people are starting to see through it.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501074-M: [%male#2-You] keep on asking me to recommend the club to other players and I think people are starting to see through it.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Stále mě žádáte, abych doporučil klub ostatním hráčům, a myslím, že to lidé začínají vidět.[%male#2-hidden]
+KEY-501074-F: [%female#2-You] keep on asking me to recommend the club to other players and I think people are starting to see through it.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Stále mě žádáte, abych doporučil klub ostatním hráčům, a myslím, že to lidé začínají vidět.[%female#2-hidden]
+
+KEY-501075: Why are [%person#2-you] so keen to ask me to recommend the club to other players? They know what's best for themselves.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501075-M: Why are [%male#2-you] so keen to ask me to recommend the club to other players? They know what's best for themselves.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč mě tolik žádáte, abych doporučil klub ostatním hráčům? Vědí, co je pro ně nejlepší.[%male#2-hidden]
+KEY-501075-F: Why are [%female#2-you] so keen to ask me to recommend the club to other players? They know what's best for themselves.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč mě tolik žádáte, abych doporučil klub ostatním hráčům? Vědí, co je pro ně nejlepší.[%female#2-hidden]
+
+KEY-501076: [%person#1-I] think you're a great ambassador for the club and believe you can play a big part in helping us sign top talent.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: manager talking to player]
+KEY-501076-M: [%male#1-I] think you're a great ambassador for the club and believe you can play a big part in helping us sign top talent.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: manager talking to player]
+STR-1: Myslím, že jste velkým zástupcem klubu a věřím, že můžete sehrát velkou roli v tom, že nám pomůžete podepsat špičkové talenty.[%male#1-hidden]
+KEY-501076-F: [%female#1-I] think you're a great ambassador for the club and believe you can play a big part in helping us sign top talent.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: manager talking to player]
+STR-1: Myslím, že jste velkým zástupcem klubu a věřím, že můžete sehrát velkou roli v tom, že nám pomůžete podepsat špičkové talenty.[%female#1-hidden]
+
+KEY-501077: I really appreciate [%person#2-you] saying that, thanks.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501077-M: I really appreciate [%male#2-you] saying that, thanks.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Opravdu oceňuji co říkáte, děkuji.[%male#2-hidden]
+KEY-501077-F: I really appreciate [%female#2-you] saying that, thanks.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Opravdu oceňuji co říkáte, děkuji.[%female#2-hidden]
+
+KEY-501078: In that case I appreciate [%person#2-you] doing that.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager, agrees with manager's justification]
+KEY-501078-M: In that case I appreciate [%male#2-you] doing that.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager, agrees with manager's justification]
+STR-1: V tomto případě si vážím, že jste to udělali.[%male#2-hidden]
+KEY-501078-F: In that case I appreciate [%female#2-you] doing that.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager, agrees with manager's justification]
+STR-1: V tomto případě si vážím, že jste to udělali.[%female#2-hidden]
+
+KEY-501079: I suppose [%person#2-you]'re right; maybe it's my problem.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501079-M: I suppose [%male#2-you]'re right; maybe it's my problem.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Předpokládám, že máte pravdu; možná je to můj problém.[%male#2-hidden]
+KEY-501079-F: I suppose [%female#2-you]'re right; maybe it's my problem.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Předpokládám, že máte pravdu; možná je to můj problém.[%female#2-hidden]
+
+KEY-501080: I think it's something other players could do too though.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Myslím, že je to něco, co by mohli udělat i ostatní hráči.
+
+KEY-501081: I think [%person#2-you]'re overdoing it. Let the club speak for itself.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager, doesn't feel he should be recommending other players join the club]
+KEY-501081-M: I think [%male#2-you]'re overdoing it. Let the club speak for itself.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager, doesn't feel he should be recommending other players join the club]
+STR-1: Myslím, že to přeháníte. Nechte klub mluvit sám za sebe.[%male#2-hidden]
+KEY-501081-F: I think [%female#2-you]'re overdoing it. Let the club speak for itself.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager, doesn't feel he should be recommending other players join the club]
+STR-1: Myslím, že to přeháníte. Nechte klub mluvit sám za sebe.[%female#2-hidden]
+
+KEY-501082: I don't think I'm the right person to be doing it, certainly not this often.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Nemyslím si, že jsem správná osoba, která to má dělat, určitě ne tak často.
+
+KEY-501083: I get what [%person#2-you]'re saying but it feels excessive.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501083-M: I get what [%male#2-you]'re saying but it feels excessive.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Chápu, co říkáte, ale je to přehnané.[%male#2-hidden]
+KEY-501083-F: I get what [%female#2-you]'re saying but it feels excessive.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Chápu, co říkáte, ale je to přehnané.[%female#2-hidden]
+
+KEY-501084: [%person#2-You]'ve got the right idea but I don't think I need to do it so often.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501084-M: [%male#2-You]'ve got the right idea but I don't think I need to do it so often.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Vaše myšlenka je správná, ale nemyslím si, že to musím dělat tak často.[%male#2-hidden]
+KEY-501084-F: [%female#2-You]'ve got the right idea but I don't think I need to do it so often.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Vaše myšlenka je správná, ale nemyslím si, že to musím dělat tak často.[%female#2-hidden]
+
+KEY-501085: [%person#2-You] can still ask me to help out, just perhaps not so often.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501085-M: [%male#2-You] can still ask me to help out, just perhaps not so often.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Stále mě můžete požádat o pomoc, jen prosím ne tak často.[%male#2-hidden]
+KEY-501085-F: [%female#2-You] can still ask me to help out, just perhaps not so often.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Stále mě můžete požádat o pomoc, jen prosím ne tak často.[%female#2-hidden]
+
+KEY-501086: It feels like [%person#2-you] keep asking me to use the press to recommend the club to other players. Don't [%person#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501086-M: It feels like [%male#2-you] keep asking me to use the press to recommend the club to other players. Don't [%male#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Mám pocit, že mě stále žádáte, abych pomocí tisku doporučil klub ostatním hráčům. Nemyslíte si, že je to trochu zbytečné?[%male#2-hidden][%male#2-hidden]
+KEY-501086-F: It feels like [%female#2-you] keep asking me to use the press to recommend the club to other players. Don't [%female#2-you] think that's a bit unnecessary?[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Mám pocit, že mě stále žádáte, abych pomocí tisku doporučil klub ostatním hráčům. Nemyslíte si, že je to trochu zbytečné?[%female#2-hidden][%female#2-hidden]
+
+KEY-501087: [%person#2-You] keep on asking me to use the press to recommend the club to other players and I think people are starting to see through it.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501087-M: [%male#2-You] keep on asking me to use the press to recommend the club to other players and I think people are starting to see through it.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Stále mě žádáte, abych pomocí tisku doporučil klub ostatním hráčům a myslím, že to lidé začínají vidět.[%male#2-hidden]
+KEY-501087-F: [%female#2-You] keep on asking me to use the press to recommend the club to other players and I think people are starting to see through it.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Stále mě žádáte, abych pomocí tisku doporučil klub ostatním hráčům a myslím, že to lidé začínají vidět.[%female#2-hidden]
+
+KEY-501088: Why are [%person#2-you] so keen to ask me to use the press to recommend the club to other players? They know what's best for themselves.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+KEY-501088-M: Why are [%male#2-you] so keen to ask me to use the press to recommend the club to other players? They know what's best for themselves.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč mě tak moc žádáte, abych pomocí tisku doporučil klub ostatním hráčům? Ví sami, co je pro ně nejlepší.[%male#2-hidden]
+KEY-501088-F: Why are [%female#2-you] so keen to ask me to use the press to recommend the club to other players? They know what's best for themselves.[COMMENT: AREA: Interaction; SUB-AREA: Recommend Club to Other Player; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: player talking to manager]
+STR-1: Proč mě tak moc žádáte, abych pomocí tisku doporučil klub ostatním hráčům? Ví sami, co je pro ně nejlepší.[%female#2-hidden]
+
+KEY-501089: I have some concerns but I appreciate that [%person#2-you]'re willing to listen to [%person#2-your] players. I won't say any more right now.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+KEY-501089-M: I have some concerns but I appreciate that [%male#2-you]'re willing to listen to [%male#2-your] players. I won't say any more right now.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Mám určité obavy, ale oceňuji, že jste ochotný poslouchat své hráče. Dál už nic neříkám.[%male#2-hidden][%male#2-hidden]
+KEY-501089-F: I have some concerns but I appreciate that [%female#2-you]'re willing to listen to [%female#2-your] players. I won't say any more right now.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Mám určité obavy, ale oceňuji, že jste ochotný poslouchat své hráče. Dál už nic neříkám.[%female#2-hidden][%female#2-hidden]
+
+KEY-501090: I've not been impressed with the depth in our squad but I trust that [%person#2-you]'ll sort it out.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+KEY-501090-M: I've not been impressed with the depth in our squad but I trust that [%male#2-you]'ll sort it out.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Šířka naší sestavy na mě nezapůsobila, ale věřím, že to vyřešíte.[%male#2-hidden]
+KEY-501090-F: I've not been impressed with the depth in our squad but I trust that [%female#2-you]'ll sort it out.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Šířka naší sestavy na mě nezapůsobila, ale věřím, že to vyřešíte.[%female#2-hidden]
+
+KEY-501091: I'm concerned about the lack of depth in goal and it would reassure me to know [%person#2-you] have plans to improve the situation.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+KEY-501091-M: I'm concerned about the lack of depth in goal and it would reassure me to know [%male#2-you] have plans to improve the situation.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Mám obavy z nedostatečného počtu brankářů a uklidnilo by mě, kdybych věděl, že máte plány na zlepšení situace.[%male#2-hidden]
+KEY-501091-F: I'm concerned about the lack of depth in goal and it would reassure me to know [%female#2-you] have plans to improve the situation.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Mám obavy z nedostatečného počtu brankářů a uklidnilo by mě, kdybych věděl, že máte plány na zlepšení situace.[%female#2-hidden]
+
+KEY-501092: I don't think we have sufficient depth in goal and I want to know what [%person#2-you]'re going to do about it.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+KEY-501092-M: I don't think we have sufficient depth in goal and I want to know what [%male#2-you]'re going to do about it.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Nemyslím si, že máme dostatečný počet brankářů a chci vědět, co s tím uděláte.[%male#2-hidden]
+KEY-501092-F: I don't think we have sufficient depth in goal and I want to know what [%female#2-you]'re going to do about it.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Nemyslím si, že máme dostatečný počet brankářů a chci vědět, co s tím uděláte.[%female#2-hidden]
+
+KEY-501093: I'm concerned about the lack of depth [%position#3-sentence] and it would reassure me to know [%person#2-you] have plans to improve the situation.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+KEY-501093-M: I'm concerned about the lack of depth [%position#3-sentence] and it would reassure me to know [%male#2-you] have plans to improve the situation.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Mám obavy z nedostatečné šíře na pozici [%position#3-sentence] a uklidnilo by mě, kdybych věděl, že máte plány na zlepšení situace.[%male#2-hidden]
+KEY-501093-F: I'm concerned about the lack of depth [%position#3-sentence] and it would reassure me to know [%female#2-you] have plans to improve the situation.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Mám obavy z nedostatečné šíře na pozici [%position#3-sentence] a uklidnilo by mě, kdybych věděl, že máte plány na zlepšení situace.[%female#2-hidden]
+
+KEY-501094: I don't think we have sufficient depth [%position#3-sentence] and I want to know what [%person#2-you]'re going to do about it.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+KEY-501094-M: I don't think we have sufficient depth [%position#3-sentence] and I want to know what [%male#2-you]'re going to do about it.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Nemyslím si, že máme dostatečný počet hráčů na pozici [%position#3-sentence] a chci vědět, co s tím uděláte.[%male#2-hidden]
+KEY-501094-F: I don't think we have sufficient depth [%position#3-sentence] and I want to know what [%female#2-you]'re going to do about it.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Nemyslím si, že máme dostatečný počet hráčů na pozici [%position#3-sentence] a chci vědět, co s tím uděláte.[%female#2-hidden]
+
+KEY-501095: I'm concerned about the lack of depth in [%position#3-general] and it would reassure me to know [%person#2-you] have plans to improve the situation.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+KEY-501095-M: I'm concerned about the lack of depth in [%position#3-general] and it would reassure me to know [%male#2-you] have plans to improve the situation.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Mám obavy z nedostatečné šíře na pozici [%position#3-general] a uklidnilo by mě, kdybych věděl, že máte plány na zlepšení situace.[%male#2-hidden]
+KEY-501095-F: I'm concerned about the lack of depth in [%position#3-general] and it would reassure me to know [%female#2-you] have plans to improve the situation.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Mám obavy z nedostatečné šíře na pozici [%position#3-general] a uklidnilo by mě, kdybych věděl, že máte plány na zlepšení situace.[%female#2-hidden]
+
+KEY-501096: I don't think we have sufficient depth in [%position#3-general] and I want to know what [%person#2-you]'re going to do about it.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+KEY-501096-M: I don't think we have sufficient depth in [%position#3-general] and I want to know what [%male#2-you]'re going to do about it.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Nemyslím si, že máme dostatečný počet hráčů na pozici [%position#3-general] a chci vědět, co s tím uděláte.[%male#2-hidden]
+KEY-501096-F: I don't think we have sufficient depth in [%position#3-general] and I want to know what [%female#2-you]'re going to do about it.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Nemyslím si, že máme dostatečný počet hráčů na pozici [%position#3-general] a chci vědět, co s tím uděláte.[%female#2-hidden]
+
+KEY-501097: Okay, I'm prepared to wait and see.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Dobře, jsem připraven počkat a uvidíme.
+
+KEY-501098: I'll come back to this after [%person#2-you]'ve had a chance to dip in to the transfer market, but I expect to see improvements.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+KEY-501098-M: I'll come back to this after [%male#2-you]'ve had a chance to dip in to the transfer market, but I expect to see improvements.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Vrátím se k tomu, až budete moct provádět přestupy, ale očekávám zlepšení.[%male#2-hidden]
+KEY-501098-F: I'll come back to this after [%female#2-you]'ve had a chance to dip in to the transfer market, but I expect to see improvements.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Vrátím se k tomu, až budete moct provádět přestupy, ale očekávám zlepšení.[%female#2-hidden]
+
+KEY-501099: Let's see what the kids have to offer then.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Uvidíme, co tedy mladíci mohou nabídnout.
+
+KEY-501100: I'll give the kids a chance but I want to see decisive action if they're not up to the required standard.[COMMENT: AREA: Player Happiness; SUB-AREA: Competition For Places; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager]
+STR-1: Dám tedy mladíkům šanci, ale chci vidět jasné rozhodnutí, pokud nedosáhnou požadovaného standardu.

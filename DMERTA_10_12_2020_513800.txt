@@ -1,0 +1,728 @@
+KEY-513800: Our data indicates that they have plenty of problems in defence, and are very weak in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: ]
+STR-1: Naše data ukazují, že mají spoustu problémů v obraně a jsou velmi slabí v útoku.
+
+KEY-513801: Analysis of their attacking and defensive performance indicates that they are poor in defence, and very weak in attack. We should not expect too much of a challenge.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že jsou slabší v obraně a velmi slabí v útoku. Neměli bychom očekávat příliš velkou výzvu.
+
+KEY-513802: Our data indicates that they are poor in defence, and very weak in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: 
+
+KEY-513803: Analysis of their attacking and defensive performance indicates that, although they are generally fine in defence, they are very weak in attack. We should not expect too much of a challenge.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Naše data ukazují, že jsou slabší v obraně a velmi slabí v útoku.
+
+KEY-513804: Our data indicates that, although they are generally fine in defence, they are very weak in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše údaje ukazují, že i když brání všeobecně slušně, jsou velmi slabí v útoku.
+
+KEY-513805: Analysis of their attacking and defensive performance indicates that, although they are good in defence, they are very weak in attack. We should not expect them to be threatening at all, but may have to work to break them down.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: ]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že i když jsou dobří v obraně, jsou v útoku velmi slabí. Neměli bychom očekávat, že budou zásadně útočit, ale nejspíše budeme muset pracovat na rozbití jejich bloku.
+
+KEY-513806: Our data indicates that, although they are good in defence, they are very weak in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše data ukazují, že i když jsou dobří v obraně, jsou velmi slabí v útoku.
+
+KEY-513807: Analysis of their attacking and defensive performance indicates that, although they are formidable in defence, they are very weak in attack. We should not expect them to be threatening at all, but will have to work hard to break them down.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: ]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že i když jsou v obraně impozantní, jsou v útoku velmi slabí. Neměli bychom očekávat, že budou zásadně útočit, ale budeme muset tvrdě pracovat na rozbití jejich bloku.
+
+KEY-513808: Our data indicates that, although they are formidable in defence, they are very weak in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše data naznačují, že i když jsou v obraně excelentní, jsou velmi slabí v útočné fázi.
+
+KEY-513809: Our data indicates that they are weak in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše data ukazují, že jsou slabí v útoku.
+
+KEY-513810: Analysis of their attacking and defensive performance indicates that they have plenty of problems in defence and are poor in attack. We should not expect a challenge.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: ]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že mají spoustu problémů v obraně i v útoku. Neměli bychom očekávat výzvu.
+
+KEY-513811: Our data indicates that they are extremely poor in both defence and attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: ]
+STR-1: Naše data ukazují, že jsou extrémně slabí jak v obraně, tak v útoku.
+
+KEY-513812: Analysis of their attacking and defensive performance indicates that they are poor in defence and attack. We should not expect much of a challenge.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že jsou slabí v obraně i v útoku. Neměli bychom očekávat velkou výzvu.
+
+KEY-513813: Our data indicates that they have problems in defence and are fairly poor in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Naše údaje ukazují, že mají problémy v obraně a jsou poměrně slabí v útoku.
+
+KEY-513814: Analysis of their attacking and defensive performance indicates that, although they are generally alright in defence, they are fairly poor in attack. We should not expect much of a challenge.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že i když jsou v obraně obecně v pořádku, jsou v útoku poměrně slabí. Neměli bychom očekávat velkou výzvu.
+
+KEY-513815: Our data indicates that, although they are generally alright in defence, they are fairly poor in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše údaje ukazují, že i když jsou obecně v pořádku v obraně, jsou poměrně slabí v útoku.
+
+KEY-513816: Analysis of their attacking and defensive performance indicates that, although they are good defensively, they are fairly poor in attack. We should not expect them to be threatening, but may have to work to break them down.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že i když jsou dobří v obraně, jsou v útoku poměrně ubozí. Neměli bychom očekávat, že budou nějak útočit, ale možná budeme muset pracovat na rozbití jejich obranného bloku.
+
+KEY-513817: Our data indicates that, although they are good defensively, they are fairly poor in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše data ukazují, že i když jsou dobří v obraně, jsou poměrně slabí v útoku.
+
+KEY-513818: Analysis of their attacking and defensive performance indicates that, although they are defensively formidable, they are fairly poor in attack. We should not expect them to be threatening, but will have to work hard to break them down.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že i když jsou defenzivně impozantní, jsou poměrně ubozí v útoku. Neměli bychom očekávat, že budou nějak útočil, ale budeme muset tvrdě pracovat, abychom rozebrali jejich obranný blok.
+
+KEY-513819: Our data indicates that, although they are defensively formidable, they are fairly poor in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Naše data naznačují, že i když jsou defenzivně impozantní, jsou poměrně ubozí v útoku.
+
+KEY-513820: Our data indicates that they are generally alright in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše údaje ukazují, že jsou obecně v pořádku v útoku.
+
+KEY-513821: Analysis of their attacking and defensive performance indicates that they are extremely poor defensively, but generally okay in attack. We may have to keep an eye out at the back but should walk over them in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že jsou extrémně špatní v obraně, ale obecně v pořádku v útoku. Možná budeme muset dávat pozor vzadu, ale měli bychom je přehrát v útoku.
+
+KEY-513822: Our data indicates that they are extremely poor defensively, but generally okay in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: ]
+STR-1: Naše data naznačují, že jsou extrémně špatní defenzivně, ale obecně v pořádku v útoku.
+
+KEY-513823: Analysis of their attacking and defensive performance indicates that they are poor in defence, but generally okay in attack. We may have to keep an eye out at the back but shouldn't struggle while attacking.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že jsou chudí v obraně, ale obecně v pořádku v útoku. Možná budeme muset dávat pozor v obraně, ale neměli bychom mít problémy při útoku.
+
+KEY-513824: Our data indicates that they are poor in defence, but generally okay in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: ]
+STR-1: Naše data ukazují, že jsou ubozí v obraně, ale obecně v pořádku v útoku.
+
+KEY-513825: Analysis of their attacking and defensive performance indicates that they are generally okay in both defence and attack. We will have to stay sharp to come out with a result.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: ]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že jsou obecně v pořádku jak v obraně, tak v útoku. Budeme muset zůstat ostražití, abychom uhráli dobrý výsledek.
+
+KEY-513826: Our data indicates that they are generally okay in both defence and attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše údaje ukazují, že jsou obecně v pořádku jak v obraně, tak v útoku.
+
+KEY-513827: Analysis of their attacking and defensive performance indicates that, although they are defensively good, they are only okay in attack. We will have to stay sharp at the back, and take our chances to come out with a result.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že i když jsou defenzivně dobří, jsou v útoku jsou o chlup horší. Budeme muset zůstat vzadu ostražití a vepředu trochu riskovat pro dobrý výsledek.
+
+KEY-513828: Our data indicates that, although they are defensively good, they are only okay in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše data ukazují, že i když jsou defenzivně dobří, jsou v útoku o chlup horší.
+
+KEY-513829: Analysis of their attacking and defensive performance indicates that, although they are defensively formidable, they are only competent by comparison in attack. We will have to stay sharp at the back, and take our chances well to come out with a result.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že i když jsou defenzivně impozantní, v útoku jsou pouze zdatní. Budeme muset zůstat vzadu ve střehu a využít šance, abychom vyšli s dobrým výsledkem.
+
+KEY-513830: Our data indicates that, although they are defensively formidable, they are only competent by comparison in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše data naznačují, že i když jsou defenzivně impozantní, v útoku jsou pouze zdatní.
+
+KEY-513831: Our data indicates that they are good in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše data ukazují, že jsou dobří v útoku.
+
+KEY-513832: Analysis of their attacking and defensive performance indicates that, although they are extremely shaky in defence, they are good in attack. We will have to keep an eye out at the back but should walk over them in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: shaky means uncertain, prone to mistakes]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že i když jsou v obraně extrémně nestabilní, jsou dobří v útoku. Budeme muset dávat pozor v obraně, ale měli bychom je přehrát v útoku.
+
+KEY-513833: Our data indicates that, although they are extremely shaky in defence, they are good in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: shaky means uncertain, prone to mistakes]
+STR-1: Naše data ukazují, že i když jsou v obraně extrémně nestabilní, jsou dobří v útoku.
+
+KEY-513834: Analysis of their attacking and defensive performance indicates that, although they are defensively shaky, they are good in attack. We will have to keep an eye out at the back but shouldn't struggle while attacking.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: shaky means uncertain, prone to mistakes]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že i když jsou defenzivně nestabilní, jsou dobří v útoku. Budeme muset dávat pozor v obraně, ale neměli bychom mít problémy při útoku.
+
+KEY-513835: Our data indicates that, although they are defensively shaky, they are good in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: shaky means uncertain, prone to mistakes]
+STR-1: Naše data ukazují, že i když jsou defenzivně nestabilní, jsou dobří v útoku.
+
+KEY-513836: Analysis of their attacking and defensive performance indicates that they are generally alright defensively, but they are very good in attack. We will have to stay very sharp to come out with a result.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že jsou obecně v pořádku defenzivně, ale jsou velmi dobří v útoku. Budeme muset zůstat velmi ostražití, abychom uhráli dobrý výsledek.
+
+KEY-513837: Our data indicates that they are generally alright defensively, but they are very good in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: ]
+STR-1: Naše data naznačují, že jsou obecně v pořádku defenzivně, ale jsou velmi dobří v útoku.
+
+KEY-513838: Analysis of their attacking and defensive performance indicates that they are good in both defence and attack. We will have to very stay sharp at the back, and take our chances to come out with a result.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: ]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že jsou dobří jak v obraně, tak v útoku. Budeme muset zůstat velmi ostražití vzadu, a v útoku využít každou šanci.
+
+KEY-513839: Our data indicates that they are good in both defence and attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: ]
+STR-1: Naše data ukazují, že jsou dobří jak v obraně, tak v útoku.
+
+KEY-513840: Analysis of their attacking and defensive performance indicates that they are defensively formidable and good in attack too. We will have to stay very sharp at the back, and take our chances well to come out with a result.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že jsou defenzivně impozantní a dobří v útoku. Budeme muset zůstat velmi ostražití vzadu, a v útoku využít každou šanci.
+
+KEY-513841: Our data indicates that they are defensively formidable and good in attack too.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše data naznačují, že jsou defenzivně impozantní a dobří v útoku.
+
+KEY-513842: Our data indicates that they are excellent in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše data ukazují, že jsou vynikající v útoku.
+
+KEY-513843: Analysis of their attacking and defensive performance indicates that, although they are extremely shaky in defence, they are very good in attack. We will have to keep it extremely tight at the back but should walk over them in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: shaky means uncertain, prone to mistakes]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že i když jsou v obraně extrémně nestabilní, jsou v útoku velmi dobří. Budeme muset hrát vzadu velmi natěsno, ale měli bychom přes ně jít v útoku.
+
+KEY-513844: Our data indicates that, although they are extremely shaky in defence, they are very good in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: shaky means uncertain, prone to mistakes]
+STR-1: Naše data ukazují, že i když jsou v obraně velmi nestabilní, jsou velmi dobří v útoku.
+
+KEY-513845: Analysis of their attacking and defensive performance indicates that, although they are defensively shaky, they are very good in attack. We will have to keep it extremely tight at the back but shouldn't struggle while attacking.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: shaky means uncertain, prone to mistakes]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že i když jsou defenzivně nestabilní, jsou velmi dobří v útoku. Budeme muset hrát v obraně velmi dobře, ale neměli bychom mít problémy při útoku.
+
+KEY-513846: Our data indicates that, although they are defensively shaky, they are very good in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: shaky means uncertain, prone to mistakes]
+STR-1: Naše data ukazují, že i když jsou defenzivně nestabilní, jsou velmi dobří v útoku.
+
+KEY-513847: Analysis of their attacking and defensive performance indicates that they are generally okay at the back but very good in attack. We will have to stay extremely sharp to come out with a result.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: ]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že jsou obecně vzadu v pořádku, ale velmi dobří v útoku. Budeme muset zůstat velmi ostražití, abychom získali dobrý výsledek.
+
+KEY-513848: Our data indicates that they are generally okay at the back but very good in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše data ukazují, že jsou obecně v pořádku vzadu, ale velmi dobří v útoku.
+
+KEY-513849: Analysis of their attacking and defensive performance indicates that they are very good in defence and even better in attack. We will have to keep it extremely tight at the back, and take our chances to come out with a result.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE:]
+STR-1: Analýza jejich útočného a obranného výkonu naznačuje, že jsou velmi dobří v obraně a ještě lépší v útoku. Budeme muset dobře držet zadní část hřiště, a využít každou šanci.
+
+KEY-513850: Our data indicates that they are very good in defence and even better in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: 
+
+KEY-513851: Analysis of their attacking and defensive performance indicates that they are defensively formidable and just as impressive in attack. We will have to keep it extremely tight at the back, and take our chances extremely well to come out with a result.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None; NOTE: ]
+STR-1: Naše data ukazují, že jsou velmi dobří v obraně a ještě lepší v útoku.
+
+KEY-513852: Our data indicates that they are defensively formidable and just as impressive in attack.[COMMENT: AREA: Analyst Visualisations; SUB-AREA: Oppo report summary string; FR-BN: 32194; TONE: Formal; CHARLIMIT: None]
+STR-1: Naše data naznačují, že jsou defenzivně impozantní a stejně působiví v útoku.
+
+KEY-513853: All Comps[COMMENT:AREA: Data Hub; SUB-AREA: Analyst Visualisation; FR-BN: n/a; TONE: Formal; CHARLIMIT: 100; REF-ID: n/a; :NOTE Given scope for analysis to be performed on- All Competitions ]
+STR-1: Všechny soutěže
+
+KEY-513854: (relative to U[%number#1] defensive players in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] defenzivním hráčům v jejich divizi)
+
+KEY-513855: (relative to U[%number#1] defensive players in the top [%number#2] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] defenzivním hráčům v TOP [%number#2] divizí)
+
+KEY-513856: (relative to defensive players in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně k defenzivním hráčům jejich divize)
+
+KEY-513857: (relative to defensive players in the top [%number#1] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně k defenzivním hráčům TOP [%number#1] divizí)
+
+KEY-513858: (relative to U[%number#1] creative players in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] kreativním hráčům v jejich divizi)
+
+KEY-513859: (relative to U[%number#1] creative players in the top [%number#2] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] kreativním hráčům v TOP [%number#2] divizí)
+
+KEY-513860: (relative to creative players in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně ke kreativním hráčům jejich divize)
+
+KEY-513861: (relative to creative players in the top [%number#1] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně ke kreativním hráčům TOP [%number#1] divizích)
+
+KEY-513862: (relative to U[%number#1] players in their position in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] hráčům na stejné pozici v jejich divizi)
+
+KEY-513863: (relative to U[%number#1] players in their position in the top [%number#2] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] hráčům na stejné pozici v TOP [%number#2] divizí)
+
+KEY-513864: (relative to players in their position in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně k hráčům na stejné pozici jejich divize)
+
+KEY-513865: (relative to players in their position in the top [%number#1] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně k hráčům na stejné pozici v TOP [%number#1] divizích)
+
+KEY-513866: (relative to U[%number#1] defenders in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] obráncům v jejich divizi)
+
+KEY-513867: (relative to U[%number#1] defenders in the top [%number#2] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] obráncům v TOP [%number#2] divizí)
+
+KEY-513868: (relative to defenders in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně k obráncům v jejich divizi)
+
+KEY-513869: (relative to defenders in the top [%number#1] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně k obráncům v TOP [%number#1] divizích)
+
+KEY-513870: (relative to U[%number#1] midfielders in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] záložníkům v jejich divizi)
+
+KEY-513871: (relative to U[%number#1] midfielders in the top [%number#2] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] záložníkům v TOP [%number#2] divizí)
+
+KEY-513872: (relative to midfielders in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně k záložníkům v jejich divizi)
+
+KEY-513873: (relative to midfielders in the top [%number#1] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně k záložníkům v TOP [%number#1] divizích)
+
+KEY-513874: (relative to U[%number#1] forwards in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] útočníkům v jejich divizi)
+
+KEY-513875: (relative to U[%number#1] forwards in the top [%number#2] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] útočníkům v TOP [%number#2] divizí)
+
+KEY-513876: (relative to forwards in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně k útočníkům v jejich divizi)
+
+KEY-513877: (relative to forwards in the top [%number#1] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně k útočníkům v TOP [%number#1] divizí)
+
+KEY-513878: (relative to U[%number#1] players in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] hráčům v jejich divizi)
+
+KEY-513879: (relative to U[%number#1] players in the top [%number#2] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type, number variable is age category e.g U21]
+STR-1: (relativně k U[%number#1] hráčům v TOP [%number#2] divizí)
+
+KEY-513880: (relative to players in their division)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně k hráčům v jejich divizi)
+
+KEY-513881: (relative to players in the top [%number#1] divisions)[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance appended to an analysis type]
+STR-1: (relativně k hráčům v TOP [%number#1] divizí)
+
+KEY-513882: [%male#1] is performing better in every area in key statistics for this defensive role compared to [%male#2].[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:comment on performance, DEFENSIVE_DEFENDER, DEFENSIVE_CENTRAL_MIDFIELDER, DEFENSIVE_WIDE_MIDFIELDER, DEFENSIVE_FORWARD]
+STR-1: [%male#1] si vede lépe ve všech klíčových statistikách pro tuto obrannou roli ve srovnání s hráčem [%male#2].
+
+KEY-513883: [%male#1] is performing better in every area in key statistics for this creative role compared to [%male#2].[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: [%male#1] si vede lépe ve všech klíčových statistikách pro tuto tvůrčí roli ve srovnání s hráčem [%male#2].
+
+KEY-513884: [%male#1] is performing better in every area in key statistics for this role compared to [%male#2].[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: [%male#1] si vede lépe ve všech klíčových statistikách pro tuto roli ve srovnání s hráčem [%male#2].
+
+KEY-513885: [%male#1] is performing better in every area in key statistics for this attacking role compared to [%male#2].[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: [%male#1] si vede lépe ve všech klíčových statistikách pro tuto útočnou roli ve srovnání s hráčem [%male#2].
+
+KEY-513886: [%male#1] is performing better in every area in key goalkeeping statistics compared to [%male#2].[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: [%male#1] si vede lépe ve všech oblastech v klíčových statistikách brankářů ve srovnání s hráčem [%male#2].
+
+KEY-513887: [%male#1] is performing comparably to [%male#2] in every area in key statistics for this defensive role.[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:comment on performance, DEFENSIVE_DEFENDER, DEFENSIVE_CENTRAL_MIDFIELDER, DEFENSIVE_WIDE_MIDFIELDER, DEFENSIVE_FORWARD]
+STR-1: [%male#1] si vede srovnatelně s hráčem [%male#2] ve všech klíčových statistikách pro tuto obrannou roli.
+
+KEY-513888: [%male#1] is performing comparably to [%male#2] in every area in key statistics for this creative role.[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: [%male#1] si vede srovnatelně s hráčem [%male#2] ve všech klíčových statistikách pro tuto kreativní roli.
+
+KEY-513889: [%male#1] is performing comparably to [%male#2] in every area in key statistics for this role.[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: [%male#1] si vede srovnatelně s hráčem [%male#2] ve všech klíčových statistikách pro tuto roli.
+
+KEY-513890: [%male#1] is performing comparably to [%male#2] in every area in key statistics for this attacking role.[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: [%male#1] si vede srovnatelně s hráčem [%male#2] ve všech klíčových statistikách pro tuto útočnou roli.
+
+KEY-513891: [%male#1] is performing comparably to [%male#2] in every area in key goalkeeping statistics.[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: [%male#1] si vede srovnatelně s hráčem [%male#2] ve všech klíčových statistikách pro brankáře.
+
+KEY-513892: [%male#1] is performing worse in every area in key statistics for this defensive role compared to [%male#2].[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:comment on performance, DEFENSIVE_DEFENDER, DEFENSIVE_CENTRAL_MIDFIELDER, DEFENSIVE_WIDE_MIDFIELDER, DEFENSIVE_FORWARD]
+STR-1: [%male#1] si vede hůře ve všech klíčových statistikách pro tuto obrannou roli ve srovnání s hráčem [%male#2].
+
+KEY-513893: [%male#1] is performing worse in every area in key statistics for this creative role compared to [%male#2].[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: [%male#1] si vede hůře ve všech klíčových statistikách pro tuto tvůrčí roli ve srovnání s hráčem [%male#2].
+
+KEY-513894: [%male#1] is performing worse in every area in key statistics for this role compared to [%male#2].[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: [%male#1] si vede hůře ve všech klíčových statistikách pro tuto roli ve srovnání s hráčem [%male#2].
+
+KEY-513895: [%male#1] is performing worse in every area in key statistics for this attacking role compared to [%male#2].[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: [%male#1] si vede hůře ve všech klíčových statistikách pro tuto útočnou roli ve srovnání s hráčem [%male#2].
+
+KEY-513896: [%male#1] is performing worse in every area in key goalkeeping statistics compared to [%male#2].[COMMENT: AREA: Analyst observations; SUB-AREA: Polygons; FR-BN: 33110; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: [%male#1] si vede hůře ve všech klíčových statistikách brankářů ve srovnání s hráčem [%male#2].
+
+KEY-513897: [%male#1]:[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance]
+STR-1: [%male#1]:
+
+KEY-513898: [%team#1-short]{s} overall statistical performance is more impressive than [%team#2-short]{s}.[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance]
+STR-1: Celková statistická výkonnost týmu [%team#1-short]{} je působivější než u týmu [%team#2-short]{}.
+
+KEY-513899: [%team#1-short]{s} attacking statistics are more impressive than [%team#2-short]{s}.[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance]
+STR-1: Útočná statistická výkonnost týmu [%team#1-short]{} je působivější než u týmu [%team#2-short]{}.
+
+KEY-513900: [%team#1-short]{s} defensive statistics are more impressive than [%team#2-short]{s}.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance]
+STR-1: Obranná statistická výkonnost týmu [%team#1-short]{} je působivější než u týmu [%team#2-short]{}.
+
+KEY-513901: [%team#1-short]{s} overall statistical performance is comparable to [%team#2-short]{s}.[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance]
+STR-1: Celková statistická výkonnost týmu [%team#1-short]{} je srovnatelná s týmem [%team#2-short]{}.
+
+KEY-513902: [%team#1-short]{s} attacking statistics are comparable to [%team#2-short]{s}.[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance]
+STR-1: Útočná statistická výkonnost týmu [%team#1-short]{} je srovnatelná s týmem [%team#2-short]{}.
+
+KEY-513903: [%team#1-short]{s} defensive statistics are comparable to [%team#2-short]{s}.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance]
+STR-1: Obranná statistická výkonnost týmu [%team#1-short]{} je srovnatelná s týmem [%team#2-short]{}.
+
+KEY-513904: [%team#1-short]{s} overall statistical performance is weaker than [%team#2-short]{s}.[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance]
+STR-1: Celková statistická výkonnost týmu [%team#1-short]{} je horší než u týmu [%team#2-short]{}.
+
+KEY-513905: [%team#1-short]{s} attacking statistics are weaker than [%team#2-short]{s}.[COMMENT: AREA: Data analyst observations; SUB-AREA: Scattergraphs; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance]
+STR-1: Útočná statistická výkonnost týmu [%team#1-short]{} je horší než u týmu [%team#2-short]{}.
+
+KEY-513906: [%team#1-short]{s} defensive statistics are weaker than [%team#2-short]{s}.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance]
+STR-1: Obranná statistická výkonnost týmu [%team#1-short]{} je horší než u týmu [%team#2-short]{}.
+
+KEY-513907: [%team#1-short]:[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance]
+STR-1: [%team#1-short]:
+
+KEY-513908: Scores a high number of goals compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje více branek v porovnání s průměrem.
+
+KEY-513909: Scores a relatively average number of goals.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje zhruba stejně branek v porovnání s průměrem.
+
+KEY-513910: Scores fewer goals than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje méně branek v porovnání s průměrem.
+
+KEY-513911: Produces a high number of assists compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Asistuje u více branek v porovnání s průměrem.
+
+KEY-513912: Assists a relatively average number of goals.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Asistuje u zhruba stejně branek v porovnání s průměrem.
+
+KEY-513913: Assists fewer goals than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Asistuje u méně branek v porovnání s průměrem.
+
+KEY-513914: Scores a high number of goals per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje více branek za 90 minut v porovnání s průměrem.
+
+KEY-513915: Scores a relatively average number of goals per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje zhruba stejně branek za 90 minut v porovnání s průměrem.
+
+KEY-513916: Scores fewer goals per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje méně branek za 90 minut v porovnání s průměrem.
+
+KEY-513917: Assists a high number of goals per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Asistuje u více branek za 90 minut v porovnání s průměrem.
+
+KEY-513918: Assists a relatively average number of goals per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Asistuje u zhruba stejně branek za 90 minut v porovnání s průměrem.
+
+KEY-513919: Assists fewer goals per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Asistuje u méně branek za 90 minut v porovnání s průměrem.
+
+KEY-513920: Scores a high number of Expected Goals per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje více branek (Expected Goals) za 90 minut v porovnání s průměrem.
+
+KEY-513921: Scores a relatively average number of Expected Goals per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje zhruba stejně branek (Expected Goals) za 90 minut v porovnání s průměrem.
+
+KEY-513922: Scores fewer Expected Goals per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje méně branek (Expected Goals) za 90 minut v porovnání s průměrem.
+
+KEY-513923: Scores a high number of Expected Goals compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje více branek (Expected Goals) v porovnání s průměrem.
+
+KEY-513924: Scores a relatively average number of Expected Goals.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje zhruba stejně branek (Expected Goals) v porovnání s průměrem.
+
+KEY-513925: Scores fewer Expected Goals than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje méně branek (Expected Goals) v porovnání s průměrem.
+
+KEY-513926: Creates a high number of Expected Assists per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vytváří více šancí (Expected Assists) za 90 minut v porovnání s průměrem.
+
+KEY-513927: Creates a relatively average number of Expected Assists per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vytváří zhruba stejně šancí (Expected Assists) za 90 minut v porovnání s průměrem.
+
+KEY-513928: Creates fewer Expected Assists per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vytváří méně šancí (Expected Assists) za 90 minut v porovnání s průměrem.
+
+KEY-513929: Creates a high number of Expected Assists compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vytváří více šancí (Expected Assists) v porovnání s průměrem.
+
+KEY-513930: Creates a relatively average number of Expected Assists.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vytváří zhruba stejně šancí (Expected Assists) v porovnání s průměrem.
+
+KEY-513931: Creates fewer Expected Assists than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vytváří méně šancí (Expected Assists) v porovnání s průměrem.
+
+KEY-513932: Takes a high number of shots compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zařídí vyšší počet střel ve srovnání s průměrem.
+
+KEY-513933: Takes a relatively average number of shots.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zařídí zhruba stejný počet střel ve srovnání s průměrem.
+
+KEY-513934: Takes fewer shots than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zařídí nižší počet střel ve srovnání s průměrem.
+
+KEY-513935: Hits the target with more shots compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zasáhne cíl více střelami ve srovnání s průměrem.
+
+KEY-513936: Hits the target with a relatively average number of shots.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zasáhne cíl zhruba stejně střelami ve srovnání s průměrem.
+
+KEY-513937: Hits the target with fewer shots than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zasáhne cíl méně střelami ve srovnání s průměrem.
+
+KEY-513938: Scores a high number of goals per shot compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje více branek na střelu ve srovnání s průměrem.
+
+KEY-513939: Scores a relatively average number of goals per shot.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje zhruba stejně branek na střelu ve srovnání s průměrem.
+
+KEY-513940: Scores fewer goals per shot than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Skóruje méně branek na střelu ve srovnání s průměrem.
+
+KEY-513941: Takes a high number of shots per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zařídí více střel za 90 minut ve srovnání s průměrem.
+
+KEY-513942: Takes a relatively average number of shots per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zařídí zhruba stejně střel za 90 minut ve srovnání s průměrem.
+
+KEY-513943: Takes fewer shots per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zařídí méně střel za 90 minut ve srovnání s průměrem.
+
+KEY-513944: Finds the target with a high ratio of shots compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Trefí branku s vyšším poměrem střel ve srovnání s průměrem.
+
+KEY-513945: Finds the target with a relatively average number of shots.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Trefí branku se zhruba stejným poměrem střel ve srovnání s průměrem.
+
+KEY-513946: Finds the target with fewer shots taken than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Trefí branku s menším poměrem střel ve srovnání s průměrem.
+
+KEY-513947: Hits the target with a high number of shots per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Trefí branku s vyšším poměrem střel za 90 minut ve srovnání s průměrem.
+
+KEY-513948: Hits the target with an average number of shots per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Trefí branku se zhruba stejným poměrem střel za 90 minut ve srovnání s průměrem.
+
+KEY-513949: Hits the target with fewer shots per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Trefí branku s menším poměrem střel za 90 minut ve srovnání s průměrem.
+
+KEY-513950: Produces a high number of xG per shot compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Produkuje vysoký počet xG na střelu ve srovnání s průměrem.
+
+KEY-513951: Produces a relatively average number of xG per shot.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Produkuje zhruba stejný počet xG na střelu ve srovnání s průměrem.
+
+KEY-513952: Produces fewer xG per shot than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Produkuje menší počet xG na střelu ve srovnání s průměrem.
+
+KEY-513953: Attempts a high number of passes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o vyšší počet přihrávek ve srovnání s průměrem.
+
+KEY-513954: Attempts a relatively average number of passes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o zhruba stejný počet přihrávek ve srovnání s průměrem.
+
+KEY-513955: Attempts fewer passes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o nižší počet přihrávek ve srovnání s průměrem.
+
+KEY-513956: Completes a high number of passes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zkompletuje vyšší počet přihrávek ve srovnání s průměrem.
+
+KEY-513957: Completes a relatively average number of passes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zkompletuje zhruba stejný počet přihrávek ve srovnání s průměrem.
+
+KEY-513958: Completes fewer passes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zkompletuje nižší počet přihrávek ve srovnání s průměrem.
+
+KEY-513959: Completes an excellent percentage of passes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zkompletuje procentuálně více přihrávek ve srovnání s průměrem.
+
+KEY-513960: Completes a relatively average percentage of passes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zkompletuje procentuálně zhruba stejně přihrávek ve srovnání s průměrem.
+
+KEY-513961: Completes fewer passes than average by ratio.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zkompletuje procentuálně méně přihrávek ve srovnání s průměrem.
+
+KEY-513962: Attempts a high number of passes per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o vyšší počet přihrávek za 90 minut ve srovnání s průměrem.
+
+KEY-513963: Attempts a relatively average number of passes per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o zhruba stejný počet přihrávek za 90 minut ve srovnání s průměrem.
+
+KEY-513964: Attempts fewer passes per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o nižší počet přihrávek za 90 minut ve srovnání s průměrem.
+
+KEY-513965: Produces a high number of key passes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Produkuje větší počet klíčových přihrávek ve srovnání s průměrem.
+
+KEY-513966: Produces a relatively average number of key passes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Produkuje zhruba stejný počet klíčových přihrávek ve srovnání s průměrem.
+
+KEY-513967: Produces fewer key passes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Produkuje nižší počet klíčových přihrávek ve srovnání s průměrem.
+
+KEY-513968: Produces a high number of key passes per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Produkuje větší počet klíčových přihrávek za 90 minut ve srovnání s průměrem.
+
+KEY-513969: Produces a relatively average number of key passes per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Produkuje zhruba stejný počet klíčových přihrávek za 90 minut ve srovnání s průměrem.
+
+KEY-513970: Produces fewer key passes per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Produkuje nižší počet klíčových přihrávek za 90 minut ve srovnání s průměrem.
+
+KEY-513971: Attempts a high number of crosses compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o více křižných přihrávek ve srovnání s průměrem.
+
+KEY-513972: Attempts a relatively average number of crosses.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o zhruba stejně křižných přihrávek ve srovnání s průměrem.
+
+KEY-513973: Attempts fewer crosses than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o méně křižných přihrávek ve srovnání s průměrem.
+
+KEY-513974: Attempts a high number of crosses per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o více křižných přihrávek za 90 minut ve srovnání s průměrem.
+
+KEY-513975: Attempts a relatively average number of crosses per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o zhruba stejně křižných přihrávek za 90 minut ve srovnání s průměrem.
+
+KEY-513976: Attempts fewer crosses per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o méně křižných přihrávek za 90 minut ve srovnání s průměrem.
+
+KEY-513977: Completes an excellent percentage of crosses compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Kompletuje procentuálně více křižných přihrávek ve srovnání s průměrem.
+
+KEY-513978: Completes a relatively average percentage of crosses.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Kompletuje procentuálně zhruba stejně křižných přihrávek ve srovnání s průměrem.
+
+KEY-513979: Completes fewer crosses than average by ratio.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Kompletuje procentuálně méně křižných přihrávek ve srovnání s průměrem.
+
+KEY-513980: Attempts a high number of dribbles compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o více kliček ve srovnání s průměrem.
+
+KEY-513981: Attempts a relatively average number of dribbles.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o zhruba stejně kliček ve srovnání s průměrem.
+
+KEY-513982: Attempts fewer dribbles than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o méně kliček ve srovnání s průměrem.
+
+KEY-513983: Attempts a high number of dribbles per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o více kliček za 90 minut ve srovnání s průměrem.
+
+KEY-513984: Attempts a relatively average number of dribbles per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o zhruba stejně kliček za 90 minut ve srovnání s průměrem.
+
+KEY-513985: Attempts fewer dribbles per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se o méně kliček za 90 minut ve srovnání s průměrem.
+
+KEY-513986: Is fouled well above average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Je faulován vysoko nad průměrem.
+
+KEY-513987: Is fouled with average frequency.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Je faulován průměrně.
+
+KEY-513988: Is fouled less than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Je faulován podprůměně.
+
+KEY-513989: Is fouled well above average per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Je faulován nadprůměrně za 90 minut.
+
+KEY-513990: Is fouled with average frequency per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Je faulován průměrně za 90 minut.
+
+KEY-513991: Is fouled less per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Je faulován podprůměrně za 90 minut.
+
+KEY-513992: Fouls less often than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Fauluje méně často než průměr.
+
+KEY-513993: Commits a relatively average number of fouls.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Dopustí se relativně průměrného počtu faulů.
+
+KEY-513994: Fouls well above average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Fauluje značně nadprůměrně.
+
+KEY-513995: Fouls less often per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Fauluje méně často za 90 minut než průměr.
+
+KEY-513996: Commits a relatively average number of fouls per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Dopustí se relativně průměrného počtu faulů za 90 minut.
+
+KEY-513997: Fouls well above average per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Fauluje značně nadprůměrně za 90 minut.
+
+KEY-513998: Loses possession well below average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, this is a positive as he keeps the ball regularly]
+STR-1: Ztrácí míč méně často než je průměr.
+
+KEY-513999: Loses possession at an average rate.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Ztrácí míč zhruba stejně jako je průměr.
+
+KEY-514000: Loses possession well above average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, this is a bad thing]
+STR-1: Ztrácí míč častěji než je průměr.
+
+KEY-514001: Loses possession well below average per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, this is a good thing]
+STR-1: Ztrácí míč méně často než je průměr za 90 minut.
+
+KEY-514002: Loses possession at an average rate per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Ztrácí míč zhruba stejně často než je průměr za 90 minut.
+
+KEY-514003: Loses possession well above average per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Ztrácí míč častěji než je průměr za 90 minut.
+
+KEY-514004: Attempts a high number of tackles compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se více o obranné zákroky ve srovnání s průměrem.
+
+KEY-514005: Attempts a relatively average number of tackles.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se zhruba stejně o obranné zákroky ve srovnání s průměrem.
+
+KEY-514006: Attempts fewer tackles than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se méně o obranné zákroky ve srovnání s průměrem.
+
+KEY-514007: Wins a high number of tackles compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vyhrává více obranných soubojů ve srovnání s průměrem.
+
+KEY-514008: Wins a relatively average number of tackles.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vyhrává zhruba stejně obranných soubojů ve srovnání s průměrem.
+
+KEY-514009: Wins fewer tackles than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vyhrává méně obranných soubojů ve srovnání s průměrem.
+
+KEY-514010: Attempts a high number of tackles per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se více o obranné zákroky za 90 minut ve srovnání s průměrem.
+
+KEY-514011: Attempts a relatively average number of tackles per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se zhruba stejně o obranné zákroky za 90 minut ve srovnání s průměrem.
+
+KEY-514012: Attempts fewer tackles per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Pokouší se méně o obranné zákroky za 90 minut ve srovnání s průměrem.
+
+KEY-514013: Wins a high number of tackles per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vyhrává více obranných soubojů za 90 minut ve srovnání s průměrem.
+
+KEY-514014: Wins a relatively average number of tackles per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vyhrává zhruba stejně obranných soubojů za 90 minut ve srovnání s průměrem.
+
+KEY-514015: Wins fewer tackles per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vyhrává méně obranných soubojů za 90 minut ve srovnání s průměrem.
+
+KEY-514016: Wins an excellent ratio of tackles compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vyhrává ve vyšším poměru obranných soubojů ve srovnání s průměrem.
+
+KEY-514017: Wins a relatively average ratio of tackles.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vyhrává ve zhruba stejném poměru obranných soubojů ve srovnání s průměrem.
+
+KEY-514018: Wins fewer tackles than average by ratio.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Vyhrává v nižším poměru obranných soubojů ve srovnání s průměrem.
+
+KEY-514019: Makes a high number of interceptions compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Odebere více míčů ve srovnání s průměrem.
+
+KEY-514020: Makes a relatively average number of interceptions.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Odebere zhruba stejně míčů ve srovnání s průměrem.
+
+KEY-514021: Makes fewer interceptions than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Odebere méně míčů ve srovnání s průměrem.
+
+KEY-514022: Makes a high number of interceptions per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Odebere více míčů za 90 minut ve srovnání s průměrem.
+
+KEY-514023: Makes a relatively average number of interceptions per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Odebere zhruba stejně míčů za 90 minut ve srovnání s průměrem.
+
+KEY-514024: Makes fewer interceptions per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Odebere méně míčů za 90 minut ve srovnání s průměrem.
+
+KEY-514025: Wins possession well above average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Drží míč častěji než je průměr.
+
+KEY-514026: Wins possession at an average rate.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Drží míč zhruba stejně jako průměr.
+
+KEY-514027: Wins possession well below average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Drží míč méně často než je průměr.
+
+KEY-514028: Wins possession well above average per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Drží míč častěji než je průměr za 90 minut.
+
+KEY-514029: Wins possession at an average rate per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Drží míč zhruba stejně jako průměr za 90 minut.
+
+KEY-514030: Wins possession well below average per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Drží míč méně často než je průměr za 90 minut.
+
+KEY-514031: Makes a high number of blocks compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zablokuje více střel ve srovnání s průměrem.
+
+KEY-514032: Makes a relatively average number of blocks.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zablokuje zhruba stejně střel ve srovnání s průměrem.
+
+KEY-514033: Makes fewer blocks than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zablokuje méně střel ve srovnání s průměrem.
+
+KEY-514034: Makes a high number of blocks per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zablokuje více střel za 90 minut ve srovnání s průměrem.
+
+KEY-514035: Makes a relatively average number of blocks per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zablokuje zhruba stejně střel za 90 minut ve srovnání s průměrem.
+
+KEY-514036: Makes fewer blocks per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Zablokuje méně střel za 90 minut ve srovnání s průměrem.
+
+KEY-514037: Makes a high number of clearances compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Udělá více zákroků ve srovnání s průměrem.
+
+KEY-514038: Makes a relatively average number of clearances.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Udělá zhruba stejně zákroků ve srovnání s průměrem.
+
+KEY-514039: Makes fewer clearances than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Udělá méně zákroků ve srovnání s průměrem.
+
+KEY-514040: Makes a high number of clearances per 90 minutes compared to average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Udělá více zákroků za 90 minut ve srovnání s průměrem.
+
+KEY-514041: Makes a relatively average number of clearances per 90 minutes.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Udělá zhruba stejně zákroků za 90 minut ve srovnání s průměrem.
+
+KEY-514042: Makes fewer clearances per 90 minutes than average.[COMMENT: AREA: Data analyst observations; SUB-AREA: Polygons; FR-BN: 33109; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: opinion on performance, these strings apply to outfield players only]
+STR-1: Udělá méně zákroků za 90 minut ve srovnání s průměrem.
