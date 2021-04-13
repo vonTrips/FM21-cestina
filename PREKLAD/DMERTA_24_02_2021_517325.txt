@@ -1,0 +1,476 @@
+KEY-517325: [%person#2-I] think we should extend [%male#1]{s} loan deal as he has played a number of matches for us this season and we don't want to lose a regular player.[COMMENT: AREA: Backroom Advice; SUB-AREA: Extend loan player; FR-BN: 14962; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE: Detailed explanation behind the backroom advice being given]
+KEY-517325-M: [%male#2-I] think we should extend [%male#1]{s} loan deal as he has played a number of matches for us this season and we don't want to lose a regular player.[COMMENT: AREA: Backroom Advice; SUB-AREA: Extend loan player; FR-BN: 14962; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE: Detailed explanation behind the backroom advice being given]
+STR-1: Myslím, že bychom měli prodloužit hostování [%male#1]{}, protože pro nás v této sezóně odehrál mnoho zápasů a my nechceme přijít o pravidelného hráče sestavy.[%male#2-hidden]
+KEY-517325-F: [%female#2-I] think we should extend [%male#1]{s} loan deal as he has played a number of matches for us this season and we don't want to lose a regular player.[COMMENT: AREA: Backroom Advice; SUB-AREA: Extend loan player; FR-BN: 14962; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE: Detailed explanation behind the backroom advice being given]
+STR-1: Myslím, že bychom měli prodloužit hostování [%male#1]{}, protože pro nás v této sezóně odehrál mnoho zápasů a my nechceme přijít o pravidelného hráče sestavy.[%male#2-hidden]
+
+KEY-517327: Has played a lot for us this season[COMMENT: AREA: Backroom Advice; SUB-AREA: Extend loan player; FR-BN: 14962; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE: Short explanation behind the backroom advice being given]
+STR-1: Hrál pro nás hodně tuto sezónu
+
+KEY-517392: Chinese Naturalised Players In Squad[COMMENT: AREA: Editor; Squad selection rule; SUB-AREA: Rule for players who have gained Chinese nationality; FN: 30062; TONE: Formal; CHARLIMIT: None]
+STR-1: Čínští naturalizovaní hráči v sestavě
+
+KEY-517393: [%nation#1-nationality], [%nation#2-nationality] or [%nation#3-nationality] Players In Squad[COMMENT: AREA: Editor; Squad selection rule; SUB-AREA: Rule for players who have gained Chinese nationality; FN: 30062; TONE: Formal; CHARLIMIT: None]
+STR-1: Hráči s národností [%nation#1-nationality], [%nation#2-nationality] nebo [%nation#3-nationality] v sestavě
+
+KEY-517394: Trigger On Stage Setup[COMMENT: AREA: Advanced editor rules; SUB-AREA: stage setup/finished actions list; FR-BN: n/a; TONE: Formal; CHARLIMIT: None]
+STR-1: Spustit nastavení fáze
+
+KEY-517395: Players Treated As Non-Foreign[COMMENT: AREA: Editor; SUB-AREA: Fixture rules squad selection type; BN: 42809; TONE: Formal; CHARLIMIT: None]
+STR-1: Hráči nepovažováni za cizí
+
+KEY-517396: Players To Treat As Non-Foreign[COMMENT: AREA: Editor; SUB-AREA: Fixture rules squad selection type; FR: 42809; TONE: Formal; CHARLIMIT: None]
+STR-1: S hráči nezacházet jako s cizími
+
+KEY-517397: Can Only Buy From Lower Division[COMMENT: AREA: editor field; NOTE: transfer window type]
+STR-1: Nakupovat pouze z nižších divizí
+
+KEY-517398: Post-Soviet States[COMMENT: AREA: Nation; SUB-AREA: Nation Name; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: added for credits list but can be used anywhere in-game]
+STR-1: Postsovětské státy
+
+KEY-517399: Brunei Darussalam[COMMENT: AREA: Nation; SUB-AREA: Nation Name; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: added for credits list but can be used anywhere in-game, didn't exist before for some reason]
+STR-1: Brunej
+
+KEY-517400: East Timor[COMMENT: AREA: Nation; SUB-AREA: Nation Name; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: added for credits list but can be used anywhere in-game, didn't exist before for some reason]
+STR-1: Východní Timor
+
+KEY-517401: Guam[COMMENT: AREA: Nation; SUB-AREA: Nation Name; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: added for credits list but can be used anywhere in-game, didn't exist before for some reason]
+STR-1: Guam
+
+KEY-517402: Ivory Coast[COMMENT: AREA: Nation; SUB-AREA: Nation Name; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: added for credits list but can be used anywhere in-game, didn't exist before for some reason]
+STR-1: Pobřeží slonoviny
+
+KEY-517403: Kiribati[COMMENT: AREA: Nation; SUB-AREA: Nation Name; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: added for credits list but can be used anywhere in-game, didn't exist before for some reason]
+STR-1: Republika Kiribati
+
+KEY-517404: Palestine[COMMENT: AREA: Nation; SUB-AREA: Nation Name; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: added for credits list but can be used anywhere in-game, didn't exist before for some reason]
+STR-1: Palestina
+
+KEY-517405: Sri Lanka[COMMENT: AREA: Nation; SUB-AREA: Nation Name; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: added for credits list but can be used anywhere in-game, didn't exist before for some reason]
+STR-1: Srí Lanka
+
+KEY-517406: Yemen[COMMENT: AREA: Nation; SUB-AREA: Nation Name; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: added for credits list but can be used anywhere in-game, didn't exist before for some reason]
+STR-1: Jemen
+
+KEY-517407: Look To Use Youth Setup[COMMENT: AREA: Inbox; SUB-AREA: Backroom Advice; FR-BN: 39750; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: backroom advice; short summary of the advice, treat it as a title, only a few words, it'll be elaborated on in a pop-up upon clicking]
+STR-1: Podívejte se, jak použít nastavení pro mládež
+
+KEY-517408: Good Facilities[COMMENT: AREA: Inbox; SUB-AREA: Backroom Advice; FR-BN: 39750; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: backroom advice; short summary of the explanation, it'll be elaborated on in a pop-up upon clicking]
+STR-1: Dobré zázemí
+
+KEY-517409: Is a quality player[COMMENT: AREA: Backroom Advice; SUB-AREA: Extend loan player; FR-BN: 14962; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE: Short explanation behind the backroom advice being given]
+STR-1: Je kvalitním hráčem
+
+KEY-517410: Unfit First Team Players[COMMENT: AREA: Backroom Advice; SUB-AREA: Tactical Advice; FR-BN: 8560; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: heading for Backroom Advice]
+STR-1: Nezpůsobilí hráči prnvího týmu
+
+KEY-517411: We have a number of unfit players in the first team[COMMENT: AREA: Backroom Advice; SUB-AREA: Tactical Advice; FR-BN: 8560; TONE: Formal; CHARLIMIT: None; REF-ID: 514682; NOTE: heading for Backroom Advice]
+STR-1: Máme nějaké nezpůsobilé hráče v prvním týmu
+
+KEY-517412: [%person#2-I] would highly recommend that [%person#5-you] make all unfit first-team players automatically available to play for the [%team#1-typeonly] due to the number of unfit players in the first team squad.[COMMENT: AREA: Backroom Advice; SUB-AREA: Tactical Advice; FR-BN: 8560; TONE: Formal; CHARLIMIT: None; REF-ID: 514683; NOTE: heading for Backroom Advice]
+KEY-517412-MM: [%male#2-I] would highly recommend that [%male#5-you] make all unfit first-team players automatically available to play for the [%team#1-typeonly] due to the number of unfit players in the first team squad.[COMMENT: AREA: Backroom Advice; SUB-AREA: Tactical Advice; FR-BN: 8560; TONE: Formal; CHARLIMIT: None; REF-ID: 514683; NOTE: heading for Backroom Advice]
+STR-1: Důrazně doporučuji, abyste všem nezpůsobilým hráčům prvního týmu automaticky zpřístupnili hraní za [%team#1-typeonly] kvůli počtu nezpůsobilých hráčů v týmu prvního týmu.[%male#2-hidden][%male#5-hidden]
+KEY-517412-MF: [%male#2-I] would highly recommend that [%female#5-you] make all unfit first-team players automatically available to play for the [%team#1-typeonly] due to the number of unfit players in the first team squad.[COMMENT: AREA: Backroom Advice; SUB-AREA: Tactical Advice; FR-BN: 8560; TONE: Formal; CHARLIMIT: None; REF-ID: 514683; NOTE: heading for Backroom Advice]
+STR-1: Důrazně doporučuji, abyste všem nezpůsobilým hráčům prvního týmu automaticky zpřístupnili hraní za [%team#1-typeonly] kvůli počtu nezpůsobilých hráčů v týmu prvního týmu.[%male#2-hidden][%female#5-hidden]
+KEY-517412-FM: [%female#2-I] would highly recommend that [%male#5-you] make all unfit first-team players automatically available to play for the [%team#1-typeonly] due to the number of unfit players in the first team squad.[COMMENT: AREA: Backroom Advice; SUB-AREA: Tactical Advice; FR-BN: 8560; TONE: Formal; CHARLIMIT: None; REF-ID: 514683; NOTE: heading for Backroom Advice]
+STR-1: Důrazně doporučuji, abyste všem nezpůsobilým hráčům prvního týmu automaticky zpřístupnili hraní za [%team#1-typeonly] kvůli počtu nezpůsobilých hráčů v týmu prvního týmu.[%female#2-hidden][%male#5-hidden]
+KEY-517412-FF: [%female#2-I] would highly recommend that [%female#5-you] make all unfit first-team players automatically available to play for the [%team#1-typeonly] due to the number of unfit players in the first team squad.[COMMENT: AREA: Backroom Advice; SUB-AREA: Tactical Advice; FR-BN: 8560; TONE: Formal; CHARLIMIT: None; REF-ID: 514683; NOTE: heading for Backroom Advice]
+STR-1: Důrazně doporučuji, abyste všem nezpůsobilým hráčům prvního týmu automaticky zpřístupnili hraní za [%team#1-typeonly] kvůli počtu nezpůsobilých hráčů v týmu prvního týmu.[%female#2-hidden][%female#5-hidden]
+
+KEY-517413: [%person#1-I] will be looking into improving our striking options.[COMMENT: AREA: Team Meetings; SUB-AREA: Promises; FR-BN: 32747; TONE: Informal; CHARLIMIT: None; REF-ID: 513248; NOTE: discussing promises in team meetings]
+KEY-517413-M: [%male#1-I] will be looking into improving our striking options.[COMMENT: AREA: Team Meetings; SUB-AREA: Promises; FR-BN: 32747; TONE: Informal; CHARLIMIT: None; REF-ID: 513248; NOTE: discussing promises in team meetings]
+STR-1: Zaměřím se na zlepšení našich útočných možností.[%male#1-hidden]
+KEY-517413-F: [%female#1-I] will be looking into improving our striking options.[COMMENT: AREA: Team Meetings; SUB-AREA: Promises; FR-BN: 32747; TONE: Informal; CHARLIMIT: None; REF-ID: 513248; NOTE: discussing promises in team meetings]
+STR-1: Zaměřím se na zlepšení našich útočných možností.[%female#1-hidden]
+
+KEY-517414: [%person#1-I]'ll be making improvements to the strike force.[COMMENT: AREA: Team Meetings; SUB-AREA: Promises; FR-BN: 32747; TONE: Informal; CHARLIMIT: None; REF-ID: 513249; NOTE: discussing promises in team meetings]
+KEY-517414-M: [%male#1-I]'ll be making improvements to the strike force.[COMMENT: AREA: Team Meetings; SUB-AREA: Promises; FR-BN: 32747; TONE: Informal; CHARLIMIT: None; REF-ID: 513249; NOTE: discussing promises in team meetings]
+STR-1: Vylepším naši útočnou sílu.[%male#1-hidden]
+KEY-517414-F: [%female#1-I]'ll be making improvements to the strike force.[COMMENT: AREA: Team Meetings; SUB-AREA: Promises; FR-BN: 32747; TONE: Informal; CHARLIMIT: None; REF-ID: 513249; NOTE: discussing promises in team meetings]
+STR-1: Vylepším naši útočnou sílu.[%female#1-hidden]
+
+KEY-517415: [%person#1-I]'m planning to improve the quality of striker we have here through the transfer market.[COMMENT: AREA: Team Meetings; SUB-AREA: Promises; FR-BN: 32747; TONE: Informal; CHARLIMIT: None; REF-ID: 513250; NOTE: discussing promises in team meetings]
+KEY-517415-M: [%male#1-I]'m planning to improve the quality of striker we have here through the transfer market.[COMMENT: AREA: Team Meetings; SUB-AREA: Promises; FR-BN: 32747; TONE: Informal; CHARLIMIT: None; REF-ID: 513250; NOTE: discussing promises in team meetings]
+STR-1: Mám v plánu zlepšit kvalitu našich útočníků pomocí přestupů.[%male#1-hidden]
+KEY-517415-F: [%female#1-I]'m planning to improve the quality of striker we have here through the transfer market.[COMMENT: AREA: Team Meetings; SUB-AREA: Promises; FR-BN: 32747; TONE: Informal; CHARLIMIT: None; REF-ID: 513250; NOTE: discussing promises in team meetings]
+STR-1: Mám v plánu zlepšit kvalitu našich útočníků pomocí přestupů.[%female#1-hidden]
+
+KEY-517416: Some reports suggest that [%team#2-short] simply felt that it was time for a change and a fresh approach. Is that a fair assessment?[COMMENT: AREA: press conference question; NOTE: QID_DEPARTURE_REASON_DR_TIME_FOR_CHANGE]
+STR-1: Některé zprávy naznačují, že tým [%team#2-short] jednoduše cítil, že je čas na změnu a nový přístup. Je to spravedlivé hodnocení?
+
+KEY-517417: Do [%person#1-you] believe that [%team#2-short]{s} league position was good enough to have deserved a longer stay of execution?[COMMENT: AREA: press conference question; NOTE: QID_DEPARTURE_REASON_DR_BAD_POSITION]
+KEY-517417-M: Do [%male#1-you] believe that [%team#2-short]{s} league position was good enough to have deserved a longer stay of execution?[COMMENT: AREA: press conference question; NOTE: QID_DEPARTURE_REASON_DR_BAD_POSITION]
+STR-1: Věříte, že ligová pozice týmu [%team#2-short]{} byla dost dobrá na to, abyste si zasloužil další čas?[%male#1-hidden]
+KEY-517417-F: Do [%female#1-you] believe that [%team#2-short]{s} league position was good enough to have deserved a longer stay of execution?[COMMENT: AREA: press conference question; NOTE: QID_DEPARTURE_REASON_DR_BAD_POSITION]
+STR-1: Věříte, že ligová pozice týmu [%team#2-short]{} byla dost dobrá na to, abyste si zasloužila další čas?[%female#1-hidden]
+
+KEY-517418: A number of people would agree that [%person#1-your] win over [%team#2-short] was the highlight of [%team#1-short]{s} run to the final. Is that something [%person#1-you] also believe?[COMMENT: AREA: press conference question; NOTE: QID_JOURNO_PROPOSES_MATCH_AS_KEY_TO_RUN_TO_FINAL_DOES_MANAGER_AGREE]
+KEY-517418-M: A number of people would agree that [%male#1-your] win over [%team#2-short] was the highlight of [%team#1-short]{s} run to the final. Is that something [%male#1-you] also believe?[COMMENT: AREA: press conference question; NOTE: QID_JOURNO_PROPOSES_MATCH_AS_KEY_TO_RUN_TO_FINAL_DOES_MANAGER_AGREE]
+STR-1: Mnoho lidí věří, že vaše vítězství nad [%team#2-short] bylo hlavní událostí týmu [%team#1-short]{} při cestě do finále. Je tomu něco, čemu také věříte?[%male#1-hidden][%male#1-hidden]
+KEY-517418-F: A number of people would agree that [%female#1-your] win over [%team#2-short] was the highlight of [%team#1-short]{s} run to the final. Is that something [%female#1-you] also believe?[COMMENT: AREA: press conference question; NOTE: QID_JOURNO_PROPOSES_MATCH_AS_KEY_TO_RUN_TO_FINAL_DOES_MANAGER_AGREE]
+STR-1: Mnoho lidí věří, že vaše vítězství nad [%team#2-short] bylo hlavní událostí týmu [%team#1-short]{} při cestě do finále. Je tomu něco, čemu také věříte?[%female#1-hidden][%female#1-hidden]
+
+KEY-517419: Nations and Leagues[COMMENT: AREA: Network Game Join Dialog; SUB-AREA: Title for Nations and Leagues in the game; BN: 43311; TONE: Formal; CHARLIMIT: None; REF-ID: XXXXXX; NOTE;]
+STR-1: Národy a ligy
+
+KEY-517420: 15 Seconds[COMMENT: AREA: Fantasy Draft; SUB-AREA: Draft Time Choice; BN: NA; TONE: Formal; CHARLIMIT: 10; REF-ID: XXXXXX; NOTE;]
+STR-1: 15 sekund
+
+KEY-517421: 1 Minute 30 Seconds[COMMENT: AREA: Fantasy Draft; SUB-AREA: Draft Time Choice; BN: NA; TONE: Formal; CHARLIMIT: 10; REF-ID: XXXXXX; NOTE;]
+STR-1: 1 min 30 sek
+
+KEY-517422: Creating Fantasy Draft Competition...[COMMENT: AREA: Fantasy Draft Create Game Panel; SUB-AREA: Loading Database Text; BN: 452; TONE: Formal; CHARLIMIT: None; REF-ID: XXXXXX; NOTE;]
+STR-1: Vytvořit Fantasy Draft soutěž...
+
+KEY-517423: This response will result in a promise being made[COMMENT: AREA: Interaction panel; SUB-AREA: Promise response button; FR-BN: 37500; TONE: Formal; CHARLIMIT: None; NOTE: Explanatory hint indicating a promise will be generated by selecting this response]
+STR-1: Výsledkem této odpovědi bude slib
+
+KEY-517424: Domestic Match Reports[COMMENT: AREA: Inbox; SUB-AREA: Match Reports; NOTE: Title for Domestic match reports panel]
+STR-1: Reporty domácích zápasů
+
+KEY-517425: Appearances counting towards Challenge[COMMENT: AREA: challenge mode; NOTE: tooltip text for ID 227844 but relating to Challenge mode criteria]
+STR-1: Vzhledy započítávané do výzvy
+
+KEY-517426: The Data Report provides a more in-depth look at how the team has been performing on the pitch. Here, [%person#2-you] can track the team's attacking and defensive efficiency and compare against other clubs in the league.[COMMENT: AREA: Team Report Tutorial; SUB-AREA: Analyst Report; BN: 41082; TONE: Formal; CHARLIMIT: 230; REF-ID: XXXXXX; NOTE;]
+KEY-517426-M: The Data Report provides a more in-depth look at how the team has been performing on the pitch. Here, [%male#2-you] can track the team's attacking and defensive efficiency and compare against other clubs in the league.[COMMENT: AREA: Team Report Tutorial; SUB-AREA: Analyst Report; BN: 41082; TONE: Formal; CHARLIMIT: 230; REF-ID: XXXXXX; NOTE;]
+STR-1: Data Report poskytuje podrobnější pohled na to, jak si tým vede na hřišti. Zde můžete sledovat útočnou a obrannou efektivitu týmu a porovnávat ji s ostatními kluby v lize.[%male#2-hidden]
+KEY-517426-F: The Data Report provides a more in-depth look at how the team has been performing on the pitch. Here, [%female#2-you] can track the team's attacking and defensive efficiency and compare against other clubs in the league.[COMMENT: AREA: Team Report Tutorial; SUB-AREA: Analyst Report; BN: 41082; TONE: Formal; CHARLIMIT: 230; REF-ID: XXXXXX; NOTE;]
+STR-1: Data Report poskytuje podrobnější pohled na to, jak si tým vede na hřišti. Zde můžete sledovat útočnou a obrannou efektivitu týmu a porovnávat ji s ostatními kluby v lize.[%female#2-hidden]
+
+KEY-517427: The team's attacking and defensive efficiency is further analysed using the Expected Goal (xG) statistics; xG calculates the probability of a shot leading to a goal, taking various factors into account relating to each goalscoring chance.[COMMENT: AREA: Team Report Tutorial; SUB-AREA: Analyst Report; BN: 41082; TONE: Formal; CHARLIMIT: 230; REF-ID: XXXXXX; NOTE;]
+STR-1: Útočná a obranná účinnost týmu je dále analyzována pomocí statistik očekávaného skórování (xG); xG vypočítá pravděpodobnost střely vedoucí k brance, přičemž zohlední různé faktory související s každou šancí na skórování.
+
+KEY-517428: Expected Goals per Shot[COMMENT: AREA: Competition Stats; SUB-AREA: Player Overview; FR-BN: 19995; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Stat description]
+STR-1: Očekávané branky na střelu
+
+KEY-517429: [%male#1-surname] has not played in enough recent international games for his country to qualify for a work permit.[COMMENT: AREA: Work Permits; SUB-AREA: Transfer/Contract Offer Panels; FR: 27835; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: [%male#1-surname] nehrál v nedávné době v mezinárodních zápasech natolik, aby jeho země získala pracovní povolení.
+
+KEY-517430: Ensure [%person#1-you] make the latter stages of the [%comp#2-short][COMMENT: AREA: Interaction; SUB-AREA: promise; FR-BN: 32042; TONE: Formal; CHARLIMIT: None; NOTE: Promise description string]
+KEY-517430-M: Ensure [%male#1-you] make the latter stages of the [%comp#2-short][COMMENT: AREA: Interaction; SUB-AREA: promise; FR-BN: 32042; TONE: Formal; CHARLIMIT: None; NOTE: Promise description string]
+STR-1: Ujistěte se, že uděláte poslední fáze [%comp#2-short][%male#1-hidden]
+KEY-517430-F: Ensure [%female#1-you] make the latter stages of the [%comp#2-short][COMMENT: AREA: Interaction; SUB-AREA: promise; FR-BN: 32042; TONE: Formal; CHARLIMIT: None; NOTE: Promise description string]
+STR-1: Ujistěte se, že uděláte poslední fáze [%comp#2-short][%female#1-hidden]
+
+KEY-517431: Pleased to have been promised that the club will make the latter stages of the [%comp#3-short] within a couple of seasons[COMMENT: AREA: Club Vision; SUB-AREA: Board Promises; FR-BN: 29255; TONE: Formal; CHARLIMIT: None; REF-ID: 504331; NOTE: promise reaction string, challenging typically means reaching the semi finals]
+STR-1: Těší nás, že jsme slíbili, že klub během několika sezón dosáhne poslední fáze [%comp#3-short]
+
+KEY-517432: Pleased to have been promised that the club will make the latter stages of the [%comp#3-short] next season[COMMENT: AREA: Club Vision; SUB-AREA: Board Promises; FR-BN: 29255; TONE: Formal; CHARLIMIT: None; REF-ID: 504332; NOTE: promise reaction string, challenging typically means reaching the semi finals]
+STR-1: Těší nás, že jsme slíbili, že klub v příští sezóně dosáhne poslední fáze [%comp#3-short]
+
+KEY-517433: Pleased to have been promised that the club will make the latter stages of the [%comp#3-short] this season[COMMENT: AREA: Club Vision; SUB-AREA: Board Promises; FR-BN: 29255; TONE: Formal; CHARLIMIT: None; REF-ID: 504333; NOTE: promise reaction string, challenging typically means reaching the semi finals]
+STR-1: Těší nás, že jsme slíbili, že klub v této sezóně dosáhne poslední fáze [%comp#3-short]
+
+KEY-517434: [%male#2-surname] rejected [%person#1-your] promise to make the latter stages of the [%comp#3-short].[COMMENT: AREA: Interaction; SUB-AREA: Summary of how the interaction went; FR-BN: 32857; TONE: Formal; CHARLIMIT: None; REF-ID: 511967; NOTE: string appearing at the end of a conversation or an interaction summarising an aspect of what just happened]
+KEY-517434-M: [%male#2-surname] rejected [%male#1-your] promise to make the latter stages of the [%comp#3-short].[COMMENT: AREA: Interaction; SUB-AREA: Summary of how the interaction went; FR-BN: 32857; TONE: Formal; CHARLIMIT: None; REF-ID: 511967; NOTE: string appearing at the end of a conversation or an interaction summarising an aspect of what just happened]
+STR-1: [%male#2-surname] odmítl tvůj slib dosáhnout pozdějších fází souteže [%comp#3-short].[%male#1-hidden]
+KEY-517434-F: [%male#2-surname] rejected [%female#1-your] promise to make the latter stages of the [%comp#3-short].[COMMENT: AREA: Interaction; SUB-AREA: Summary of how the interaction went; FR-BN: 32857; TONE: Formal; CHARLIMIT: None; REF-ID: 511967; NOTE: string appearing at the end of a conversation or an interaction summarising an aspect of what just happened]
+STR-1: [%male#2-surname] odmítl tvůj slib dosáhnout pozdějších fází souteže [%comp#3-short].[%female#1-hidden]
+
+KEY-517435: [%person#1-I] think the conversation ended positively, with [%male#2-surname] accepting [%person#3-your] promise of making the latter stages of the [%comp#5-short].[COMMENT: AREA: Interaction; SUB-AREA: Interaction Outcome; FR-BN: 32857; TONE: Formal; CHARLIMIT: None; REF-ID: 512289; NOTE: member of staff summarises the interaction outcome]
+KEY-517435-MM: [%male#1-I] think the conversation ended positively, with [%male#2-surname] accepting [%male#3-your] promise of making the latter stages of the [%comp#5-short].[COMMENT: AREA: Interaction; SUB-AREA: Interaction Outcome; FR-BN: 32857; TONE: Formal; CHARLIMIT: None; REF-ID: 512289; NOTE: member of staff summarises the interaction outcome]
+STR-1: Myslím, že konverzace skončila pozitivně když [%male#2-surname] přijal tvůj slib dosáhnout pozdějších fází souteže [%comp#5-short].[%male#1-hidden][%male#3-hidden]
+KEY-517435-MF: [%male#1-I] think the conversation ended positively, with [%male#2-surname] accepting [%female#3-your] promise of making the latter stages of the [%comp#5-short].[COMMENT: AREA: Interaction; SUB-AREA: Interaction Outcome; FR-BN: 32857; TONE: Formal; CHARLIMIT: None; REF-ID: 512289; NOTE: member of staff summarises the interaction outcome]
+STR-1: Myslím, že konverzace skončila pozitivně když [%male#2-surname] přijal tvůj slib dosáhnout pozdějších fází souteže [%comp#5-short].[%male#1-hidden][%female#3-hidden]
+KEY-517435-FM: [%female#1-I] think the conversation ended positively, with [%male#2-surname] accepting [%male#3-your] promise of making the latter stages of the [%comp#5-short].[COMMENT: AREA: Interaction; SUB-AREA: Interaction Outcome; FR-BN: 32857; TONE: Formal; CHARLIMIT: None; REF-ID: 512289; NOTE: member of staff summarises the interaction outcome]
+STR-1: Myslím, že konverzace skončila pozitivně když [%male#2-surname] přijal tvůj slib dosáhnout pozdějších fází souteže [%comp#5-short].[%female#1-hidden][%male#3-hidden]
+KEY-517435-FF: [%female#1-I] think the conversation ended positively, with [%male#2-surname] accepting [%female#3-your] promise of making the latter stages of the [%comp#5-short].[COMMENT: AREA: Interaction; SUB-AREA: Interaction Outcome; FR-BN: 32857; TONE: Formal; CHARLIMIT: None; REF-ID: 512289; NOTE: member of staff summarises the interaction outcome]
+STR-1: Myslím, že konverzace skončila pozitivně když [%male#2-surname] přijal tvůj slib dosáhnout pozdějších fází souteže [%comp#5-short].[%female#1-hidden][%female#3-hidden]
+
+KEY-517436: [%person#1-I] believe the promise went down quite well with a few of the players.[COMMENT: AREA: Interaction; SUB-AREA: Interaction Summary; FR-BN: 40241; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: Summary description of a team meeting]
+KEY-517436-M: [%male#1-I] believe the promise went down quite well with a few of the players.[COMMENT: AREA: Interaction; SUB-AREA: Interaction Summary; FR-BN: 40241; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: Summary description of a team meeting]
+STR-1: Věřím, že slib několika hráčům docela dobře padl.[%male#1-hidden]
+KEY-517436-F: [%female#1-I] believe the promise went down quite well with a few of the players.[COMMENT: AREA: Interaction; SUB-AREA: Interaction Summary; FR-BN: 40241; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: Summary description of a team meeting]
+STR-1: Věřím, že slib několika hráčům docela dobře padl.[%female#1-hidden]
+
+KEY-517437: [%person#1-I] believe the promise made wasn't very popular with the players.[COMMENT: AREA: Interaction; SUB-AREA: Interaction Summary; FR-BN: 40241; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: Summary description of a team meeting]
+KEY-517437-M: [%male#1-I] believe the promise made wasn't very popular with the players.[COMMENT: AREA: Interaction; SUB-AREA: Interaction Summary; FR-BN: 40241; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: Summary description of a team meeting]
+STR-1: Věřím, že slib není velmi populární mezi hráči.[%male#1-hidden]
+KEY-517437-F: [%female#1-I] believe the promise made wasn't very popular with the players.[COMMENT: AREA: Interaction; SUB-AREA: Interaction Summary; FR-BN: 40241; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: Summary description of a team meeting]
+STR-1: Věřím, že slib není velmi populární mezi hráči.[%female#1-hidden]
+
+KEY-517438: Unlucky lads, we did all we could to overturn the first leg deficit, it just wasn't to be.[COMMENT: AREA: Team Talks; SUB-AREA: All Star Match; FR-BN: 30905; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: team talk issued by manager to team]
+STR-1: Hoši, udělali jsme vše pro to, abychom zvrátili porážku z prvního zápasu, prostě to nevyšlo.
+
+KEY-517439: [%male#1]{s} MLS rights are already owned by another MLS club and need to be acquired via a trade instead.[COMMENT: AREA: MLSl FR:8781; NOTE: transfer manager; reason for not being able to make an offer]
+STR-1: Práva MLS na hráče [%male#1]{} již vlastní jiný klub MLS a je třeba je místo toho získat prostřednictvím obchodu.
+
+KEY-517440: [%male#1-surname] recorded an impressive lead over joint second-placed [%male#2] and [%male#3], who achieved [%string#2] points.[COMMENT: AREA: Inbox; SUB-AREA: Award News; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: SPECIAL_GOLDEN_BOOT_AWARD_NEWS]
+STR-1: [%male#1-surname] zaznamenal působivý náskok před společným druhým místem [%male#2] a [%male#3] se ziskem [%string#2] bodů.
+
+KEY-517441: Although [%male#1-surname] finished equal on points with joint second-placed [%male#2] and [%male#3], the win was given to [%male#1-surname] because he accumulated the points in less playing time.[COMMENT: AREA: Inbox; SUB-AREA: Award News; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: SPECIAL_GOLDEN_BOOT_AWARD_NEWS]
+STR-1: Přestože [%male#1-surname] skončil na body se společným druhým místem [%male#2] a [%male#3], vítězství získal [%male#1-surname] protože nasbíral body za méně hracího času.
+
+KEY-517442: Both [%male#2] and [%male#3] followed closely in joint-second place with [%string#2] points.[COMMENT: AREA: Inbox; SUB-AREA: Award News; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: SPECIAL_GOLDEN_BOOT_AWARD_NEWS]
+STR-1: Oba, [%male#2] a [%male#3] následovali těsně na druhém místě se ziskem [%string#2] bodů.
+
+KEY-517443: As a result of this ban, these players will miss the [%comp#1-short] game against [%team#2-short] at [%stadium#1-short] in [%number#1-text] days.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět v zápase [%comp#1-short] proti [%team#2-short] na stadionu [%stadium#1-short] za [%number#1-text] dní.
+
+KEY-517444: As a result of this ban, [%male#1-surname] will miss the [%comp#1-short] game against [%team#2-short] at [%stadium#1-short] in [%number#1-text] days.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět v zápase [%comp#1-short] proti [%team#2-short] na stadionu [%stadium#1-short] za [%number#1-text] dní.
+
+KEY-517445: As a result of this ban, these players will be absent starting from the [%comp#1-short] game against [%team#2-short] at [%stadium#1-short] in [%number#1-text] days.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět od zápasu [%comp#1-short] proti [%team#2-short] na stadionu [%stadium#1-short] za [%number#1-text] dní.
+
+KEY-517446: As a result of this ban, [%male#1-surname] will be absent starting from the [%comp#1-short] game against [%team#2-short] at [%stadium#1-short] in [%number#1-text] days.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět od zápasu [%comp#1-short] proti [%team#2-short] na stadionu [%stadium#1-short] za [%number#1-text] dní.
+
+KEY-517447: As a result of this ban, these players will miss tomorrow's [%comp#1-short] game against [%team#2-short] at [%stadium#1-short].[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět v zítřejším zápase [%comp#1-short] proti [%team#2-short] na stadionu [%stadium#1-short].
+
+KEY-517448: As a result of this ban, [%male#1-surname] will miss tomorrow's [%comp#1-short] game against [%team#2-short] at [%stadium#1-short].[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět v zítřejším zápase [%comp#1-short] proti [%team#2-short] na stadionu [%stadium#1-short].
+
+KEY-517449: As a result of this ban, these players will be absent starting from tomorrow's [%comp#1-short] game against [%team#2-short] at [%stadium#1-short].[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět od zítřejšího zápasu [%comp#1-short] proti [%team#2-short] na stadionu [%stadium#1-short].
+
+KEY-517450: As a result of this ban, [%male#1-surname] will be absent starting from tomorrow's [%comp#1-short] game against [%team#2-short] at [%stadium#1-short].[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět od zítřejšího zápasu [%comp#1-short] proti [%team#2-short] na stadionu [%stadium#1-short].
+
+KEY-517451: As a result of this ban, these players will miss today's [%comp#1-short] game against [%team#2-short] at [%stadium#1-short].[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět v dnešním zápase [%comp#1-short] proti [%team#2-short] na stadionu [%stadium#1-short].
+
+KEY-517452: As a result of this ban, [%male#1-surname] will miss today's [%comp#1-short] game against [%team#2-short] at [%stadium#1-short].[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět v dnešním zápase [%comp#1-short] proti [%team#2-short] na stadionu [%stadium#1-short].
+
+KEY-517453: As a result of this ban, these players will be absent starting from today's [%comp#1-short] game against [%team#2-short] at [%stadium#1-short].[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět od dnešního zápasu [%comp#1-short] proti [%team#2-short] na stadionu [%stadium#1-short].
+
+KEY-517454: As a result of this ban, [%male#1-surname] will be absent starting from today's [%comp#1-short] game against [%team#2-short] at [%stadium#1-short].[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět od dnešního zápasu [%comp#1-short] proti [%team#2-short] na stadionu [%stadium#1-short].
+
+KEY-517455: As a result of this ban, they will be absent starting from the upcoming [%fixture_name#1].[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět od zápasu [%fixture_name#1].
+
+KEY-517456: As a result of this ban, they will be absent starting from the [%fixture_name#1] taking place in [%number#1-text] days.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět od zápasu [%fixture_name#1] konaného za [%number#1-text] dní.
+
+KEY-517457: As a result of this ban, they will be absent starting from the [%fixture_name#1] taking place tomorrow.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět od zápasu [%fixture_name#1] konaného zítra.
+
+KEY-517458: As a result of this ban, they will be missing starting from the [%fixture_name#1] taking place today.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět od zápasu [%fixture_name#1] konaného dnes.
+
+KEY-517459: As a result of this ban, [%male#1-surname] will be absent starting from the [%fixture_name#1] taking place in the near future.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět od zápasu [%fixture_name#1] konaného v blízké budoucnosti.
+
+KEY-517460: As a result of this ban, [%male#1-surname] will be absent starting from the [%fixture_name#1] taking place in [%number#1-text] days.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět od zápasu [%fixture_name#1] konaného za [%number#1-text] dní.
+
+KEY-517461: As a result of this ban, [%male#1-surname] will be absent starting from the [%fixture_name#1] taking place tomorrow.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět od zápasu [%fixture_name#1] konaného zítra.
+
+KEY-517462: As a result of this ban, [%male#1-surname] will be missing starting from the [%fixture_name#1] taking place today.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět od zápasu [%fixture_name#1] konaného dnes.
+
+KEY-517463: As a result of this ban, they will be missing for the upcoming [%fixture_name#1].[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět na zápase [%fixture_name#1].
+
+KEY-517464: As a result of this ban, they will be missing for the [%fixture_name#1] taking place in [%number#1-text] days.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět na zápase [%fixture_name#1] konaného za [%number#1-text] dní.
+
+KEY-517465: As a result of this ban, they will be missing for the [%fixture_name#1] taking place tomorrow.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět na zápase [%fixture_name#1] konaného zítra.
+
+KEY-517466: As a result of this ban, they will be missing for the [%fixture_name#1] taking place today.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, tito hráči budou chybět na zápase [%fixture_name#1] konaného dnes.
+
+KEY-517467: As a result of this ban, [%male#1-surname] will be missing for the upcoming [%fixture_name#1].[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět na zápase [%fixture_name#1].
+
+KEY-517468: As a result of this ban, [%male#1-surname] will be missing for the [%fixture_name#1] taking place in [%number#1-text] days.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět na zápase [%fixture_name#1] konaného za [%number#1-text] dní.
+
+KEY-517469: As a result of this ban, [%male#1-surname] will be missing for the [%fixture_name#1] taking place tomorrow.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět na zápase [%fixture_name#1] konaného zítra.
+
+KEY-517470: As a result of this ban, [%male#1-surname] will be missing for the [%fixture_name#1] taking place today.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Jako výsledek tohoto zákazu, [%male#1-surname] bude chybět na zápase [%fixture_name#1] konaného dnes.
+
+KEY-517471: They will also miss [%number#1-text] further games, including fixtures against [%team#3-short] and [%team#4-short].[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: [%number#1-text] - počet zápasů, které budou chybět, což zahrnuje utkání proti [%team#3-short] a [%team#4-short].
+
+KEY-517472: He will also miss [%number#1-text] further games, including the fixtures against [%team#3-short] and [%team#4-short].[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: [%number#1-text] - počet zápasů, které bude chybět, což zahrnuje utkání proti [%team#3-short] a [%team#4-short].
+
+KEY-517473: They will miss the games against [%team#3-short] and [%team#4-short] too.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Budou chybět v zápasech proti [%team#3-short] a [%team#4-short].
+
+KEY-517474: He will miss the games against [%team#3-short] and [%team#4-short] too.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Bude chybět v zápasech proti [%team#3-short] a [%team#4-short].
+
+KEY-517475: They will miss the following game against [%team#3-short] too.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Budou chybět následující zápas proti [%team#3-short].
+
+KEY-517476: He will miss the following game against [%team#3-short] too.[COMMENT: AREA: Inbox; SUB-AREA: Fines; FR: 32869; TONE: Formal; CHARLIMIT: None; NOTE: list of games which will be missed as a result of a ban]
+STR-1: Bude chybět následující zápas proti [%team#3-short].
+
+KEY-517477: [%male#2] is expecting to be played as {an}[%position#1] with {an}[%tactical_role#1] role[COMMENT: AREA: Interaction; SUB-AREA: Promise; FR-BN: 45180; TONE: Informal; CHARLIMIT: None; REF-ID: N/A; NOTE: Promise warning string]
+STR-1: [%male#2] očekává že nastoupí jako {}[%position#1] v roli {}[%tactical_role#1].
+
+KEY-517478: [%male#2] is expecting to be played in his preferred position and role[COMMENT: AREA: Interaction; SUB-AREA: Promise; FR-BN: 45180; TONE: Informal; CHARLIMIT: None; REF-ID: N/A; NOTE: Promise warning string]
+STR-1: [%male#2] očekává že nastoupí na své preferované pozici a v preferované roli.
+
+KEY-517479: [%person#2-I]'m surprised to have seen [%male#3] not being used as {an}[%position#1-lowercase] on a regular basis, particularly following [%person#2-my] request for [%person#1-you] to play the player in the agreed position more often during the remainder of his loan spell.[COMMENT: AREA: Interaction; SUB-AREA: Promises; FR-BN: 6390; TONE: Formal; CHARLIMIT: Short; REF-ID: n/a; NOTE: string describing how well the manager has met the promise, manager speaking to other manager about player on loan between the two clubs; use top ten matches]
+KEY-517479-MM: [%male#2-I]'m surprised to have seen [%male#3] not being used as {an}[%position#1-lowercase] on a regular basis, particularly following [%male#2-my] request for [%male#1-you] to play the player in the agreed position more often during the remainder of his loan spell.[COMMENT: AREA: Interaction; SUB-AREA: Promises; FR-BN: 6390; TONE: Formal; CHARLIMIT: Short; REF-ID: n/a; NOTE: string describing how well the manager has met the promise, manager speaking to other manager about player on loan between the two clubs; use top ten matches]
+STR-1: Jsem překvapen, hráč [%male#3] nehrál na pozici {}[%position#1-lowercase] tak často. Zejména na základě mého požadavku k Vám, aby hrál na dohodnuté pozici častěji po zbytek jeho hostování.[%male#2-hidden][%male#2-hidden][%male#1-hidden]
+KEY-517479-MF: [%male#2-I]'m surprised to have seen [%male#3] not being used as {an}[%position#1-lowercase] on a regular basis, particularly following [%male#2-my] request for [%female#1-you] to play the player in the agreed position more often during the remainder of his loan spell.[COMMENT: AREA: Interaction; SUB-AREA: Promises; FR-BN: 6390; TONE: Formal; CHARLIMIT: Short; REF-ID: n/a; NOTE: string describing how well the manager has met the promise, manager speaking to other manager about player on loan between the two clubs; use top ten matches]
+STR-1: Jsem překvapen, hráč [%male#3] nehrál na pozici {}[%position#1-lowercase] tak často. Zejména na základě mého požadavku k Vám, aby hrál na dohodnuté pozici častěji po zbytek jeho hostování.[%male#2-hidden][%male#2-hidden][%female#1-hidden]
+KEY-517479-FM: [%female#2-I]'m surprised to have seen [%male#3] not being used as {an}[%position#1-lowercase] on a regular basis, particularly following [%female#2-my] request for [%male#1-you] to play the player in the agreed position more often during the remainder of his loan spell.[COMMENT: AREA: Interaction; SUB-AREA: Promises; FR-BN: 6390; TONE: Formal; CHARLIMIT: Short; REF-ID: n/a; NOTE: string describing how well the manager has met the promise, manager speaking to other manager about player on loan between the two clubs; use top ten matches]
+STR-1: Jsem překvapena, hráč [%male#3] nehrál na pozici {}[%position#1-lowercase] tak často. Zejména na základě mého požadavku k Vám, aby hrál na dohodnuté pozici častěji po zbytek jeho hostování.[%female#2-hidden][%female#2-hidden][%male#1-hidden]
+KEY-517479-FF: [%female#2-I]'m surprised to have seen [%male#3] not being used as {an}[%position#1-lowercase] on a regular basis, particularly following [%female#2-my] request for [%female#1-you] to play the player in the agreed position more often during the remainder of his loan spell.[COMMENT: AREA: Interaction; SUB-AREA: Promises; FR-BN: 6390; TONE: Formal; CHARLIMIT: Short; REF-ID: n/a; NOTE: string describing how well the manager has met the promise, manager speaking to other manager about player on loan between the two clubs; use top ten matches]
+STR-1: Jsem překvapena, hráč [%male#3] nehrál na pozici {}[%position#1-lowercase] tak často. Zejména na základě mého požadavku k Vám, aby hrál na dohodnuté pozici častěji po zbytek jeho hostování.[%female#2-hidden][%female#2-hidden][%female#1-hidden]
+
+KEY-517480: He has been given the opportunity to play in his preferred role and is now happy to remain at the club.[COMMENT: AREA: News items; SUB-AREA: Player unhappiness resolved; BN 44530; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: n/a]
+STR-1: Dostal příležitost hrát ve své preferované roli a nyní je rád, že v klubu zůstane.
+
+KEY-517481: He appreciates [%person#2-your] decision to play him in his preferred role.[COMMENT: AREA: News items; SUB-AREA: Player unhappiness resolved; BN 44530; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: n/a]
+KEY-517481-M: He appreciates [%male#2-your] decision to play him in his preferred role.[COMMENT: AREA: News items; SUB-AREA: Player unhappiness resolved; BN 44530; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: n/a]
+STR-1: Oceňuje vaše rozhodnutí hrát ho v jeho preferované roli.[%male#2-hidden]
+KEY-517481-F: He appreciates [%female#2-your] decision to play him in his preferred role.[COMMENT: AREA: News items; SUB-AREA: Player unhappiness resolved; BN 44530; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: n/a]
+STR-1: Oceňuje vaše rozhodnutí hrát ho v jeho preferované roli.[%female#2-hidden]
+
+KEY-517482: [%team#1-short] lose but [%male#2-surname] plays well[COMMENT: AREA: Inbox; SUB-AREA: Match Report Headline; FR-BN: n/a; TONE: Formal; CHARLIMIT: Short Headline; REF-ID: n/a; NOTE: Reserve/Youth/Development match headline string]
+STR-1: [%team#1-short] prohrál, ale [%male#2-surname] hrál dobře
+
+KEY-517483: [%team#1-short] lose despite [%male#2-surname] show[COMMENT: AREA: Inbox; SUB-AREA: Match Report Headline; FR-BN: n/a; TONE: Formal; CHARLIMIT: Short Headline; REF-ID: n/a; NOTE: Reserve/Youth/Development match headline string, show means performance here]
+STR-1: [%team#1-short] prohrál, přestože [%male#2-surname] hrál dobře
+
+KEY-517484: [%male#2-surname] turns in eyecatching performance as [%team#1-short] lose[COMMENT: AREA: Inbox; SUB-AREA: Match Report Headline; FR-BN: n/a; TONE: Formal; CHARLIMIT: Short Headline; REF-ID: n/a; NOTE: Reserve/Youth/Development match headline string]
+STR-1: Jak [%team#1-short] ztrácí, [%male#2-surname] předvádí atraktivní výkon
+
+KEY-517485: [%team#1-short] struggle as [%male#2-surname] impresses[COMMENT: AREA: Inbox; SUB-AREA: Match Report Headline; FR-BN: n/a; TONE: Formal; CHARLIMIT: Short Headline; REF-ID: n/a; NOTE: Reserve/Youth/Development match headline string]
+STR-1: [%team#1-short] se prosazuje, když [%male#2-surname] hraje působivě
+
+KEY-517486: [%team#1-short] draw but [%male#2-surname] plays well[COMMENT: AREA: Inbox; SUB-AREA: Match Report Headline; FR-BN: n/a; TONE: Formal; CHARLIMIT: Short Headline; REF-ID: n/a; NOTE: Reserve/Youth/Development match headline string]
+STR-1: [%team#1-short] remizoval, ale [%male#2-surname] hrál dobře
+
+KEY-517487: [%team#1-short] draw with [%male#2-surname] impressive[COMMENT: AREA: Inbox; SUB-AREA: Match Report Headline; FR-BN: n/a; TONE: Formal; CHARLIMIT: Short Headline; REF-ID: n/a; NOTE: Reserve/Youth/Development match headline string]
+STR-1: [%team#1-short] remizoval, přestože [%male#2-surname] hrál dobře
+
+KEY-517488: [%male#2-surname] turns in eyecatching performance in [%team#1-short] draw[COMMENT: AREA: Inbox; SUB-AREA: Match Report Headline; FR-BN: n/a; TONE: Formal; CHARLIMIT: Short Headline; REF-ID: n/a; NOTE: Reserve/Youth/Development match headline string]
+STR-1: [%team#1-short] remizuje, [%male#2-surname] předvádí atraktivní výkon
+
+KEY-517489: [%team#1-short] held as [%male#2-surname] impresses[COMMENT: AREA: Inbox; SUB-AREA: Match Report Headline; FR-BN: n/a; TONE: Formal; CHARLIMIT: Short Headline; REF-ID: n/a; NOTE: Reserve/Youth/Development match headline string]
+STR-1: [%team#1-short] se drží, když [%male#2-surname] hraje působivě
+
+KEY-517490: [%team#1-short] win as [%male#2-surname] plays well[COMMENT: AREA: Inbox; SUB-AREA: Match Report Headline; FR-BN: n/a; TONE: Formal; CHARLIMIT: Short Headline; REF-ID: n/a; NOTE: Reserve/Youth/Development match headline string]
+STR-1: [%team#1-short] remizoval, když [%male#2-surname] hrál dobře
+
+KEY-517491: [%male#2-surname] turns in eyecatching performance in [%team#1-short] victory[COMMENT: AREA: Inbox; SUB-AREA: Match Report Headline; FR-BN: n/a; TONE: Formal; CHARLIMIT: Short Headline; REF-ID: n/a; NOTE: Reserve/Youth/Development match headline string]
+STR-1: [%team#1-short] vyhrává, [%male#2-surname] předvádí atraktivní výkon
+
+KEY-517492: The main reason behind the decision was to relocate the club back to their home city of [%city#1].[COMMENT: AREA: Media and News; SUB-AREA: New Stadium news; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: reason given for building new stadium]
+STR-1: Hlavním důvodem tohoto rozhodnutí bylo přemístit klub zpět do jejich domovského města, kterým je [%city#1].
+
+KEY-517493: [%team#1-short] have secured their best finishing position in the [%comp#1-short].[COMMENT: AREA: records news; NOTE: POSITION_RECORD_GUARANTEED_NEWS, body text]
+STR-1: Tým [%team#1-short] zakončil sezónu na nejlepším umístění v soutěži [%comp#1-short].
+
+KEY-517494: [%team#1-short] are assured of their worst finishing position in the [%comp#1-short].[COMMENT: AREA: records news; NOTE: POSITION_RECORD_GUARANTEED_NEWS, body text]
+STR-1: Tým [%team#1-short] zakončil sezónu na nejhorším umístění v soutěži [%comp#1-short].
+
+KEY-517495: [%team#1-short] will equal their highest [%comp#1-short] finish since [%season_year#1], when they ended the season in [%number#1-nth] place.[COMMENT: AREA: Media and News; SUB-AREA: Competition Position Bio; FR-BN: 23881; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: string talking about whether a club's current performance has them on course to set a milestone]
+STR-1: Tým [%team#1-short] zakončil sezónu na nejlepším umístění v soutěži [%comp#1-short] od roku [%season_year#1], kdy skončili na [%number#1-nth]. místě.
+
+KEY-517496: [%team#1-short] will record their highest [%comp#1-short] finish since [%season_year#1], when they ended the season in [%number#1-nth] place.[COMMENT: AREA: Media and News; SUB-AREA: Competition Position Bio; FR-BN: 23881; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: string talking about whether a club's current performance has them on course to set a milestone]
+STR-1: Tým [%team#1-short] zakončil sezónu na nejlepším umístění v soutěži [%comp#1-short] od roku [%season_year#1], kdy skončili na [%number#1-nth]. místě.
+
+KEY-517497: [%team#1-short] will equal their lowest [%comp#1-short] finish since [%season_year#1], when they ended the season [%number#1-nth].[COMMENT: AREA: Media and News; SUB-AREA: Competition Position Bio; FR-BN: 23881; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: string talking about whether a club's current performance has them on course to set a milestone]
+STR-1: Tým [%team#1-short] zakončil sezónu na nejhorším umístění v soutěži [%comp#1-short] od roku [%season_year#1], kdy skončili na [%number#1-nth]. místě.
+
+KEY-517498: [%team#1-short] will record their lowest [%comp#1-short] finish since [%season_year#1], when they ended the season [%number#1-nth].[COMMENT: AREA: Media and News; SUB-AREA: Competition Position Bio; FR-BN: 23881; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: string talking about whether a club's current performance has them on course to set a milestone]
+STR-1: Tým [%team#1-short] zakončil sezónu na nejhorším umístění v soutěži [%comp#1-short] od roku [%season_year#1], kdy skončili na [%number#1-nth]. místě.
+
+KEY-517499: {upper}[%team#1-nickname] ultimately finished where many had expected them to at the start of the season but fell down the table during a rough patch that was rather representative of the sort of campaign they experienced.[COMMENT: AREA: News and Media; SUB-AREA: League Performance Tracking; FR-BN: n/a; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: tracking performance fluctuations during a season contributing towards the final outcome]
+STR-1: {upper}[%team#1-nickname] nakonec skončili tam, kde na začátku sezóny mnozí očekávali, ale během sezóny spíše na toto umístěni spadli a museli tuto sezónu hrubě lepit.
+
+KEY-517500: [%person#1-I] do not believe this is a suitable amount, but it is still early in our discussions. [%person#1-I] think [%cash#1] is a more realistic figure.[COMMENT: AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+KEY-517500-M: [%male#1-I] do not believe this is a suitable amount, but it is still early in our discussions. [%male#1-I] think [%cash#1] is a more realistic figure.[COMMENT: AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: Nevěřím, že je to vhodná částka, ale jsme na začátku naší diskuze. Myslím, že [%cash#1] je mnohem realističtějších.[%male#1-hidden][%male#1-hidden]
+KEY-517500-F: [%female#1-I] do not believe this is a suitable amount, but it is still early in our discussions. [%female#1-I] think [%cash#1] is a more realistic figure.[COMMENT: AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: Nevěřím, že je to vhodná částka, ale jsme na začátku naší diskuze. Myslím, že [%cash#1] je mnohem realističtějších.[%female#1-hidden][%female#1-hidden]
+
+KEY-517501: [%person#1-My] client would not accept this; [%cash#1] is a more suitable figure.[COMMENT: AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+KEY-517501-M: [%male#1-My] client would not accept this; [%cash#1] is a more suitable figure.[COMMENT: AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: Můj klient toto nebude akceptovat; [%cash#1] je mnohem vhodnější částka.[%male#1-hidden]
+KEY-517501-F: [%female#1-My] client would not accept this; [%cash#1] is a more suitable figure.[COMMENT: AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: Můj klient toto nebude akceptovat; [%cash#1] je mnohem vhodnější částka.[%female#1-hidden]
+
+KEY-517502: [%person#1-I] could not possibly accept this; [%cash#1] is a more suitable figure.[COMMENT: AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+KEY-517502-M: [%male#1-I] could not possibly accept this; [%cash#1] is a more suitable figure.[COMMENT: AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: Můj klient toto pravděpodobně nebude akceptovat; [%cash#1] je mnohem vhodnější částka.[%male#1-hidden]
+KEY-517502-F: [%female#1-I] could not possibly accept this; [%cash#1] is a more suitable figure.[COMMENT: AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: Můj klient toto pravděpodobně nebude akceptovat; [%cash#1] je mnohem vhodnější částka.[%female#1-hidden]
+
+KEY-517503: These negotiations are taking a while; let's try to come to an agreement soon. [%cash#1] is a payoff that [%person#1-I] would accept.[COMMENT: AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+KEY-517503-M: These negotiations are taking a while; let's try to come to an agreement soon. [%cash#1] is a payoff that [%male#1-I] would accept.[COMMENT: AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: Tato jednání už chvíli trvají; zkusme se tedy dohodnout. Mohu akceptovat částku [%cash#1].[%male#1-hidden]
+KEY-517503-F: These negotiations are taking a while; let's try to come to an agreement soon. [%cash#1] is a payoff that [%female#1-I] would accept.[COMMENT: AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: Tato jednání už chvíli trvají; zkusme se tedy dohodnout. Mohu akceptovat částku [%cash#1].[%female#1-hidden]
+
+KEY-517504: These negotiations are taking a while; let's try to come to an agreement soon. [%cash#1] is a payoff that [%person#1-my] client would accept.[COMMENT:AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+KEY-517504-M: These negotiations are taking a while; let's try to come to an agreement soon. [%cash#1] is a payoff that [%male#1-my] client would accept.[COMMENT:AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: Tato jednání už chvíli trvají; zkusme se tedy dohodnout. Můj klient může akceptovat částku [%cash#1].[%male#1-hidden]
+KEY-517504-F: These negotiations are taking a while; let's try to come to an agreement soon. [%cash#1] is a payoff that [%female#1-my] client would accept.[COMMENT:AREA: Transfers; SUB-AREA: Transfer News Item Negotiate Pay Off; BN: 35779; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE:]
+STR-1: Tato jednání už chvíli trvají; zkusme se tedy dohodnout. Můj klient může akceptovat částku [%cash#1].[%female#1-hidden]
+
+KEY-517505: Clubs will be given a time limit of [%number#1] seconds for each draft pick.[COMMENT: AREA: Fantasy Draft; SUB-AREA: Fantasy Draft Starting Dialog; FR-BN: NA; TONE: Formal/; CHARLIMIT: None; REF-ID: XXXXXX; NOTE;]
+STR-1: Kluby dostanou časový limit [%number#1] sekund pro každý výběr draftu.
+
+KEY-517506: A manager is currently being added to the game[COMMENT: AREA: Network Game; SUB-AREA: Network Game Error Message; BN: 44391; TONE: Formal; CHARLIMIT: None]
+STR-1: Aktuálně je do hry přidáván manažer
+
+KEY-517507: Hide additional related information[COMMENT: AREA: Interaction panel header; SUB-AREA: Related information panel button; FR-BN: 37501; TONE: Formal; CHARLIMIT: None; NOTE: Explanatory hint to indicate hiding or showing the additional information panel]
+STR-1: Skrýt další související informace
+
+KEY-517508: Show additional related information[COMMENT: AREA: Interaction panel header; SUB-AREA: Related information panel button; FR-BN: 37501; TONE: Formal; CHARLIMIT: None; NOTE: Explanatory hint to indicate hiding or showing the additional information panel]
+STR-1: Zobrazit další související informace
+
+KEY-517509: Passwords do not match[COMMENT: AREA: Game Creation; SUB-AREA: Error checking; FR-BN: 39891; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: error string for password]
+STR-1: Hesla se neshodují
+
+KEY-517510: These are the positions chosen to create short-term focuses on, the results of which will be delivered to the Inbox by the scouting team.[COMMENT: AREA: Conversations; SUB-AREA: Header section; FR-BN: 32022; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Title for conversation summary screen]
+STR-1: Jedná se o pozice vybrané pro vytvoření krátkodobých zaměření, jejichž výsledky dodá skautingový tým do Zpráv.
+
+KEY-517511: Remove the proposed part-exchange player to add more clubs to the proposal[COMMENT: AREA: Player offer to clubs panel; SUB-AREA: Add clubs to proposal button; FR-BN: 30290; TONE: Formal; CHARLIMIT: None; NOTE: hint text to explain why more clubs cannot be added to the transfer proposal]
+STR-1: Odstraňte navrhovaného hráče s částečnou výměnou a přidejte do nabídky další kluby
+
+KEY-517512: Unpicked Players[COMMENT: AREA: Tactics overview; SUB-AREA: header for a list that shows unpicked players ; BN: 45319; TONE: Formal; CHARLIMIT: None; NOTE: section title for players left unpicked from the matchday squad]
+STR-1: Nevybraní hráči
+
+KEY-517513: This induction cannot be taken as transfers are currently not allowed.[COMMENT: AREA: Tutorial; SUB-AREA: Invalid Tutorial; FR: 42922; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: Reason why tutorial is currently invalid to hold]
+STR-1: Tuto indukci nelze vzít, protože transféry nejsou v současné době povoleny.
+
+KEY-517514: [%language#1][COMMENT: AREA: languages; NOTE: name of language spoken, appears on language proficiency screen]
+STR-1: [%language#1]
+
+KEY-517515: A sports scientist is required in order to provide fatigue levels.[COMMENT: AREA: Player injury panel; SUB-AREA: Fatigue section; FR-BN: 45263; TONE: Formal; CHARLIMIT: None; NOTE: Explanatory text displayed to indicate why you can't see the players fatigue level]
+STR-1: Pro zajištění úrovně únavy je vyžadován sportovní vědec.
+
+KEY-517516: [%team#1-short] outplayed the opposition but the scoreline really did not reflect that superiority. However, they can still come away happy as they got the win on penalties.[COMMENT: AREA: xG Visualisations; SUB-AREA: String descriptor of team performance; FR: 33108; TONE: Formal; CHARLIMIT: None]
+STR-1: [%team#1-short] překonal soupeře, ale skóre ve skutečnosti tuto převahu neodráželo. Stále však mohou odcházet šťastní, když vyhráli na pokutové kopy.
+
+KEY-517517: We outplayed the opposition but the scoreline really did not reflect that superiority. However, we can still come away happy as we got the win on penalties.[COMMENT: AREA: xG Visualisations; SUB-AREA: String descriptor of team performance; FR: 33108; TONE: Formal; CHARLIMIT: None]
+STR-1: Překonali jsme soupeře, ale skóre ve skutečnosti tuto převahu neodráželo. Stále však můžeme odcházet šťastní, když jsme vyhráli na pokutové kopy.
+
+KEY-517518: [%team#1-short] should be very disappointed to come away with a loss. They outplayed the opposition but the scoreline really did not reflect that superiority, and then they were punished by the shootout.[COMMENT: AREA: xG Visualisations; SUB-AREA: String descriptor of team performance; FR: 33108; TONE: Formal; CHARLIMIT: None]
+STR-1: [%team#1-short] by měl být velmi zklamaný, když odešel se porážkou. Přehráli soupeře, ale skóre tuto převahu neodráželo, a následně prohráli na penalty.
+
+KEY-517519: We should be very disappointed with a loss. We outplayed the opposition but the scoreline really did not reflect that superiority, and then we couldn't finish the job in the shootout.[COMMENT: AREA: xG Visualisations; SUB-AREA: String descriptor of team performance; FR: 33108; TONE: Formal; CHARLIMIT: None]
+STR-1: Měli bychom být velmi zklamaní, když jsme prohráli. Přehráli jsme soupeře, ale skóre tuto převahu neodráželo, a následně jsme prohráli na penalty.
+
+KEY-517520: [%team#1-short] were better than their opposition throughout the game, and so can be pleased to come away with a deserved win, even if it was on penalties.[COMMENT: AREA: xG Visualisations; SUB-AREA: String descriptor of team performance; FR: 33108; TONE: Formal; CHARLIMIT: None]
+STR-1: [%team#1-short] byl v průběhu hry lepší než jejich soupeř, a tak může být potěšen, že odešli se zaslouženým vítězstvím, i když to bylo na penalty.
+
+KEY-517521: We were better than the opposition throughout the game, and so we can be pleased to come away with a deserved win, even if it was on penalties.[COMMENT: AREA: xG Visualisations; SUB-AREA: String descriptor of team performance; FR: 33108; TONE: Formal; CHARLIMIT: None]
+STR-1: Byli jsme v průběhu hry lepší než náš soupeř, a tak můžeme být potěšeni, že odcházíme se zaslouženým vítězstvím, i když to bylo na penalty.
+
+KEY-517522: [%team#1-short] should be very disappointed to come away with a defeat on penalties, as they were the better team throughout the match.[COMMENT: AREA: xG Visualisations; SUB-AREA: String descriptor of team performance; FR: 33108; TONE: Formal; CHARLIMIT: None]
+STR-1: [%team#1-short] by měl být velmi zklamaný, když odešel s prohrou na penaltách, protože byli lepším týmem po celý zápas.
+
+KEY-517523: We should be very disappointed to come away with a defeat on penalties, as we were the better team throughout the match.[COMMENT: AREA: xG Visualisations; SUB-AREA: String descriptor of team performance; FR: 33108; TONE: Formal; CHARLIMIT: None]
+STR-1: Měli bychom být velmi zklamaní, že jsme prohráli po penaltách, protože jsme byli lepším týmem po celý zápas.
+
+KEY-517524: [%team#1-short] were not noticeably better than their opposition throughout the game, and so can be pleased to come away with a win on penalties.[COMMENT: AREA: xG Visualisations; SUB-AREA: String descriptor of team performance; FR: 33108; TONE: Formal; CHARLIMIT: None]
+STR-1: [%team#1-short] nebyl v průběhu hry znatelně lepší než jejich soupeř, a tak mohou být potěšeni, že vyhráli na penalty.

@@ -1,0 +1,602 @@
+KEY-488134: Pleased with how he has started on loan and he should be a useful squad option when he returns.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Těší ho začátek hostování i to, že po návratu by měl být užitečnou volbou týmu.
+
+KEY-488135: Pleased with how he has started on loan and his development should surely benefit from the move.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Těší ho začátek hostování i to, že jeho vývoj bude z hostování těžit.
+
+KEY-488136: Pleased with how he has started on loan and the chances of him landing a permanent move at the end of it will surely improve.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Těší ho začátek hostování i to, že po konci se může přesunou natrvalo.
+
+KEY-488137: Satisfied with how he has played on loan and he is at least getting regular playing time.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Spokojen s tím, jak hrál na hostování a že získá alespoň normální hrací čas.
+
+KEY-488138: Satisfied with how he has played on loan but had hoped to see more tangible signs of development.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Spokojen s tím, jak hrál na hostování, ale doufal, že uvidí hmatatelnější známky vývoje.
+
+KEY-488139: Satisfied with how he has played on loan but had hoped to see more progress towards the possibility of him earning a permanent deal elsewhere.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Spokojen s tím, jak hrál na hostování, ale doufal, že uvidí větší pokrok směrem k možnosti, že si vykope trvalou dohodu jinde.
+
+KEY-488140: Satisfied with how he is playing on loan and he is at least getting regular playing time.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Spokojen s tím, jak hraje na hostování a že získá alespoň normální hrací čas.
+
+KEY-488141: Satisfied with how he is playing on loan but had hoped to see more tangible signs of development.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Spokojen s tím, jak hraje na hostování a doufá, že uvidí hmatatelnější známky vývoje.
+
+KEY-488142: Satisfied with how he is playing on loan but had hoped to see more progress towards the possibility of him earning a permanent deal elsewhere.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Spokojen s tím, jak hraje na hostování, ale doufá, že uvidí větší pokrok směrem k možnosti, že si vykope trvalou dohodu jinde.
+
+KEY-488143: Satisfied with how he has started on loan and he is at least getting his fair share of playing time.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Spokojen se začátkem hostování a tím, že získává alespoň svůj spravedlivý herní čase.
+
+KEY-488144: Satisfied with how he has started on loan but had hoped to see more tangible signs of development.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Spokojen se začátkem hostování, ale doufal, že uvidí hmatatelnější známky vývoje.
+
+KEY-488145: Satisfied with how he has started on loan but had hoped to see more progress towards the possibility of him earning a permanent deal elsewhere.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Spokojen se začátkem hostování, ale doufá, že uvidí větší pokrok směrem k možnosti, že si vykope trvalou dohodu jinde.
+
+KEY-488146: Unhappy that he is performing so well on loan rather than doing that here.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný, že se mu daří tak dobře na hostování, než tady.
+
+KEY-488147: Unhappy that he is performing so well on loan as he should never have been sent out in the first place.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný, že se mu daří tak dobře na hostování, jako by nikdy neměl být vyslán.
+
+KEY-488148: Unhappy with his loan as he is struggling to find form.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný ze svého hostování, kde se snaží najít formu.
+
+KEY-488149: Unhappy with his loan as there is no benefit to his development coming out of it.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný ze svého hostování, protože z jeho rozvoje nevyplývá žádná výhoda.
+
+KEY-488150: Unhappy with his loan as he isn't putting himself in the shop window for a permanent deal elsewhere.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný ze svého hostování, protože se nedostává často na hřiště, aby získal trvalé řešení jinde.
+
+KEY-488151: Unhappy that he is performing so well on loan so far rather than doing that here.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný, že se mu daří tak dobře na hostování, než tady.
+
+KEY-488152: Unhappy that he is performing so well on loan so far as he should never have been sent out in the first place.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný, že se mu daří tak dobře na hostování, jako by nikdy neměl být vyslán.
+
+KEY-488153: Unhappy with his loan so far as he is struggling to find form.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný ze svého hostování, kde se snaží najít formu.
+
+KEY-488154: Unhappy with his loan so far as there is no benefit to his development coming out of it.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný ze svého hostování, protože z jeho rozvoje nevyplývá žádná výhoda.
+
+KEY-488155: Unhappy with his loan so far as he isn't putting himself in the shop window for a permanent deal elsewhere.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný ze svého hostování, protože se nedostává často na hřiště, aby získal trvalé řešení jinde.
+
+KEY-488156: Unhappy that he has started so well on loan rather than doing that here.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný, že začal tak dobře na hostování, než aby hrál tady.
+
+KEY-488157: Unhappy that he has started so well on loan as he should never have been sent out in the first place.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný, že začal tak dobře na hostování, jako by nikdy neměl být vyslán.
+
+KEY-488158: Unhappy with how his loan has started as he is struggling to find form.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný ze začátku svého hostování, kde se snaží najít formu.
+
+KEY-488159: Unhappy with how his loan has started as there is no benefit to his development coming out of it.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný ze začátku svého hostování, protože z jeho rozvoje nevyplývá žádná výhoda.
+
+KEY-488160: Unhappy with how his loan has started as he isn't putting himself in the shop window for a permanent deal elsewhere.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Nešťastný ze začátku svého hostování, protože se nedostává často na hřiště, aby získal trvalé řešení jinde.
+
+KEY-488161: Very unhappy that he is performing so well on loan rather than doing that here.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný, že se mu daří tak dobře na hostování, než tady.
+
+KEY-488162: Very unhappy that he is performing so well on loan as he should never have been sent out in the first place.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný, že se mu daří tak dobře na hostování, jako by nikdy neměl být vyslán.
+
+KEY-488163: Very unhappy with his loan as he is struggling to find form.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný ze svého hostování, kde se snaží najít formu.
+
+KEY-488164: Very unhappy with his loan as there is no benefit to his development coming out of it.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný ze svého hostování, protože z jeho rozvoje nevyplývá žádná výhoda.
+
+KEY-488165: Very unhappy with his loan as he isn't putting himself in the shop window for a permanent deal elsewhere.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný ze svého hostování, protože se nedostává často na hřiště, aby získal trvalé řešení jinde.
+
+KEY-488166: Very unhappy that he is performing so well on loan so far rather than doing that here.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný, že se mu daří tak dobře na hostování, než tady.
+
+KEY-488167: Very unhappy that he is performing so well on loan so far as he should never have been sent out in the first place.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný, že se mu daří tak dobře na hostování, jako by nikdy neměl být vyslán.
+
+KEY-488168: Very unhappy with his loan so far as he is struggling to find form.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný ze svého hostování, kde se snaží najít formu.
+
+KEY-488169: Very unhappy with his loan so far as there is no benefit to his development coming out of it.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný ze svého hostování, protože z jeho rozvoje nevyplývá žádná výhoda.
+
+KEY-488170: Very unhappy with his loan so far as he isn't putting himself in the shop window for a permanent deal elsewhere.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný ze svého hostování, protože se nedostává často na hřiště, aby získal trvalé řešení jinde.
+
+KEY-488171: Very unhappy that he has started so well on loan rather than doing that here.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný, že začal tak dobře na hostování, než aby hrál tady.
+
+KEY-488172: Very unhappy that he has started so well on loan as he should never have been sent out in the first place.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný, že začal tak dobře na hostování, jako by nikdy neměl být vyslán.
+
+KEY-488173: Very unhappy with how his loan has started as he is struggling to find form.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný ze začátku svého hostování, kde se snaží najít formu.
+
+KEY-488174: Very unhappy with how his loan has started as there is no benefit to his development coming out of it.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný ze začátku svého hostování, protože z jeho rozvoje nevyplývá žádná výhoda.
+
+KEY-488175: Very unhappy with how his loan has started as he isn't putting himself in the shop window for a permanent deal elsewhere.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Velmi nešťastný ze začátku svého hostování, protože se nedostává často na hřiště, aby získal trvalé řešení jinde.
+
+KEY-488176: Bitterly disappointed that he is performing so well on loan rather than doing that here.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný, že se mu daří tak dobře na hostování, než tady.
+
+KEY-488177: Bitterly disappointed that he is performing so well on loan as he should never have been sent out in the first place.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný, že se mu daří tak dobře na hostování, jako by nikdy neměl být vyslán.
+
+KEY-488178: Bitterly disappointed with his loan as he is struggling to find form.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný ze svého hostování, kde se snaží najít formu.
+
+KEY-488179: Bitterly disappointed with his loan as there is no benefit to his development coming out of it.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný ze svého hostování, protože z jeho rozvoje nevyplývá žádná výhoda.
+
+KEY-488180: Bitterly disappointed with his loan as he isn't putting himself in the shop window for a permanent deal elsewhere.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný ze svého hostování, protože se nedostává často na hřiště, aby získal trvalé řešení jinde.
+
+KEY-488181: Bitterly disappointed that he is performing so well on loan so far rather than doing that here.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný, že se mu daří tak dobře na hostování, než tady.
+
+KEY-488182: Bitterly disappointed that he is performing so well on loan so far as he should never have been sent out in the first place.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný, že se mu daří tak dobře na hostování, jako by nikdy neměl být vyslán.
+
+KEY-488183: Bitterly disappointed with his loan so far as he is struggling to find form.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný ze svého hostování, kde se snaží najít formu.
+
+KEY-488184: Bitterly disappointed with his loan so far as there is no benefit to his development coming out of it.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný ze svého hostování, protože z jeho rozvoje nevyplývá žádná výhoda.
+
+KEY-488185: Bitterly disappointed with his loan so far as he isn't putting himself in the shop window for a permanent deal elsewhere.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný ze svého hostování, protože se nedostává často na hřiště, aby získal trvalé řešení jinde.
+
+KEY-488186: Bitterly disappointed that he has started so well on loan rather than doing that here.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný, že začal tak dobře na hostování, než aby hrál tady.
+
+KEY-488187: Bitterly disappointed that he has started so well on loan as he should never have been sent out in the first place.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný, že začal tak dobře na hostování, jako by nikdy neměl být vyslán.
+
+KEY-488188: Bitterly disappointed with how his loan has started as he is struggling to find form.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný ze začátku svého hostování, kde se snaží najít formu.
+
+KEY-488189: Bitterly disappointed with how his loan has started as there is no benefit to his development coming out of it.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný ze začátku svého hostování, protože z jeho rozvoje nevyplývá žádná výhoda.
+
+KEY-488190: Bitterly disappointed with how his loan has started as he isn't putting himself in the shop window for a permanent deal elsewhere.[COMMENT: AREA: transfer confidence; SUB-AREA: fan reaction to performances out on loan; FR-BN: 27861; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: transfer confidence string]
+STR-1: Trpce zklamaný ze začátku svého hostování, protože se nedostává často na hřiště, aby získal trvalé řešení jinde.
+
+KEY-488191: We recognise that the signing of [%male#1-surname] meets several of our ambitions, particularly our aspiration to sign [%nation#1-nationality] players.[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje několik našich ambicí, zejména naši snahu podepsat hráče s národností [%nation#1-nationality].
+
+KEY-488192: We recognise that the signing of [%male#1-surname] meets our aspiration to sign [%nation#1-nationality] players.[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje naši snahu podepsat hráče s národností [%nation#1-nationality].
+
+KEY-488193: We recognise that the signing of [%male#1-surname] meets several of our ambitions, particularly our aspiration to sign players from [%nation#1].[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje několik našich ambicí, zejména naši snahu podepsat hráče z [%nation#1].
+
+KEY-488194: We recognise that the signing of [%male#1-surname] meets our aspiration to sign players from [%nation#1].[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje naši snahu podepsat hráče z [%nation#1].
+
+KEY-488195: We recognise that the signing of [%male#1-surname] meets several of our ambitions, particularly our aspiration to sign players from lower domestic divisions.[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje několik našich ambicí, zejména naši snahu podepsat hráče z nižších domácích divizí.
+
+KEY-488196: We recognise that the signing of [%male#1-surname] meets our aspiration to sign players from lower domestic divisions.[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje naši snahu podepsat hráče z nižších domácích divizí.
+
+KEY-488197: We recognise that the signing of [%male#1-surname] meets several of our ambitions, particularly our aspiration to sign high reputation players.[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje několik našich ambicí, zejména naši snahu podepsat hráče s vysokou reputací.
+
+KEY-488198: We recognise that the signing of [%male#1-surname] meets our aspiration to sign high reputation players.[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje naši snahu podepsat hráče s vysokou reputací.
+
+KEY-488199: We recognise that the signing of [%male#1-surname] meets several of our ambitions, particularly our aspiration to sign players under the age of [%number#1] for the first team.[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje několik našich ambicí, zejména naši snahu podepsat hráče mladší [%number#1] let pro první tým.
+
+KEY-488200: We recognise that the signing of [%male#1-surname] meets our aspiration to sign players under the age of [%number#1] for the first team.[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje naši snahu podepsat hráče mladší [%number#1] let pro první tým.
+
+KEY-488201: We recognise that the signing of [%male#1-surname] meets several of our ambitions, particularly our aspiration to sign players under the age of [%number#1] for the future.[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje několik našich ambicí, zejména naši snahu podepsat hráče mladší [%number#1] let s výhledem do budoucnosti.
+
+KEY-488202: We recognise that the signing of [%male#1-surname] meets our aspiration to sign players under the age of [%number#1] for the future.[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje naši snahu podepsat hráče mladší [%number#1] let s výhledem do budoucnosti.
+
+KEY-488203: We recognise that the signing of [%male#1-surname] meets several of our ambitions, particularly our aspiration to sign players from domestic rivals.[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje několik našich ambicí, zejména naši snahu podepsat hráče od domácích rivalů.
+
+KEY-488204: We recognise that the signing of [%male#1-surname] meets our aspiration to sign players from domestic rivals.[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje naši snahu podepsat hráče od domácích rivalů.
+
+KEY-488205: We recognise that the signing of [%male#1-surname] meets several of our ambitions, particularly our aspiration to not sign players over the age of [%number#1].[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje několik našich ambicí, zejména naši snahu nepodepsat hráče starší [%number#1] let.
+
+KEY-488206: We recognise that the signing of [%male#1-surname] meets our aspiration to not sign players over the age of [%number#1].[COMMENT: AREA: Board confidence; SUB-AREA: Board confidence string for signing; FR-BN: 28480; TONE: Formal; CHARLIMIT: None; REF-ID: None; NOTE:]
+STR-1: Uvědomujeme si, že podpis hráče [%male#1-surname] splňuje naši snahu nepodepsat hráče starší [%number#1] let.
+
+KEY-488207: Have come to regret the sale after his recent performances despite initially supporting the decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přišli litovat prodeje hráče po jeho aktuálních výkonech, přestože původně podpořili rozhodnutí.
+
+KEY-488208: Have come to regret the sale after his performances so far despite initially supporting the decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přišli litovat prodeje hráče po jeho výkonech, přestože původně podpořili rozhodnutí.
+
+KEY-488209: Have come to regret the sale after his early performances despite initially supporting the decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přišli litovat prodeje hráče po jeho nedávných výkonech, přestože původně podpořili rozhodnutí.
+
+KEY-488210: Have come to question the sale after his recent performances despite initially supporting the decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přišli zpochybnit prodej hráče po jeho aktuálních výkonech, přestože původně podpořili rozhodnutí.
+
+KEY-488211: Have come to question the sale after his performances so far despite initially supporting the decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přišli zpochybnit prodej hráče po jeho výkonech, přestože původně podpořili rozhodnutí.
+
+KEY-488212: Have come to question the sale after his early performances despite initially supporting the decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přišli zpochybnit prodej hráče po jeho nedávných výkonech, přestože původně podpořili rozhodnutí.
+
+KEY-488213: Still believe it was right to sell him despite his good form at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Stále věří, že bylo správné jej prodat, přestože má v novém klubu dobrou formu.
+
+KEY-488214: Still believe it was right to sell him despite impressing so far at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Stále věří, že bylo správné jej prodat, přestože má v novém klubu působivou formu.
+
+KEY-488215: Still believe it was right to sell him despite his good early form at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Stále věří, že bylo správné jej prodat, přestože má v novém klubu dobrou počáteční formu.
+
+KEY-488216: Have come to regret the sale after his recent performances despite initially favouring the decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přišli litovat prodeje hráče po jeho aktuálních výkonech, přestože původně upřednostňovali toto rozhodnutí.
+
+KEY-488217: Have come to regret the sale after his performances so far despite initially favouring the decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přišli litovat prodeje hráče po jeho výkonech, přestože původně upřednostňovali toto rozhodnutí.
+
+KEY-488218: Have come to regret the sale after his early so far despite initially favouring the decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přišli litovat prodeje hráče po jeho nedávných výkonech, přestože původně upřednostňovali toto rozhodnutí.
+
+KEY-488219: Have come to question the sale after his recent performances despite initially favouring the decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přišli zpochybnit prodej hráče po jeho aktuálních výkonech, přestože původně upřednostňovali toto rozhodnutí.
+
+KEY-488220: Have come to question the sale after his performances so far despite initially favouring the decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přišli zpochybnit prodej hráče po jeho výkonech, přestože původně upřednostňovali toto rozhodnutí.
+
+KEY-488221: Have come to question the sale after his early so far despite initially favouring the decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přišli zpochybnit prodej hráče po jeho nedávných výkonech, přestože původně upřednostňovali toto rozhodnutí.
+
+KEY-488222: Initially questioned the decision to sell but now support it after watching him struggle at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku zpochybňovali rozhodnutí o prodeji, ale nyní ho podporují poté, co viděli, jak bojuje ve svém novém klubu.
+
+KEY-488223: Initially questioned the decision to sell but now support it after watching him struggle so far at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku zpochybňovali rozhodnutí o prodeji, ale nyní ho podporují poté, co viděli, jak bojuje ve svém novém klubu.
+
+KEY-488224: Initially questioned the decision to sell but now support it after watching him struggle early on at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku zpochybňovali rozhodnutí o prodeji, ale nyní ho podporují poté, co viděli, jak zpočátku bojuje ve svém novém klubu.
+
+KEY-488225: Initially questioned the decision to sell and now regretting it after impressing at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku zpochybňovali rozhodnutí o prodeji a nyní jej litují poté, co zapůsobil na nový klub.
+
+KEY-488226: Initially questioned the decision to sell and now regretting it after impressing so far at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku zpochybňovali rozhodnutí o prodeji a nyní jej litují poté, co zapůsobil na nový klub.
+
+KEY-488227: Initially questioned the decision to sell and now regretting it after impressing early on at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku zpochybňovali rozhodnutí o prodeji a nyní jej litují poté, co zapůsobil na nový klub.
+
+KEY-488228: Initially questioned the decision to sell but now strongly back it after watching him struggle at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku zpochybňovali rozhodnutí o prodeji, ale nyní jej silně podporují poté co viděli, jak bojuje v novém klubu.
+
+KEY-488229: Initially questioned the decision to sell but now strongly back it after watching him struggle so far at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku zpochybňovali rozhodnutí o prodeji, ale nyní jej silně podporují poté co viděli, jak bojuje v novém klubu.
+
+KEY-488230: Initially questioned the decision to sell but now strongly back it after watching him struggle early on at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku zpochybňovali rozhodnutí o prodeji, ale nyní jej silně podporují poté co viděli, jak bojuje v novém klubu.
+
+KEY-488231: Initially questioned the decision to sell and now have major regrets after impressing at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku zpochybňovali rozhodnutí o prodeji a nyní jej hluboce litují poté, co zapůsobil na nový klub.
+
+KEY-488232: Initially questioned the decision to sell and now have major regrets after impressing so far at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku zpochybňovali rozhodnutí o prodeji a nyní jej hluboce litují poté, co zapůsobil na nový klub.
+
+KEY-488233: Initially questioned the decision to sell and now have major regrets after impressing early on at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku zpochybňovali rozhodnutí o prodeji a nyní jej hluboce litují poté, co zapůsobil na nový klub.
+
+KEY-488234: Initially very unhappy about the decision to sell but now strongly back it after watching him struggle at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku byli velmi nešťastní z rozhodnutí o prodeji, ale nyní jej silně podporují poté co viděli, jak bojuje v novém klubu.
+
+KEY-488235: Initially very unhappy about the decision to sell but now strongly back it after watching him struggle so far at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku byli velmi nešťastní z rozhodnutí o prodeji, ale nyní jej silně podporují poté co viděli, jak bojuje v novém klubu.
+
+KEY-488236: Initially very unhappy about the decision to sell but now strongly back it after watching him struggle early on at his new club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku byli velmi nešťastní z rozhodnutí o prodeji, ale nyní jej silně podporují poté co viděli, jak bojuje v novém klubu.
+
+KEY-488237: Initially very unhappy about the decision to sell but now wonder if it was a mistake due to his good form.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku byli velmi nešťastní z rozhodnutí o prodeji, ale nyní se diví této chybě vzhledem k jeho dobré formě.
+
+KEY-488238: Initially very unhappy about the decision to sell but now wonder if it was a mistake due to his good start.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku byli velmi nešťastní z rozhodnutí o prodeji, ale nyní se diví této chybě vzhledem k jeho dobrému začátku.
+
+KEY-488239: Initially very unhappy about the decision to sell but now wonder if it was a mistake due to his good early outings.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zpočátku byli velmi nešťastní z rozhodnutí o prodeji, ale nyní se diví této chybě vzhledem k jeho dobré výkonnosti.
+
+KEY-488240: He could simply be better than the level he's now playing at.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Prostě by mohl být lepší než úroveň, na které teď hraje.
+
+KEY-488241: He could simply be struggling with the step up in quality.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Mohl prostě bojovat se zlepšením v kvalitě.
+
+KEY-488242: Delighted to keep hold of him despite interest from fierce rivals [%team#1-short].[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Potěšilo ho udržet navzdory zájmu rivala [%team#1-short].
+
+KEY-488243: Delighted to keep hold of him despite interest from big rivals [%team#1-short].[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Potěšilo ho udržet navzdory zájmu velkého rivala [%team#1-short].
+
+KEY-488244: Delighted to keep hold of him despite interest from rivals [%team#1-short].[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Potěšilo ho udržet navzdory zájmu rivala [%team#1-short].
+
+KEY-488245: Very happy to keep hold of him despite interest from fierce rivals [%team#1-short].[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Velká radost ho udržet navzdory zájmu rivala [%team#1-short].
+
+KEY-488246: Very happy to keep hold of him despite interest from big rivals [%team#1-short].[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Velká radost ho udržet navzdory zájmu velkého rivala [%team#1-short].
+
+KEY-488247: Very happy to keep hold of him despite interest from rivals [%team#1-short].[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Velká radost ho udržet navzdory zájmu rivala [%team#1-short].
+
+KEY-488248: Happy to keep hold of him despite interest from fierce rivals [%team#1-short].[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Radost ho udržet navzdory zájmu rivala [%team#1-short].
+
+KEY-488249: Happy to keep hold of him despite interest from big rivals [%team#1-short].[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Radost ho udržet navzdory zájmu velkého rivala [%team#1-short].
+
+KEY-488250: Happy to keep hold of him despite interest from rivals [%team#1-short].[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Radost ho udržet navzdory zájmu rivala [%team#1-short].
+
+KEY-488251: Wondering whether [%team#1-short]{s} bid should have been accepted.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Zajímavá nabídka od týmu [%team#1-short]{} měla být přijata.
+
+KEY-488252: Think the big offer from [%team#1-short] should probably have been accepted.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Myslíme, že velká nabídka od týmu [%team#1-short] měla být pravděpodobně přijata.
+
+KEY-488253: Unhappy the club didn't cash in on him when [%team#1-short] came in with a big offer.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Nešťastnní, že klub za něj nezinkasoval peníze, když tým [%team#1-short] přišel s velkou nabídkou.
+
+KEY-488254: Hopefully he can re-find some form to prove he was worth keeping.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Doufejme, že znovu najde nějakou formu, aby dokázal, že stojí za to si ji ponechat.
+
+KEY-488255: Hopefully he can play well enough to merit his stay at the club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Doufejme, že bude hrát dost dobře, aby si zasloužil pobyt v klubu.
+
+KEY-488256: Hopefully he can play to a decent enough standard that justifies his stay at the club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Doufejme, že dokáže hrát na dostatečně slušné úrovni, která jeho pobyt v klubu ospravedlní.
+
+KEY-488257: Not sure his current form merits the decision to keep him.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Nejsme si jisti, zda si za současnou formu zaslouží rozhodnutí ponechat si ho.
+
+KEY-488258: Happy to see him playing well recently.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rád ho vidím hrát dobře.
+
+KEY-488259: Happy to see him playing well enough lately to justify keeping him.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rád ho vidím hrát dobře v poslední době, aby ospravedlnil své udržení.
+
+KEY-488260: Thoroughly unconvinced his current form merits the decision to keep him.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Důkladně nepřesvědčení o jeho současné formě, aby si zaslouží rozhodnutí ponechat si ho.
+
+KEY-488261: Unconvinced that his recent form warrants the decision to keep him.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Není přesvědčen, že jeho nedávná forma ospravedlní rozhodnutí ponechat si ho.
+
+KEY-488262: Yet to be persuaded his recent performances justify keeping him.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přesto, že nebyli přesvědčeni, jeho nedávné výkony ospravedlňují jeho udržení.
+
+KEY-488263: Confident he'll prove to be an asset to the club moving forward.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přesvědčeni, že se ukáže být přínosem pro klub, který jde vpřed.
+
+KEY-488264: Confident he'll be worth keeping despite a lack of playing time.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přesvědčeni, že bude stát za to, aby zůstal navzdory nedostatku hracího času.
+
+KEY-488265: Reserving judgement on his continued stay at the club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Výhrada ohledně jeho dalšího pobytu v klubu.
+
+KEY-488266: Unsure that keeping him was the right decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Nejsme si jisti, že jeho ponechání bylo správným rozhodnutím.
+
+KEY-488267: Doubtful that keeping him was the right decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Pochybnosti, že ponechat si ho bylo správné rozhodnutí.
+
+KEY-488268: Convinced that keeping him was the wrong decision.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Přesvědčein, že ponechat si ho bylo špatné rozhodnutí.
+
+KEY-488269: Delighted that he was waived as he wasn't good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Potěšeni, že se ho vzdali, protože nebyl dost dobrý.
+
+KEY-488270: Delighted that he was released as he wasn't good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Potěšeni, že byl propuštěn, protože nebyl dost dobrý.
+
+KEY-488271: Delighted that he was sold as he wasn't good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Potěšeni, že byl prodán, protože nebyl dost dobrý.
+
+KEY-488272: Delighted that he was waived as he was unlikely to ever be good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Potěšeni, že se ho vzdali, protože bylo nepravděpodobné, že by někdy byl dost dobrý.
+
+KEY-488273: Delighted that he was released as he was unlikely to ever be good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Potěšeni, že byl propuštěn, protože bylo nepravděpodobné, že by někdy byl dost dobrý.
+
+KEY-488274: Delighted that he was sold as he was unlikely to ever be good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Potěšeni, že byl prodán, protože bylo nepravděpodobné, že by někdy byl dost dobrý.
+
+KEY-488275: Very pleased that he was waived as he wasn't good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Velmi potěšeni, že se ho vzdali, protože nebyl dost dobrý.
+
+KEY-488276: Very pleased that he was released as he wasn't good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Velmi potěšeni, že byl propuštěn, protože nebyl dost dobrý.
+
+KEY-488277: Very pleased that he was sold as he wasn't good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Velmi potěšeni, že byl prodán, protože nebyl dost dobrý.
+
+KEY-488278: Very pleased that he was waived as he was unlikely to ever be good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Velmi potěšeni, že se ho vzdali, protože bylo nepravděpodobné, že by někdy byl dost dobrý.
+
+KEY-488279: Very pleased that he was released as he was unlikely to ever be good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Velmi potěšeni, že byl propuštěn, protože bylo nepravděpodobné, že by někdy byl dost dobrý.
+
+KEY-488280: Very pleased that he was sold as he was unlikely to ever be good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Velmi potěšeni, že byl prodán, protože bylo nepravděpodobné, že by byl někdy dost dobrý.
+
+KEY-488281: Very pleased that he was waived as he was a fringe player barely featuring.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Velmi potěšeni, že se ho vzdali, protože byl okrajovým hráčem, který sotva hrál.
+
+KEY-488282: Very pleased that he was released as he was a fringe player barely featuring.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Velmi potěšeni, že byl propuštěn, protože byl okrajovým hráčem, který sotva hrál.
+
+KEY-488283: Very pleased that he was sold as he was a fringe player barely featuring.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Velmi potěšeni, že byl prodán, protože byl okrajovým hráčem, který sotva hrál.
+
+KEY-488284: Very pleased that he was waived as he was little more than a fringe player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Velmi potěšeni, že se ho vzdali, protože byl o něco více než okrajový hráč.
+
+KEY-488285: Very pleased that he was released as he was little more than a fringe player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Velmi potěšeni, že byl propuštěn, protože byl o něco více než okrajový hráč.
+
+KEY-488286: Very pleased that he was sold as he was little more than a fringe player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Velmi potěšeni, že byl prodán, protože byl o něco více než okrajový hráč.
+
+KEY-488287: Understand that he was waived as he wasn't good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Rozumí, že se ho vzdali, protože nebyl dost dobrý.
+
+KEY-488288: Understand that he was released as he wasn't good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, že byl propuštěn, protože nebyl dost dobrý.
+
+KEY-488289: Understand that he was sold as he wasn't good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, že byl prodán, protože nebyl dost dobrý.
+
+KEY-488290: Understand that he was waived as he was unlikely to ever be good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Rozumí, že se ho vzdali, protože bylo nepravděpodobné, že by někdy byl dost dobrý.
+
+KEY-488291: Understand that he was released as he was unlikely to ever be good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, že byl propuštěn, protože bylo nepravděpodobné, že by někdy byl dost dobrý.
+
+KEY-488292: Understand that he was sold as he was unlikely to ever be good enough.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, že byl prodán, protože pravděpodobně nebude dost dobrý.
+
+KEY-488293: Understand he was waived as he was a fringe player barely featuring.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Rozumí, že se ho vzdali, protože to byl okrajový hráč, který sotva hrál.
+
+KEY-488294: Understand he was released as he was a fringe player barely featuring.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, že byl propuštěn, protože byl okrajovým hráčem, který sotva hrál.
+
+KEY-488295: Understand he was sold as he was a fringe player barely featuring.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, že byl prodán, protože byl okrajovým hráčem, který sotva hrál.
+
+KEY-488296: Understand he was waived as he was little more than a fringe player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Rozumí, že se ho vzdali, protože byl o něco více než okrajový hráč.
+
+KEY-488297: Understand he was released as he was little more than a fringe player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, že byl propuštěn, protože byl o něco více než okrajový hráč.
+
+KEY-488298: Understand he was sold as he was little more than a fringe player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, že byl prodán, protože byl o něco více než okrajový hráč.
+
+KEY-488299: Understand the decision to waive him despite having high hopes for his potential.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Rozumí rozhodnutí vzdát se ho, přestože doufali v jeho potenciál.
+
+KEY-488300: Understand the decision to release him despite having high hopes for his potential.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí rozhodnutí o jeho propuštění, přestože doufali v jeho potenciál.
+
+KEY-488301: Understand the decision to sell him despite having high hopes for his potential.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí rozhodnutí prodat ho, přestože věřili v jeho potenciál.
+
+KEY-488302: Understand he was waived as he was a squad player barely featuring.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Rozumí, že se ho vzdali, protože byl hráčem týmu, který sotva hrál.
+
+KEY-488303: Understand he was released as he was a squad player barely featuring.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, že byl propuštěn, protože byl hráčem týmu, který sotva hrál.
+
+KEY-488304: Understand he was sold as he was a squad player barely featuring.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, že byl prodán, protože byl hráčem týmu, který sotva nastupoval.
+
+KEY-488305: Understand he was waived as he was little more than a squad player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Rozumí, že se ho vzdali, protože byl o něco víc než hráč sestavy.
+
+KEY-488306: Understand he was released as he was little more than a squad player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, že byl propuštěn, protože byl o něco víc než hráč sestavy.
+
+KEY-488307: Understand he was sold as he was little more than a squad player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, že byl prodán, protože byl o něco víc než hráč sestavy.
+
+KEY-488308: Understand why he was waived as, although a regular starter, he had struggled to feature of late.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Rozumí, proč se jej vzdali, protože, i když byl hráčem základní sestavy, se zlepšení přišlo pozdě.
+
+KEY-488309: Understand why he was released as, although a regular starter, he had struggled to feature of late.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, proč byl propuštěn, protože, i když byl hráčem základní sestavy, se zlepšení přišlo pozdě.
+
+KEY-488310: Understand why he was sold as, although a regular starter, he had struggled to feature of late.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, proč byl prodán, protože, i když byl hráčem základní sestavy, se zlepšení přišlo pozdě.
+
+KEY-488311: Understand the decision to waive him despite his role as a regular starter.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Rozumí, proč se jej vzdali, protože, i když byl hráčem základní sestavy.
+
+KEY-488312: Understand the decision to release him despite his role as a regular starter.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, proč byl propuštěn, protože, i když byl hráčem základní sestavy.
+
+KEY-488313: Understand the decision to sell him despite his role as a regular starter.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Rozumí, proč byl prodán, protože, i když byl hráčem základní sestavy.
+
+KEY-488314: Unsure about waiving him as he had a chance of developing into a decent player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Není jisté, zda vzdát se ho bylo správné, protože měl šanci se vypracovat na slušného hráče.
+
+KEY-488315: Unsure about releasing him as he had a chance of developing into a decent player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Není jisté, zda propustit ho bylo správné, protože měl šanci se vypracovat na slušného hráče.
+
+KEY-488316: Unsure about selling him as he had a chance of developing into a decent player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Není jisté, zda prodat ho bylo správné, protože měl šanci se vypracovat na slušného hráče.
+
+KEY-488317: Unsure about waiving him as he was a useful depth option who should have been used more often.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept, a useful depth option is someone who can come into the team to provide cover for more talented and important players]
+STR-1: Není jisté, zda vzdát se ho bylo správné, protože to byla užitečná hloubková volba, která měla být používána častěji.
+
+KEY-488318: Unsure about releasing him as he was a useful depth option who should have been used more often.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, a useful depth option is someone who can come into the team to provide cover for more talented and important players]
+STR-1: Není jisté, zda propustit ho bylo správné, protože to byla užitečná hloubková volba, která měla být používána častěji.
+
+KEY-488319: Unsure about selling him as he was a useful depth option who should have been used more often.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, a useful depth option is someone who can come into the team to provide cover for more talented and important players]
+STR-1: Není jisté, zda propustit ho bylo správné, protože to byla užitečná hloubková volba, která měla být používána častěji.
+
+KEY-488320: Unsure about waiving him as he was a useful depth option.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept, a useful depth option is someone who can come into the team to provide cover for more talented and important players]
+STR-1: Není jisté, zda vzdát se ho bylo správné, protože to byla užitečná hloubková volba.
+
+KEY-488321: Unsure about releasing him as he was a useful depth option.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, a useful depth option is someone who can come into the team to provide cover for more talented and important players]
+STR-1: Není jisté, zda propustit ho bylo správné, protože to byla užitečná hloubková volba.
+
+KEY-488322: Unsure about selling him as he was a useful depth option.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, a useful depth option is someone who can come into the team to provide cover for more talented and important players]
+STR-1: Není jisté, zda prodat ho bylo správné, protože to byla užitečná hloubková volba.
+
+KEY-488323: Unsure about waiving him as he had a bright future at the club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Není jisté, zda vzdát se ho bylo správné, protože měl v klubu světlou budoucnost.
+
+KEY-488324: Unsure about releasing him as he had a bright future at the club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Není jisté, zda propustit ho bylo správné, protože měl v klubu světlou budoucnost.
+
+KEY-488325: Unsure about selling him as he had a bright future at the club.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Není jisté, zda prodat ho bylo správné, protože měl v klubu světlou budoucnost.
+
+KEY-488326: Unsure about waiving him as he was a useful squad player who should have been used more often.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Není jisté, zda vzdát se ho bylo správné, protože to byl užitečný hráč týmu, který měl být používán častěji.
+
+KEY-488327: Unsure about releasing him as he was a useful squad player who should have been used more often.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Není jisté, zda propustit ho bylo správné, protože to byl užitečný hráč týmu, který měl být používán častěji.
+
+KEY-488328: Unsure about selling him as he was a useful squad player who should have been used more often.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Není jisté, zda prodat ho bylo správné, protože to byl užitečný hráč týmu, který měl být používán častěji.
+
+KEY-488329: Unsure about waiving him as he was a useful squad player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Není jisté, zda vzdát se ho bylo správné, protože to byl užitečný hráč týmu.
+
+KEY-488330: Unsure about releasing him as he was a useful squad player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Není jisté, zda propustit ho bylo správné, protože to byl užitečný hráč týmu.
+
+KEY-488331: Unsure about selling him as he was a useful squad player.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Není jisté, zda prodat ho bylo správné, protože to byl užitečný hráč týmu.
+
+KEY-488332: Unsure about waiving him as he was a regular starter who should have played more often.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board, Waivers is ID 351581, this is related to that concept]
+STR-1: Není jisté, zda vzdát se ho bylo správné, protože to byl stabilní hráč základní jedenáctky a měl hrát častěji.
+
+KEY-488333: Unsure about releasing him as he was a regular starter who should have played more often.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Není jisté, zda propustit ho bylo správné, protože to byl stabilní hráč základní jedenáctky a měl hrát častěji.
+
+KEY-488334: Unsure about selling him as he was a regular starter who should have played more often.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Confidence; FR-BN: 28129; TONE: Informal; CHARLIMIT: Short and Concise; REF-ID: n/a; NOTE: transfer confidence feedback from either the fans or the board]
+STR-1: Není jisté, zda prodat ho bylo správné, protože to byl stabilní hráč základní jedenáctky a měl hrát častěji.
