@@ -5,3 +5,7 @@ V adresari PREKLAD jsou vsechny TXT, ktere jsem dostal od jisteho pana Krouzela 
 Svou cast prekladu nyni zverejnuji pod licenci Creative Common CC BY-NC-SA https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs či-li "Uveďte původ-Neužívejte dílo komerčně-Zachovejte licenci", aby bylo mozne tento preklad i nadale vyuzivat zdarma. 
 
 Poruseni licence CC BY-NC-SA muze vest k pravnim krokum pro poruseni autorskeho zakona.
+
+Plná verze češtiny vydána pod licencí CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs (vyznačování změn není z povahy produktu nutné)
+
+Původní překlad F-mko.cz (https://www.f-mko.cz/cestina/) a GitHub (https://github.com/vonTrips/FM21-cestina)
