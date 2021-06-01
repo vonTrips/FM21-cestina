@@ -1,0 +1,1050 @@
+KEY-498811: [%person#1-I] think we've been handed a pretty tough draw and so, naturally, that's going to allow a few nerves to creep in[COMMENT: AREA: Press Conferences; SUB-AREA: Need Result; FR-BN: QID 3384; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_RELEGATION_PLAYOUT_PATH_REQUIRED_TO_ENSURE_SURVIVAL_HOW_NERVOUS_IS_MANAGER]
+KEY-498811-M: [%male#1-I] think we've been handed a pretty tough draw and so, naturally, that's going to allow a few nerves to creep in[COMMENT: AREA: Press Conferences; SUB-AREA: Need Result; FR-BN: QID 3384; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_RELEGATION_PLAYOUT_PATH_REQUIRED_TO_ENSURE_SURVIVAL_HOW_NERVOUS_IS_MANAGER]
+STR-1: Myslím, že los k nám byl trochu nepříznívý, takže tu samozřejmě nějaká ta nervozita je
+KEY-498811-F: [%female#1-I] think we've been handed a pretty tough draw and so, naturally, that's going to allow a few nerves to creep in[COMMENT: AREA: Press Conferences; SUB-AREA: Need Result; FR-BN: QID 3384; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_RELEGATION_PLAYOUT_PATH_REQUIRED_TO_ENSURE_SURVIVAL_HOW_NERVOUS_IS_MANAGER]
+STR-1: Myslím, že los k nám byl trochu nepříznívý, takže tu samozřejmě nějaká ta nervozita je
+
+KEY-498812: We're up against it for sure and we're going to have to pull out all the stops if we're to stay up[COMMENT: AREA: Press Conferences; SUB-AREA: Need Result; FR-BN: QID 3384; TONE: Mixed; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_RELEGATION_PLAYOUT_PATH_REQUIRED_TO_ENSURE_SURVIVAL_HOW_NERVOUS_IS_MANAGER, to pull out all the stops is to leave no stone unturned and do whatever it takes]
+STR-1: Určitě to je pro nás obtížné a proto nenecháme kámen na kameni, abychom nesestoupili 
+
+KEY-498813: [%person#1-You]'re about to make [%person#1-your] managerial debut. Can [%person#1-you] sum up [%person#1-your] feelings on an occasion like this?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ABOUT_TO_MAKE_MANAGERIAL_DEBUT]
+KEY-498813-M: [%male#1-You]'re about to make [%male#1-your] managerial debut. Can [%male#1-you] sum up [%male#1-your] feelings on an occasion like this?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ABOUT_TO_MAKE_MANAGERIAL_DEBUT]
+STR-1: Čeká Vás manažerský debut. Můžete shrnout Vaše pocity?
+KEY-498813-F: [%female#1-You]'re about to make [%female#1-your] managerial debut. Can [%female#1-you] sum up [%female#1-your] feelings on an occasion like this?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ABOUT_TO_MAKE_MANAGERIAL_DEBUT]
+STR-1: Čeká Vás manažerský debut. Můžete shrnout Vaše pocity?
+
+KEY-498814: Things are going well and [%person#1-you] continue to enjoy the confidence of the board and supporters alike. Can [%person#1-you] keep the good times rolling?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+KEY-498814-M: Things are going well and [%male#1-you] continue to enjoy the confidence of the board and supporters alike. Can [%male#1-you] keep the good times rolling?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: Daří se a užíváte si důvěru vedení i fanoušků. Dokážete dobré časy udržet?
+KEY-498814-F: Things are going well and [%female#1-you] continue to enjoy the confidence of the board and supporters alike. Can [%female#1-you] keep the good times rolling?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: Daří se a užíváte si důvěru vedení i fanoušků. Dokážete dobré časy udržet?
+
+KEY-498815: [%person#1-surname] has confidence in [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+KEY-498815-M: [%male#1-surname] has confidence in [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: [%male#1-surname] má v týmu [%team#1-short] důvěru
+KEY-498815-F: [%female#1-surname] has confidence in [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: [%female#1-surname] má v týmu [%team#1-short] důvěru
+
+KEY-498816: [%person#1-surname] enjoying things at [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+KEY-498816-M: [%male#1-surname] enjoying things at [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: [%male#1-surname] si to v [%team#1-short] užívá 
+KEY-498816-F: [%female#1-surname] enjoying things at [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: [%female#1-surname] si to v [%team#1-short] užívá 
+
+KEY-498817: [%person#1-surname] refuses to become complacent[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+KEY-498817-M: [%male#1-surname] refuses to become complacent[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: [%male#1-surname] odmítá být uspokojený
+KEY-498817-F: [%female#1-surname] refuses to become complacent[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: [%female#1-surname] odmítá být uspokojený
+
+KEY-498818: [%person#1-surname]: Good times don't last[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+KEY-498818-M: [%male#1-surname]: Good times don't last[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: [%male#1-surname]: Dobré časy nevydrží
+KEY-498818-F: [%female#1-surname]: Good times don't last[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: [%female#1-surname]: Dobré časy nevydrží
+
+KEY-498819: [%person#1-I]'m in no mood to jinx things![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+KEY-498819-M: [%male#1-I]'m in no mood to jinx things![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: Nechci to zakřiknout!
+KEY-498819-F: [%female#1-I]'m in no mood to jinx things![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: Nechci to zakřiknout!
+
+KEY-498820: [%person#1-I] think everyone's in a really positive frame of mind and [%person#1-I] have confidence that, collectively, we'll continue to do our jobs[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+KEY-498820-M: [%male#1-I] think everyone's in a really positive frame of mind and [%male#1-I] have confidence that, collectively, we'll continue to do our jobs[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: Myslím, že jsou všichni pozitivně rozloženi a věřím, že budeme společně pokračovat v naší práci 
+KEY-498820-F: [%female#1-I] think everyone's in a really positive frame of mind and [%female#1-I] have confidence that, collectively, we'll continue to do our jobs[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: Myslím, že jsou všichni pozitivně rozloženi a věřím, že budeme společně pokračovat v naší práci 
+
+KEY-498821: [%person#1-I]'m having fun, who wouldn't be? It's an enjoyable time for sure[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+KEY-498821-M: [%male#1-I]'m having fun, who wouldn't be? It's an enjoyable time for sure[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: Bavím se, kdo by ne. Je to určitě příjemná doba
+KEY-498821-F: [%female#1-I]'m having fun, who wouldn't be? It's an enjoyable time for sure[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: Bavím se, kdo by ne. Je to určitě příjemná doba
+
+KEY-498822: [%person#1-I] know we're doing well, but it's more important now than ever that we don't become complacent[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+KEY-498822-M: [%male#1-I] know we're doing well, but it's more important now than ever that we don't become complacent[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: Vím, že se nám daří. Ale teď je důležité jak nikdy, aby nepřišlo uspokojení
+KEY-498822-F: [%female#1-I] know we're doing well, but it's more important now than ever that we don't become complacent[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: Vím, že se nám daří. Ale teď je důležité jak nikdy, aby nepřišlo uspokojení
+
+KEY-498823: [%person#1-I]'ve watched enough football to know that good times don't last, and it's important to be ready for the bad times, because they'll come eventually[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+KEY-498823-M: [%male#1-I]'ve watched enough football to know that good times don't last, and it's important to be ready for the bad times, because they'll come eventually[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: Už jsem viděl dost fotbalu na to, abych věděl, že dobré časy nevydrží a že je důležité být připraven na ty horší, které časem přijdou
+KEY-498823-F: [%female#1-I]'ve watched enough football to know that good times don't last, and it's important to be ready for the bad times, because they'll come eventually[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_ENJOYING_GOOD_CONFIDENCE_OF_LATE]
+STR-1: Už jsem viděla dost fotbalu na to, abych věděla, že dobré časy nevydrží a že je důležité být připraven na ty horší, které časem přijdou
+
+KEY-498824: Are [%person#1-you] under any sort of pressure given that most people believe that a defeat here will cost [%person#1-you] [%person#1-your] job?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_UNDER_PRESSURE_NEEDS_A_RESULT_HERE_ELSE_SACKED]
+KEY-498824-M: Are [%male#1-you] under any sort of pressure given that most people believe that a defeat here will cost [%male#1-you] [%male#1-your] job?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_UNDER_PRESSURE_NEEDS_A_RESULT_HERE_ELSE_SACKED]
+STR-1: Cítíte se pod tlakem, když si většina lidí myslí, že by porážka znamenala Váš vyhazov?
+KEY-498824-F: Are [%female#1-you] under any sort of pressure given that most people believe that a defeat here will cost [%female#1-you] [%female#1-your] job?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_UNDER_PRESSURE_NEEDS_A_RESULT_HERE_ELSE_SACKED]
+STR-1: Cítíte se pod tlakem, když si většina lidí myslí, že by porážka znamenala Váš vyhazov?
+
+KEY-498825: [%person#1-I] know the realities of the business, so let's see what happens[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_UNDER_PRESSURE_NEEDS_A_RESULT_HERE_ELSE_SACKED]
+KEY-498825-M: [%male#1-I] know the realities of the business, so let's see what happens[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_UNDER_PRESSURE_NEEDS_A_RESULT_HERE_ELSE_SACKED]
+STR-1: Vím, že tak to chodí, tak uvidíme, jak to dopadne
+KEY-498825-F: [%female#1-I] know the realities of the business, so let's see what happens[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_MANAGER_UNDER_PRESSURE_NEEDS_A_RESULT_HERE_ELSE_SACKED]
+STR-1: Vím, že tak to chodí, tak uvidíme, jak to dopadne
+
+KEY-498826: It's almost time for the last-ever match at [%stadium#1]. Can [%person#1-you] give it an appropriate send-off?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+KEY-498826-M: It's almost time for the last-ever match at [%stadium#1]. Can [%male#1-you] give it an appropriate send-off?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: Už je skoro čas posledního zápasu na stadionu [%stadium#1]. Můžete mu dát patřičné rozloučení?
+KEY-498826-F: It's almost time for the last-ever match at [%stadium#1]. Can [%female#1-you] give it an appropriate send-off?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: Už je skoro čas posledního zápasu na stadionu [%stadium#1]. Můžete mu dát patřičné rozloučení?
+
+KEY-498827: [%person#1-surname] prepares to say farewell to [%stadium#1][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+KEY-498827-M: [%male#1-surname] prepares to say farewell to [%stadium#1][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: [%male#1-surname] je připraven říct stadionu [%stadium#1] sbohem
+KEY-498827-F: [%female#1-surname] prepares to say farewell to [%stadium#1][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: [%female#1-surname] je připravena říct stadionu [%stadium#1] sbohem
+
+KEY-498828: [%person#1-surname] aiming for stadium celebration[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+KEY-498828-M: [%male#1-surname] aiming for stadium celebration[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: [%male#1-surname] se zaměřuje na oslavu stadionu
+KEY-498828-F: [%female#1-surname] aiming for stadium celebration[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: [%female#1-surname] se zaměřuje na oslavu stadionu
+
+KEY-498829: [%person#1-surname] fears [%stadium#1] anti-climax[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+KEY-498829-M: [%male#1-surname] fears [%stadium#1] anti-climax[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: [%male#1-surname] se obává zklamání ze stadionu [%stadium#1]
+KEY-498829-F: [%female#1-surname] fears [%stadium#1] anti-climax[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: [%female#1-surname] se obává zklamání ze stadionu [%stadium#1]
+
+KEY-498830: [%person#1-surname] won't be distracted by [%stadium#1] goodbye[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+KEY-498830-M: [%male#1-surname] won't be distracted by [%stadium#1] goodbye[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: [%male#1-surname] nebude rozptýlen rozlučkou se stadionen [%stadium#1]
+KEY-498830-F: [%female#1-surname] won't be distracted by [%stadium#1] goodbye[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: [%female#1-surname] nebude rorozptýlená rozlučkou se stadionem [%stadium#1]
+
+KEY-498831: [%person#1-I]'m just focused on the task at hand to be perfectly honest[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+KEY-498831-M: [%male#1-I]'m just focused on the task at hand to be perfectly honest[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: Upřímně, soustředím se jen na daný úkol
+KEY-498831-F: [%female#1-I]'m just focused on the task at hand to be perfectly honest[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: Upřímně, soustředím se jen na daný úkol
+
+KEY-498832: [%person#1-I] know we all have special memories of this place and we're hoping to say goodbye in the right way, with a win[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+KEY-498832-M: [%male#1-I] know we all have special memories of this place and we're hoping to say goodbye in the right way, with a win[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: Vím, že mají všichni na tohle místo skvělé vzpomínky, a doufáme, že se rozloučíme tak jak máme, vítězstvím.
+KEY-498832-F: [%female#1-I] know we all have special memories of this place and we're hoping to say goodbye in the right way, with a win[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: Vím, že mají všichni na tohle místo skvělé vzpomínky, a doufáme, že se rozloučíme tak jak máme, vítězstvím. 
+
+KEY-498833: [%person#1-I] think it's appropriate that we celebrate a place that has been a huge part of this club's history. Hopefully we can kick off the party with a win[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+KEY-498833-M: [%male#1-I] think it's appropriate that we celebrate a place that has been a huge part of this club's history. Hopefully we can kick off the party with a win[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: Myslím si, že je vhodné oslavit místo, které bylo velkou součástí klubu. Snad zahájíme oslavu vítězstvím
+KEY-498833-F: [%female#1-I] think it's appropriate that we celebrate a place that has been a huge part of this club's history. Hopefully we can kick off the party with a win[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: Myslím si, že je vhodné oslavit místo, které bylo velkou součástí klubu. Snad zahájíme oslavu vítězstvím
+
+KEY-498834: [%person#1-I] think the lads feel a bit more pressure than usual because of the circumstances and [%person#1-I] can only hope it's not an anti-climax[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+KEY-498834-M: [%male#1-I] think the lads feel a bit more pressure than usual because of the circumstances and [%male#1-I] can only hope it's not an anti-climax[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: Myslím si, že kluci cítí kvůli okolnostem trochu víc tlaku než normálně a můžu jen doufat, že to nebude zklamání
+KEY-498834-F: [%female#1-I] think the lads feel a bit more pressure than usual because of the circumstances and [%female#1-I] can only hope it's not an anti-climax[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: Myslím si, že kluci cítí kvůli okolnostem trochu víc tlaku než normálně a můžu jen doufat, že to nebude zklamání
+
+KEY-498835: [%person#1-I] don't want it to be a distraction. We have to put it out of our minds until full time[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+KEY-498835-M: [%male#1-I] don't want it to be a distraction. We have to put it out of our minds until full time[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: Nechci, aby nás to rozptylovalo. Musíme to dostat z hlavy, než skončí zápas
+KEY-498835-F: [%female#1-I] don't want it to be a distraction. We have to put it out of our minds until full time[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_LAST_MATCH_IN_STADIUM_BEFORE_MOVE]
+STR-1: Nechci, aby nás to rozptylovalo. Musíme to dostat z hlavy, než skončí zápas
+
+KEY-498836: Well, the moment is almost here, as [%stadium#1] is set to play host to [%team#1-short] for the first time. Can [%person#1-you] get off to a winning start here?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+KEY-498836-M: Well, the moment is almost here, as [%stadium#1] is set to play host to [%team#1-short] for the first time. Can [%male#1-you] get off to a winning start here?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Tak je to skoro tady, stadion [%stadium#1] je připraven poprvé hostit [%team#1-short]. Může to být vítězná premiéra?
+KEY-498836-F: Well, the moment is almost here, as [%stadium#1] is set to play host to [%team#1-short] for the first time. Can [%female#1-you] get off to a winning start here?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Tak je to skoro tady, stadion [%stadium#1] je připraven poprvé hostit [%team#1-short]. Může to být vítězná premiéra?
+
+KEY-498837: [%person#1-surname] wants [%stadium#1] to become a fortress from the off[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM, from the off means from kick-off, from the start]
+KEY-498837-M: [%male#1-surname] wants [%stadium#1] to become a fortress from the off[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM, from the off means from kick-off, from the start]
+STR-1: [%male#1-surname] chce, aby se ze stadionu [%stadium#1] od samého začátku stala pevnost
+KEY-498837-F: [%female#1-surname] wants [%stadium#1] to become a fortress from the off[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM, from the off means from kick-off, from the start]
+STR-1: [%female#1-surname] chce, aby se ze stadionu [%stadium#1] od samého začátku stala pevnost
+
+KEY-498838: [%person#1-surname] keen to settle in to new stadium[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+KEY-498838-M: [%male#1-surname] keen to settle in to new stadium[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: [%male#1-surname] se chce na novém stadionu usadit
+KEY-498838-F: [%female#1-surname] keen to settle in to new stadium[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: [%female#1-surname] se chce na novém stadionu usadit
+
+KEY-498839: [%person#1-surname] fears [%stadium#1] unfamiliarity[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+KEY-498839-M: [%male#1-surname] fears [%stadium#1] unfamiliarity[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: [%male#1-surname] se obává neznalosti stadionu [%stadium#1]
+KEY-498839-F: [%female#1-surname] fears [%stadium#1] unfamiliarity[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: [%female#1-surname] se obává neznalosti stadionu [%stadium#1]
+
+KEY-498840: [%person#1-surname] won't be distracted by [%stadium#1] debut[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+KEY-498840-M: [%male#1-surname] won't be distracted by [%stadium#1] debut[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Debut na stadionu [%stadium#1] nerozhodí [%male#1-surname]
+KEY-498840-F: [%female#1-surname] won't be distracted by [%stadium#1] debut[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Debut na stadionu [%stadium#1] nerozhodí [%female#1-surname]
+
+KEY-498841: [%person#1-I]'ve not really thought about it like that. It's just like any other match[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+KEY-498841-M: [%male#1-I]'ve not really thought about it like that. It's just like any other match[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Takto jsem o tom nepřemýšlel, je to zápas jako každý jiný. 
+KEY-498841-F: [%female#1-I]'ve not really thought about it like that. It's just like any other match[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Takto jsem o tom nepřemýšlela, je to zápas jako každý jiný. 
+
+KEY-498842: [%person#1-I] want teams to fear coming here, [%person#1-I] want this place to become a fortress, and that has to start right now[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+KEY-498842-M: [%male#1-I] want teams to fear coming here, [%male#1-I] want this place to become a fortress, and that has to start right now[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Chci, aby se sem týmy bály jezdit, aby to byla pevnost a aby to bylo tak hned teď
+KEY-498842-F: [%female#1-I] want teams to fear coming here, [%female#1-I] want this place to become a fortress, and that has to start right now[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Chci, aby se sem týmy bály jezdit, aby to byla pevnost a aby to tak bylo hned teď
+
+KEY-498843: [%person#1-I] know it takes a while for teams to settle in to new stadiums, so there'll doubtless be some bumps in the road, we just have to deal with them[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+KEY-498843-M: [%male#1-I] know it takes a while for teams to settle in to new stadiums, so there'll doubtless be some bumps in the road, we just have to deal with them[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Vím, že týmům chvíli trvá zvyknout si na nový stadion, takže bezpochyby tu budou nějaké překážky, se kterými si prostě budeme muset poradit 
+KEY-498843-F: [%female#1-I] know it takes a while for teams to settle in to new stadiums, so there'll doubtless be some bumps in the road, we just have to deal with them[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Vím, že týmům chvíli trvá zvyknout si na nový stadion, takže bezpochyby tu budou nějaké překážky, se kterými si prostě budeme muset poradit 
+
+KEY-498844: There's always a certain amount of unfamiliarity that comes with new stadiums; [%person#1-I] can only hope we get settled in nice and quickly[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+KEY-498844-M: There's always a certain amount of unfamiliarity that comes with new stadiums; [%male#1-I] can only hope we get settled in nice and quickly[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Vždy tu je jistá dávka neznalosti, která přichází s novým stadionem. Můžu jen doufat, že si rychle zvykneme  
+KEY-498844-F: There's always a certain amount of unfamiliarity that comes with new stadiums; [%female#1-I] can only hope we get settled in nice and quickly[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Vždy tu je jistá dávka neznalosti, která přichází s novým stadionem. Můžu jen doufat, že si rychle zvykneme
+
+KEY-498845: [%person#1-I] don't want it to be a distraction. It's a football ground, just like any other[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+KEY-498845-M: [%male#1-I] don't want it to be a distraction. It's a football ground, just like any other[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Nechci, aby mě to rozptylovalo. Je to hřiště jako každé jiné
+KEY-498845-F: [%female#1-I] don't want it to be a distraction. It's a football ground, just like any other[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_IN_NEW_STADIUM]
+STR-1: Nechci, aby mě to rozptylovalo. Je to hřiště jako každé jiné
+
+KEY-498846: It's almost time for kick-off in the [%comp#1-short]; [%person#1-you] must be excited?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+KEY-498846-M: It's almost time for kick-off in the [%comp#1-short]; [%male#1-you] must be excited?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: Je skoro čas výkopu v [%comp#1-short]. Musíte být natěšený?
+KEY-498846-F: It's almost time for kick-off in the [%comp#1-short]; [%female#1-you] must be excited?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: Je skoro čas výkopu v [%comp#1-short]. Musíte být natěšená?
+
+KEY-498847: [%person#1-surname] ready for [%comp#1-short] challenge[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+KEY-498847-M: [%male#1-surname] ready for [%comp#1-short] challenge[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: [%male#1-surname] je připraven na výzvu v podobě [%comp#1-short]
+KEY-498847-F: [%female#1-surname] ready for [%comp#1-short] challenge[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: [%female#1-surname] je připravena na výzvu v podobě [%comp#1-short]
+
+KEY-498848: [%person#1-surname] excited by [%comp#1-short] potential[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+KEY-498848-M: [%male#1-surname] excited by [%comp#1-short] potential[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: [%male#1-surname] je nadšen potenciálem soutěže [%comp#1-short]
+KEY-498848-F: [%female#1-surname] excited by [%comp#1-short] potential[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: [%female#1-surname] je nadšen potenciálem soutěže [%comp#1-short]
+
+KEY-498849: [%person#1-surname]: [%comp#1-short] won't be easy[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+KEY-498849-M: [%male#1-surname]: [%comp#1-short] won't be easy[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: [%male#1-surname]: [%comp#1-short] nebude lehká
+KEY-498849-F: [%female#1-surname]: [%comp#1-short] won't be easy[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: [%female#1-surname]: [%comp#1-short] nebude lehká
+
+KEY-498850: [%person#1-surname] admits [%team#1-short] are up against it in [%comp#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+KEY-498850-M: [%male#1-surname] admits [%team#1-short] are up against it in [%comp#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: [%male#1-surname] přiznává, že to bude mít [%team#1-short] obtížné
+KEY-498850-F: [%female#1-surname] admits [%team#1-short] are up against it in [%comp#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: [%female#1-surname] přiznává, že to bude mít [%team#1-short] obtížné
+
+KEY-498851: [%person#1-I]'m not really that fussed to be honest[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+KEY-498851-M: [%male#1-I]'m not really that fussed to be honest[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: Upřímně, nejsem moc nervózní
+KEY-498851-F: [%female#1-I]'m not really that fussed to be honest[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: Upřímně, nejsem moc nervózní
+
+KEY-498852: [%person#1-I]'m ready for the challenge; we all worked hard to be promoted, now we're here, and we're prepared[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+KEY-498852-M: [%male#1-I]'m ready for the challenge; we all worked hard to be promoted, now we're here, and we're prepared[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: Jsem na výzvu připraven. Pracovali jsme tvrdě, abychom postoupili, teď jsme tady a připraveni 
+KEY-498852-F: [%female#1-I]'m ready for the challenge; we all worked hard to be promoted, now we're here, and we're prepared[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: Jsem na výzvu připravena. Pracovali jsme tvrdě, abychom postoupili, teď jsme tady a připraveni 
+
+KEY-498853: [%person#1-I]'m excited! We worked so hard to earn promotion and now we get to play at the level we deserve to be at[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+KEY-498853-M: [%male#1-I]'m excited! We worked so hard to earn promotion and now we get to play at the level we deserve to be at[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: Jsem nadšený! Tvrdě jsme šli za postupem a teď můžeme hrát na úrovni, kterou si zasloužíme
+KEY-498853-F: [%female#1-I]'m excited! We worked so hard to earn promotion and now we get to play at the level we deserve to be at[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: Jsem nadšená! Tvrdě jsme šli za postupem a teď můžeme hrát na úrovni, kterou si zasloužíme
+
+KEY-498854: It's a new challenge and it certainly won't be easy. We know that happens when you get promoted, but we have to step up to a new level[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: Je to nová výzva a určitě to nebude snadné. Víme, že se to po postupu stává, ale musíme přistoupit na novou úrověň
+
+KEY-498855: [%person#1-I] think we're up against it. Promotion was great but this is a whole new world for us[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+KEY-498855-M: [%male#1-I] think we're up against it. Promotion was great but this is a whole new world for us[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: Myslím, že to bude obtížné. Postup byl skvělý, ale tohle je pro nás úplně jiný svět.
+KEY-498855-F: [%female#1-I] think we're up against it. Promotion was great but this is a whole new world for us[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_PROMOTION_TO_NEW_LEAGUE]
+STR-1: Myslím, že to bude obtížné. Postup byl skvělý, ale tohle je pro nás úplně jiný svět.
+
+KEY-498856: It's almost time for kick-off in the [%comp#1-short]; [%person#1-you] must be champing at the bit to bounce straight back from relegation?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE, champing at the bit means keen to get going]
+KEY-498856-M: It's almost time for kick-off in the [%comp#1-short]; [%male#1-you] must be champing at the bit to bounce straight back from relegation?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE, champing at the bit means keen to get going]
+STR-1: Je skoro čas výkopu v soutěži [%comp#1-short]. Musíte být úplně natěšený na postup zpět?
+KEY-498856-F: It's almost time for kick-off in the [%comp#1-short]; [%female#1-you] must be champing at the bit to bounce straight back from relegation?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE, champing at the bit means keen to get going]
+STR-1: Je skoro čas výkopu v soutěži [%comp#1-short]. Musíte být úplně natěšená na postup zpět?
+
+KEY-498857: [%person#1-surname] ready to bounce back from relegation[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+KEY-498857-M: [%male#1-surname] ready to bounce back from relegation[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: [%male#1-surname] je připraven postoupit zpět
+KEY-498857-F: [%female#1-surname] ready to bounce back from relegation[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: [%female#1-surname] je připraven postoupit zpět
+
+KEY-498858: [%person#1-surname] anxious to get [%comp#1-short] campaign going[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+KEY-498858-M: [%male#1-surname] anxious to get [%comp#1-short] campaign going[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: [%male#1-surname] se nemůže dočkat, až se soutěž [%comp#1-short] rozjede
+KEY-498858-F: [%female#1-surname] anxious to get [%comp#1-short] campaign going[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: [%female#1-surname] se nemůže dočkat, až se soutěž [%comp#1-short] rozjede
+
+KEY-498859: [%person#1-surname] says it won't be easy to bounce straight back[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+KEY-498859-M: [%male#1-surname] says it won't be easy to bounce straight back[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: Podle [%male#1-surname] nebude snadné hned postoupit zpět
+KEY-498859-F: [%female#1-surname] says it won't be easy to bounce straight back[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: Podle [%female#1-surname] nebude snadné hned postoupit zpět
+
+KEY-498860: [%person#1-surname] fears [%team#1-short] will struggle in the [%comp#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+KEY-498860-M: [%male#1-surname] fears [%team#1-short] will struggle in the [%comp#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: [%male#1-surname] se obává, že se tým [%team#1-short] bude v soutěži [%comp#1-short] potácet
+KEY-498860-F: [%female#1-surname] fears [%team#1-short] will struggle in the [%comp#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: [%female#1-surname] se obává, že se tým [%team#1-short] bude v soutěži [%comp#1-short] potácet
+
+KEY-498861: [%person#1-I]'m not getting into that. We're focused on this match[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+KEY-498861-M: [%male#1-I]'m not getting into that. We're focused on this match[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: Nebudu se do toho pouštět. Soustředíme se na tento zápas
+KEY-498861-F: [%female#1-I]'m not getting into that. We're focused on this match[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: Nebudu se do toho pouštět. Soustředíme se na tento zápas
+
+KEY-498862: [%person#1-I] feel we're ready to get going; everyone wants to bounce back at the first attempt, and today marks the first opportunity to pick up points[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+KEY-498862-M: [%male#1-I] feel we're ready to get going; everyone wants to bounce back at the first attempt, and today marks the first opportunity to pick up points[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: Cítím, že jsme připravení jít na to. Všichni chceme postoupit zpět hned napoprvé a dnes je první příležitost sebrat body
+KEY-498862-F: [%female#1-I] feel we're ready to get going; everyone wants to bounce back at the first attempt, and today marks the first opportunity to pick up points[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: Cítím, že jsme připravení jít na to. Všichni chceme postoupit zpět hned napoprvé a dnes je první příležitost sebrat body
+
+KEY-498863: [%person#1-I]'m really anxious to get going. Our relegation left [%person#1-me] with a lot to think about and it's about time we started to play meaningful football[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE, meaningful football means happy to get the season underway after a series of friendlies]
+KEY-498863-M: [%male#1-I]'m really anxious to get going. Our relegation left [%male#1-me] with a lot to think about and it's about time we started to play meaningful football[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE, meaningful football means happy to get the season underway after a series of friendlies]
+STR-1: Už aby to začalo. Náš sestup mě přiměl hodně přemýšlet a už je na čase začít hrát opravdový fotbal
+KEY-498863-F: [%female#1-I]'m really anxious to get going. Our relegation left [%female#1-me] with a lot to think about and it's about time we started to play meaningful football[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE, meaningful football means happy to get the season underway after a series of friendlies]
+STR-1: Už aby to začalo. Náš sestup mě přiměl hodně přemýšlet a už je na čase začít hrát opravdový fotbal
+
+KEY-498864: Everyone seems to think it'll be easy to bounce straight back but [%person#1-I]'m not so sure. There are some good teams at this level and we're going to have to work hard[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+KEY-498864-M: Everyone seems to think it'll be easy to bounce straight back but [%male#1-I]'m not so sure. There are some good teams at this level and we're going to have to work hard[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: Každý si myslí, že bude lehké postoupit zpět, ale já si tak jistý nejsem. Je tu pár dobrých týmů a čeká nás těžká práce
+KEY-498864-F: Everyone seems to think it'll be easy to bounce straight back but [%female#1-I]'m not so sure. There are some good teams at this level and we're going to have to work hard[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: Každý si myslí, že bude lehké postoupit zpět, ale já si tak jistá nejsem. Je tu pár dobrých týmů a čeká nás těžká práce
+
+KEY-498865: We were relegated for a reason and it's not going to be a walk in the park at this level. We'll find out all about that today[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FIRST_MATCH_AFTER_RELEGATION_TO_NEW_LEAGUE]
+STR-1: Sestoupili jsme z nějakého důvodu a na této úrovni to nebude procházka růžovou zahradou. Dnes se o tom všichni přesvědčíme
+
+KEY-498866: [%person#1-Your] team has already been crowned champions but there are still matches like today's to be played. How do [%person#1-you] motivate the squad?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+KEY-498866-M: [%male#1-Your] team has already been crowned champions but there are still matches like today's to be played. How do [%male#1-you] motivate the squad?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: Váš tým už je šampiónem, ale stále zbývá pár zápasů. Jak tým namotivujete?
+KEY-498866-F: [%female#1-Your] team has already been crowned champions but there are still matches like today's to be played. How do [%female#1-you] motivate the squad?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: Váš tým už je šampiónem, ale stále zbývá pár zápasů. Jak tým namotivujete?
+
+KEY-498867: [%person#1-surname]: We have a champion's mentality[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+KEY-498867-M: [%male#1-surname]: We have a champion's mentality[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: [%male#1-surname]: Máme vítěznou mentalitu 
+KEY-498867-F: [%female#1-surname]: We have a champion's mentality[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: [%female#1-surname]: Máme vítěznou mentalitu 
+
+KEY-498868: [%person#1-surname]: We want to win every match[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+KEY-498868-M: [%male#1-surname]: We want to win every match[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: [%male#1-surname]: Chceme vyhrát každý zápas
+KEY-498868-F: [%female#1-surname]: We want to win every match[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: [%female#1-surname]: Chceme vyhrát každý zápas
+
+KEY-498869: [%person#1-surname] expects [%team#1-short] to ease off a little[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+KEY-498869-M: [%male#1-surname] expects [%team#1-short] to ease off a little[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: [%male#1-surname] očekává, že se tým [%team#1-short] trochu uvolní
+KEY-498869-F: [%female#1-surname] expects [%team#1-short] to ease off a little[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: [%female#1-surname] očekává, že se tým [%team#1-short] trochu uvolní
+
+KEY-498870: [%person#1-surname]: We've earned the right to do whatever we want[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+KEY-498870-M: [%male#1-surname]: We've earned the right to do whatever we want[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: [%male#1-surname]: Získali jsme právo dělat si co chceme
+KEY-498870-F: [%female#1-surname]: We've earned the right to do whatever we want[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: [%female#1-surname]: Získali jsme právo dělat si co chceme
+
+KEY-498871: [%person#1-I]'m not sure if you're serious?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+KEY-498871-M: [%male#1-I]'m not sure if you're serious?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: Nevím, zda to myslíte vážně?
+KEY-498871-F: [%female#1-I]'m not sure if you're serious?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: Nevím, zda to myslíte vážně?
+
+KEY-498872: We have a champion's mentality and that's why we've won the league. We won't let up now, that much is for sure[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: Máme vítěznou mentalitu a proto jsme vyhráli ligu. Nevypustíme to, to je jisté
+
+KEY-498873: We want to win every single match we can; that's what has got us to this point[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: Chceme vyhrát úplně každičký zápas. To je to, co nás sem dostalo
+
+KEY-498874: It'd be foolish not to expect us to ease off a little now we've got the trophy in the bag, but don't think we're going to phone it in, that won't happen[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY, to phone it in is to give little effort]
+STR-1: Bylo by pošetilé neočekávat, že trochu zvolníme, když máme trofej v kapse. Ale nevypustíme to, to se nestane
+
+KEY-498875: We've earned the right to do whatever we want, really. If they want to take it easy, so be it[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_CROWNED_CHAMPIONS_BUT_STILL_HAVE_TO_PLAY]
+STR-1: Zasložili jsme si dělat co chceme. Když to chtějí brát s klidem, tak to tak bude 
+
+KEY-498876: [%person#1-Your] team has already been relegated but there are still matches like today's to be played. How do [%person#1-you] motivate the squad?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+KEY-498876-M: [%male#1-Your] team has already been relegated but there are still matches like today's to be played. How do [%male#1-you] motivate the squad?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: Váš tým už sestoupil, ale stále zbývá pár zápasů. Jak tým namotivujete?
+KEY-498876-F: [%female#1-Your] team has already been relegated but there are still matches like today's to be played. How do [%female#1-you] motivate the squad?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: Váš tým už sestoupil, ale stále zbývá pár zápasů. Jak tým namotivujete?
+
+KEY-498877: [%person#1-surname] on playing for pride[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+KEY-498877-M: [%male#1-surname] on playing for pride[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: [%male#1-surname] hraje pro hrdost
+KEY-498877-F: [%female#1-surname] on playing for pride[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: [%female#1-surname] hraje pro hrdost
+
+KEY-498878: [%person#1-surname]: We'll go down fighting[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+KEY-498878-M: [%male#1-surname]: We'll go down fighting[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: [%male#1-surname]: Půjdeme tam bojovat
+KEY-498878-F: [%female#1-surname]: We'll go down fighting[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: [%female#1-surname]: Půjdeme tam bojovat
+
+KEY-498879: [%person#1-surname] will struggle to motivate relegated [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+KEY-498879-M: [%male#1-surname] will struggle to motivate relegated [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: [%male#1-surname] se bude snažit namotivovat sestupující tým [%team#1-short]
+KEY-498879-F: [%female#1-surname] will struggle to motivate relegated [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: [%female#1-surname] se bude snažit namotivovat sestupující tým [%team#1-short]
+
+KEY-498880: [%person#1-surname]: Some of our players have already checked out[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR, to check out here means to disengage mentally]
+KEY-498880-M: [%male#1-surname]: Some of our players have already checked out[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR, to check out here means to disengage mentally]
+STR-1: [%male#1-surname]: Někteří naši hráči už vypnuli hlavy
+KEY-498880-F: [%female#1-surname]: Some of our players have already checked out[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR, to check out here means to disengage mentally]
+STR-1: [%female#1-surname]: Někteří naši hráči už vypnuli hlavy
+
+KEY-498881: [%person#1-I] think we're about to find out if [%person#1-I]'ve motivated them or not[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+KEY-498881-M: [%male#1-I] think we're about to find out if [%male#1-I]'ve motivated them or not[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: Myslím, že to brzo zjistíme
+KEY-498881-F: [%female#1-I] think we're about to find out if [%female#1-I]'ve motivated them or not[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: Myslím, že to brzo zjistíme
+
+KEY-498882: Everyone's pride has been hurt by relegation and, while it doesn't matter much, we can recover a little of that back if we can finish the season on the up[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: Každého hrdost byla sestupem raněna a i když na tom tolik nezáleží, můžeme se z toho trochu dostat, když dohrajeme sezonu se ctí
+
+KEY-498883: We'll go down fighting because we know no other way of approaching things[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: Jdeme tam bojovat, protože to ani jinak neumíme
+
+KEY-498884: It certainly won't be easy to motivate the players, we're already relegated, so there's far less to play for[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: Určitě nebude lehké namotivovat hráče, když už jsme sestoupili a není o co hrát.
+
+KEY-498885: To be perfectly honest, a few of the lads have already checked out mentally, so we're up against it in that regard[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_TEAM_ALREADY_RELEGATED_BUT_PRIDE_TO_PLAY_FOR]
+STR-1: Upřímně, někteří kluci jsou už vyhořelí, takže v tomhle ohledu je to pro nás obtížné
+
+KEY-498886: [%person#1-You] go up against one of [%person#1-your] own players here in [%male#2], who is of course on loan to [%team#2-short]. Is that going to be a little strange for [%person#1-you]?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+KEY-498886-M: [%male#1-You] go up against one of [%male#1-your] own players here in [%male#2], who is of course on loan to [%team#2-short]. Is that going to be a little strange for [%male#1-you]?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: Budete hrát proti vlastnímu hráči [%male#2], který je na hostování v týmu [%team#2-short]. Nebude to pro Vás divné?
+KEY-498886-F: [%female#1-You] go up against one of [%female#1-your] own players here in [%male#2], who is of course on loan to [%team#2-short]. Is that going to be a little strange for [%female#1-you]?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: Budete hrát proti vlastnímu hráči [%male#2], který je na hostování v týmu [%team#2-short]. Nebude to pro Vás divné?
+
+KEY-498887: [%person#1-surname] ready to face [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+KEY-498887-M: [%male#1-surname] ready to face [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: [%male#1-surname] je připraven čelit [%male#2-surname]
+KEY-498887-F: [%female#1-surname] ready to face [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: [%female#1-surname] je připraven čelit [%male#2-surname]
+
+KEY-498888: [%person#1-surname] keen to see what [%male#2-surname] has to offer[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+KEY-498888-M: [%male#1-surname] keen to see what [%male#2-surname] has to offer[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: [%male#1-surname] chce vidět, co [%male#2-surname] umí
+KEY-498888-F: [%female#1-surname] keen to see what [%male#2-surname] has to offer[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: [%female#1-surname] chce vidět, co [%male#2-surname] umí
+
+KEY-498889: [%person#1-surname] unperturbed by [%male#2-surname] situation[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+KEY-498889-M: [%male#1-surname] unperturbed by [%male#2-surname] situation[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: [%male#1-surname] byl klidný ohledně [%male#2-surname] 
+KEY-498889-F: [%female#1-surname] unperturbed by [%male#2-surname] situation[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: [%female#1-surname] byla klidná ohledně [%male#2-surname] 
+
+KEY-498890: [%person#1-surname]: We knew we'd have to face [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+KEY-498890-M: [%male#1-surname]: We knew we'd have to face [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: [%male#1-surname]: Věděli jsme, že budeme muset čelit [%male#2-surname]
+KEY-498890-F: [%female#1-surname]: We knew we'd have to face [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: [%female#1-surname]: Věděli jsme, že budeme muset čelit [%male#2-surname]
+
+KEY-498891: [%person#1-I]'m not going to talk about individuals right now[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+KEY-498891-M: [%male#1-I]'m not going to talk about individuals right now[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: Nebudu teď mluvit o jednotlivcích
+KEY-498891-F: [%female#1-I]'m not going to talk about individuals right now[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: Nebudu teď mluvit o jednotlivcích
+
+KEY-498892: [%person#1-I]'m ready for him! It adds another dimension to the match and it'll be all the better for it[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+KEY-498892-M: [%male#1-I]'m ready for him! It adds another dimension to the match and it'll be all the better for it[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: Jsem na něj připraven! Přidá to zápasu další náboj a o to bude lepší
+KEY-498892-F: [%female#1-I]'m ready for him! It adds another dimension to the match and it'll be all the better for it[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: Jsem na něj připravena! Přidá to zápasu další náboj a o to bude lepší
+
+KEY-498893: It'll be interesting to see what he has to offer. He's on loan to them for a reason and it's up to him to show us what he can do[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: Bude zajímavé vidět, co umí. Proto je u nich na hostování a je na něm se nám ukázat
+
+KEY-498894: He's just another opponent today; we can't be drawn into narratives about the situation[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: Dnes je prostě další protihráč. Nemůžeme být vtaženi do nějakého příbehu
+
+KEY-498895: We knew this was likely when we came to an agreement on his loan, so it's business as usual for us in that regard[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_PLAYING_AGAINST_LOANEE_ON_OPPOSITION_TEAM]
+STR-1: Věděli jsme, že to může přijít, když jsme souhlasili s jeho hostováním, takže to pro nás není nic neobvyklého
+
+KEY-498896: [%person#1-You] and [%person#2] famously don't get along. Will that provide extra motivation for [%person#1-you] here?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+KEY-498896-MM: [%male#1-You] and [%male#2] famously don't get along. Will that provide extra motivation for [%male#1-you] here?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: Moc s ním nevycházíte. Bude to pro Vás extra motivace?
+KEY-498896-MF: [%male#1-You] and [%female#2] famously don't get along. Will that provide extra motivation for [%male#1-you] here?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: Moc s ní nevycházíte. Bude to pro Vás extra motivace?
+KEY-498896-FM: [%female#1-You] and [%male#2] famously don't get along. Will that provide extra motivation for [%female#1-you] here?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: Moc s ním nevycházíte. Bude to pro Vás extra motivace?
+KEY-498896-FF: [%female#1-You] and [%female#2] famously don't get along. Will that provide extra motivation for [%female#1-you] here?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: Moc s ní nevycházíte. Bude to pro Vás extra motivace?
+
+KEY-498897: [%person#1-surname] keen to triumph over [%person#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+KEY-498897-MM: [%male#1-surname] keen to triumph over [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: [%male#1-surname] chce trumfnout [%male#2-surname]
+KEY-498897-MF: [%male#1-surname] keen to triumph over [%female#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: [%male#1-surname] chce trumfnout [%female#2-surname]
+KEY-498897-FM: [%female#1-surname] keen to triumph over [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: [%female#1-surname] chce trumfnout [%male#2-surname]
+KEY-498897-FF: [%female#1-surname] keen to triumph over [%female#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: [%female#1-surname] chce trumfnout [%female#2-surname]
+
+KEY-498898: [%person#1-surname] wants to leave [%person#2-surname] reeling[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER, to leave someone reeling is to beat them and send them home feeling the pain of that defeat]
+KEY-498898-MM: [%male#1-surname] wants to leave [%male#2-surname] reeling[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER, to leave someone reeling is to beat them and send them home feeling the pain of that defeat]
+STR-1: [%male#1-surname] chce poslat [%male#2-surname] domů s bolestivou prohrou
+KEY-498898-MF: [%male#1-surname] wants to leave [%female#2-surname] reeling[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER, to leave someone reeling is to beat them and send them home feeling the pain of that defeat]
+STR-1: [%male#1-surname] chce poslat [%female#2-surname] domů s bolestivou prohrou
+KEY-498898-FM: [%female#1-surname] wants to leave [%male#2-surname] reeling[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER, to leave someone reeling is to beat them and send them home feeling the pain of that defeat]
+STR-1: [%female#1-surname] chce poslat [%male#2-surname] domů s bolestivou prohrou
+KEY-498898-FF: [%female#1-surname] wants to leave [%female#2-surname] reeling[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER, to leave someone reeling is to beat them and send them home feeling the pain of that defeat]
+STR-1: [%female#1-surname] chce poslat [%female#2-surname] domů s bolestivou prohrou
+
+KEY-498899: [%person#1-surname] hoping to avoid [%person#2-surname] distraction[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+KEY-498899-MM: [%male#1-surname] hoping to avoid [%male#2-surname] distraction[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: [%male#1-surname] doufá, že ho [%male#2-surname] nerozhodí
+KEY-498899-MF: [%male#1-surname] hoping to avoid [%female#2-surname] distraction[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: [%male#1-surname] doufá, že ho [%female#2-surname] nerozhodí
+KEY-498899-FM: [%female#1-surname] hoping to avoid [%male#2-surname] distraction[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: [%female#1-surname] doufá, že ho [%male#2-surname] nerozhodí
+KEY-498899-FF: [%female#1-surname] hoping to avoid [%female#2-surname] distraction[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: [%female#1-surname] doufá, že ho [%female#2-surname] nerozhodí
+
+KEY-498900: [%person#1-surname]: [%person#2-surname] doesn't matter[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+KEY-498900-MM: [%male#1-surname]: [%male#2-surname] doesn't matter[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: [%male#1-surname]: [%male#2-surname] mě nezajímá
+KEY-498900-MF: [%male#1-surname]: [%female#2-surname] doesn't matter[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: [%male#1-surname]: [%female#2-surname] mě nezajímá
+KEY-498900-FM: [%female#1-surname]: [%male#2-surname] doesn't matter[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: [%female#1-surname]: [%male#2-surname] mě nezajímá
+KEY-498900-FF: [%female#1-surname]: [%female#2-surname] doesn't matter[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: [%female#1-surname]: [%female#2-surname] mě nezajímá
+
+KEY-498901: Don't you lot ever get tired of fanning the flames of controversy?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: Nejste už unaveni z toho věčného rozdmýchávání vášní?
+
+KEY-498902: [%person#1-I] won't lie, it'd mean a little more to come out on top here, yes[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+KEY-498902-M: [%male#1-I] won't lie, it'd mean a little more to come out on top here, yes[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: Nebudu lhát, ano, porazit je by znamenalo trochu víc
+KEY-498902-F: [%female#1-I] won't lie, it'd mean a little more to come out on top here, yes[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: Nebudu lhát, ano, porazit je by znamenalo trochu víc
+
+KEY-498903: If we can leave them reeling a bit after today, that'd be nice, but any win will do[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER, to leave someone reeling is to beat them and send them home feeling the pain of that defeat]
+STR-1: Bylo by hezké je rozdrtit, ale každá výhra potěší
+
+KEY-498904: It's a distraction [%person#1-I]'m sure we can all do without[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+KEY-498904-M: It's a distraction [%male#1-I]'m sure we can all do without[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: Je to rozptýlení, bez kterého se určitě všichni obejdeme
+KEY-498904-F: It's a distraction [%female#1-I]'m sure we can all do without[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: Je to rozptýlení, bez kterého se určitě všichni obejdeme
+
+KEY-498905: None of that matters today. [%person#I-I]'m focused squarely on winning[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+KEY-498905-M: None of that matters today. [%male#I-I]'m focused squarely on winning[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: Na ničem z toho nezáleží. Soustředím se přímo na vítězství 
+KEY-498905-F: None of that matters today. [%female#I-I]'m focused squarely on winning[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_RIVAL_DISLIKED_MANAGER]
+STR-1: Na ničem z toho nezáleží. Soustředím se přímo na vítězství 
+
+KEY-498906: [%person#1-You] and [%person#2] have a pretty healthy relationship; how are [%person#1-you] looking forward to this one?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+KEY-498906-MM: [%male#1-You] and [%male#2] have a pretty healthy relationship; how are [%male#1-you] looking forward to this one?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: Máte s [%male#2] celkem dobrý vztah. Jak se na něj těšíte?
+KEY-498906-MF: [%male#1-You] and [%female#2] have a pretty healthy relationship; how are [%male#1-you] looking forward to this one?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: Máte s [%female#2] celkem dobrý vztah. Jak se na ní těšíte?
+KEY-498906-FM: [%female#1-You] and [%male#2] have a pretty healthy relationship; how are [%female#1-you] looking forward to this one?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: Máte s [%male#2] celkem dobrý vztah. Jak se na něj těšíte?
+KEY-498906-FF: [%female#1-You] and [%female#2] have a pretty healthy relationship; how are [%female#1-you] looking forward to this one?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: Máte s [%female#2] celkem dobrý vztah. Jak se na ní těšíte?
+
+KEY-498907: [%person#1-surname] looking to beat [%person#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+KEY-498907-MM: [%male#1-surname] looking to beat [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%male#1-surname] chce porazit [%male#2-surname]
+KEY-498907-MF: [%male#1-surname] looking to beat [%female#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%male#1-surname] chce porazit [%female#2-surname]
+KEY-498907-FM: [%female#1-surname] looking to beat [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%female#1-surname] chce porazit [%male#2-surname]
+KEY-498907-FF: [%female#1-surname] looking to beat [%female#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%female#1-surname] chce porazit [%female#2-surname]
+
+KEY-498908: [%person#1-surname] wants last laugh over [%person#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+KEY-498908-MM: [%male#1-surname] wants last laugh over [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%male#1-surname] se chce proti [%male#2-surname] smát jako poslední
+KEY-498908-MF: [%male#1-surname] wants last laugh over [%female#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%male#1-surname] se chce proti [%female#2-surname] smát jako poslední
+KEY-498908-FM: [%female#1-surname] wants last laugh over [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%female#1-surname] se chce proti [%male#2-surname] smát jako poslední
+KEY-498908-FF: [%female#1-surname] wants last laugh over [%female#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%female#1-surname] se chce proti [%female#2-surname] smát jako poslední
+
+KEY-498909: [%person#1-surname] putting friendship with [%person#2-surname] aside[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+KEY-498909-MM: [%male#1-surname] putting friendship with [%male#2-surname] aside[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%male#1-surname] dává přátelsví s [%male#2-surname] stranou
+KEY-498909-MF: [%male#1-surname] putting friendship with [%female#2-surname] aside[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%male#1-surname] dává přátelsví s [%female#2-surname] stranou
+KEY-498909-FM: [%female#1-surname] putting friendship with [%male#2-surname] aside[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%female#1-surname] dává přátelsví s [%male#2-surname] stranou
+KEY-498909-FF: [%female#1-surname] putting friendship with [%female#2-surname] aside[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%female#1-surname] dává přátelsví s [%female#2-surname] stranou
+
+KEY-498910: [%person#1-surname]: [%person#2-surname] doesn't matter today[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+KEY-498910-MM: [%male#1-surname]: [%male#2-surname] doesn't matter today[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%male#1-surname]: [%male#2-surname] mě dnes nezajímá
+KEY-498910-MF: [%male#1-surname]: [%female#2-surname] doesn't matter today[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%male#1-surname]: [%female#2-surname] mě dnes nezajímá
+KEY-498910-FM: [%female#1-surname]: [%male#2-surname] doesn't matter today[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%female#1-surname]: [%male#2-surname] mě dnes nezajímá
+KEY-498910-FF: [%female#1-surname]: [%female#2-surname] doesn't matter today[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: [%female#1-surname]: [%female#2-surname] mě dnes nezajímá
+
+KEY-498911: That's not what's important this close to kickoff[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: Nic důežitého takhle krátce před výkopem
+
+KEY-498912: Sure, we're on good terms, but [%person#1-I] still want to win[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+KEY-498912-M: Sure, we're on good terms, but [%male#1-I] still want to win[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: Jasně, jsme za dobře, ale stále chci vyhrát
+KEY-498912-F: Sure, we're on good terms, but [%female#1-I] still want to win[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: Jasně, jsme za dobře, ale stále chci vyhrát
+
+KEY-498913: It'd be nice if [%person#1-I] could have the last laugh here![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+KEY-498913-M: It'd be nice if [%male#1-I] could have the last laugh here![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: Bylo by hezké, kdybych se smál jako poslední!
+KEY-498913-F: It'd be nice if [%female#1-I] could have the last laugh here![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: Bylo by hezké, kdybych se smála jako poslední!
+
+KEY-498914: We'll both put our friendship aside for the match and then catch up afterwards[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: Oba odložíme na tento zápas naše přátelství bokem a po něm to doženeme
+
+KEY-498915: We're both professionals and the importance of winning isn't lost on either of us[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_FACING_MANAGER_ON_GOOD_TERMS_WITH]
+STR-1: Oba jsme profesionálové a důležitost vítězství se neztratila ani v jednom z nás
+
+KEY-498916: Amid criticism that [%person#1-you] have struggled to entertain as much the club would have liked, will we see any improvements on that front today?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+KEY-498916-M: Amid criticism that [%male#1-you] have struggled to entertain as much the club would have liked, will we see any improvements on that front today?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: Uvidíme dnes s ohledem na kritiku, že se Vám nedaří hrát tak zábavný fotbal, jak by si vedení přálo, v tomto směru nějakou změnu? 
+KEY-498916-F: Amid criticism that [%female#1-you] have struggled to entertain as much the club would have liked, will we see any improvements on that front today?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: Uvidíme dnes s ohledem na kritiku, že se Vám nedaří hrát tak zábavný fotbal, jak by si vedení přálo, v tomto směru nějakou změnu?
+
+KEY-498917: [%person#1-surname] keen for [%team#1-short] to put on a show[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+KEY-498917-M: [%male#1-surname] keen for [%team#1-short] to put on a show[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: [%male#1-surname] chtěl po týmu [%team#1-short], aby předvedl show
+KEY-498917-F: [%female#1-surname] keen for [%team#1-short] to put on a show[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: [%female#1-surname] chtěla po týmu [%team#1-short], aby předvedl show
+
+KEY-498918: [%person#1-surname] wants [%team#1-short] to entertain[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+KEY-498918-M: [%male#1-surname] wants [%team#1-short] to entertain[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: [%male#1-surname] chce, aby tým [%team#1-short] bavil
+KEY-498918-F: [%female#1-surname] wants [%team#1-short] to entertain[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: [%male#1-surname] chce, aby tým [%team#1-short] bavil
+
+KEY-498919: [%person#1-surname] aiming to strike entertainment balance at [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+KEY-498919-M: [%male#1-surname] aiming to strike entertainment balance at [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: [%male#1-surname] usiluje o vyváženou zábavnou hru v týmu [%team#1-short]
+KEY-498919-F: [%female#1-surname] aiming to strike entertainment balance at [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: [%female#1-surname] usiluje o vyváženou zábavnou hru v týmu [%team#1-short]
+
+KEY-498920: [%person#1-surname]: If we win, nothing else matters[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+KEY-498920-M: [%male#1-surname]: If we win, nothing else matters[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: [%male#1-surname]: Pokud vyhrajeme, tak je zbytek jedno
+KEY-498920-F: [%female#1-surname]: If we win, nothing else matters[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: [%female#1-surname]: Pokud vyhrajeme, tak je zbytek jedno
+
+KEY-498921: [%person#1-I] don't think we need to talk about that so close to kickoff[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+KEY-498921-M: [%male#1-I] don't think we need to talk about that so close to kickoff[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: Nemyslím si, že o tom musíme mluvit tak krátce před výkopem 
+KEY-498921-F: [%female#1-I] don't think we need to talk about that so close to kickoff[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: Nemyslím si, že o tom musíme mluvit tak krátce před výkopem 
+
+KEY-498922: [%person#1-I]'m keen to put on a real show, but it's up to the players[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+KEY-498922-M: [%male#1-I]'m keen to put on a real show, but it's up to the players[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: Chci předvádět opravdovou show, ale záleží to na hráčích
+KEY-498922-F: [%female#1-I]'m keen to put on a real show, but it's up to the players[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: Chci předvádět opravdovou show, ale záleží to na hráčích
+
+KEY-498923: Look, [%person#1-I] want us to entertain, it's just not always that easy![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+KEY-498923-M: Look, [%male#1-I] want us to entertain, it's just not always that easy![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: Podívejte, chci, abychom bavili, ale prostě ne vždy to je snadné!
+KEY-498923-F: Look, [%female#1-I] want us to entertain, it's just not always that easy![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: Podívejte, chci, abychom bavili, ale prostě ne vždy to je snadné!
+
+KEY-498924: Everyone wants to entertain but there always has to be a balance. People forget about that[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: Každý se chce bavit, ale vždy tu musí být rovnováha. Lidi na to zapomínají
+
+KEY-498925: At the end of the day, winning is the most important thing. Everything else is second to that[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ATTACKING_FOOTBALL_CRITICISED]
+STR-1: Nakonec je nejdůležitější vítězství. Zbytek je druhořadý
+
+KEY-498926: Amid criticism that [%person#1-you] have struggled to implement the attacking style of play desired by the board, will we see any improvements on that front today?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+KEY-498926-M: Amid criticism that [%male#1-you] have struggled to implement the attacking style of play desired by the board, will we see any improvements on that front today?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: Uvidíme dnes s ohledem na kritiku, že se Vám nedaří zavést vedením požadovaný útočný styl hry, v tomto směru nějakou změnu? 
+KEY-498926-F: Amid criticism that [%female#1-you] have struggled to implement the attacking style of play desired by the board, will we see any improvements on that front today?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: Uvidíme dnes s ohledem na kritiku, že se Vám nedaří zavést vedením požadovaný útočný styl hry, v tomto směru nějakou změnu? 
+
+KEY-498927: [%person#1-surname] to adopt attacking approach[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+KEY-498927-M: [%male#1-surname] to adopt attacking approach[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: [%male#1-surname] si přisvojil útočné pojetí hry
+KEY-498927-F: [%female#1-surname] to adopt attacking approach[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: [%male#1-surname] si přisvojila útočné pojetí hry
+
+KEY-498928: [%person#1-surname] wants [%team#1-short] to attack[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+KEY-498928-M: [%male#1-surname] wants [%team#1-short] to attack[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: [%male#1-surname] chce, aby tým [%team#1-short] útočil
+KEY-498928-F: [%female#1-surname] wants [%team#1-short] to attack[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: [%female#1-surname] chce, aby tým [%team#1-short] útočil
+
+KEY-498929: [%person#1-surname] aiming to strike attacking balance at [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+KEY-498929-M: [%male#1-surname] aiming to strike attacking balance at [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: [%male#1-surname] usiluje o útočnou rovnováhu v týmu [%team#1-short]
+KEY-498929-F: [%female#1-surname] aiming to strike attacking balance at [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: [%female#1-surname] usiluje o útočnou rovnováhu v týmu [%team#1-short]
+
+KEY-498930: [%person#1-surname]: Winning is the most important thing[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+KEY-498930-M: [%male#1-surname]: Winning is the most important thing[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: [%male#1-surname]: Vítězství je nejdůležitější
+KEY-498930-F: [%female#1-surname]: Winning is the most important thing[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: [%female#1-surname]: Vítězství je nejdůležitější
+
+KEY-498931: [%person#1-I] can't give an appropriately detailed answer to that right now[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+KEY-498931-M: [%male#1-I] can't give an appropriately detailed answer to that right now[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: Nemůžu na to teď dostatečně odpovědět
+KEY-498931-F: [%female#1-I] can't give an appropriately detailed answer to that right now[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: Nemůžu na to teď dostatečně odpovědět
+
+KEY-498932: We're certainly intent on going out and giving it a right old go[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED, to give something a right old go is to give it everything you've got]
+STR-1: Určitě máme v úmyslu tam vlítnout a dát do toho vše
+
+KEY-498933: Look, [%person#1-I] want us to attack, it's just not always that easy![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+KEY-498933-M: Look, [%male#1-I] want us to attack, it's just not always that easy![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: Podívejte, chci hrát útočně, ale prostě ne vždy to je snadné!
+KEY-498933-F: Look, [%female#1-I] want us to attack, it's just not always that easy![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: Podívejte, chci hrát útočně, ale prostě ne vždy to je snadné!
+
+KEY-498934: Everyone wants to attack but there always has to be a balance. People forget about that[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_ENTERTAINING_FOOTBALL_CRITICISED]
+STR-1: Každý chce hrát útočně, ale vždy musí být rovnováha. Lidé na to zapomínají. 
+
+KEY-498935: Amid criticism that [%person#1-you] have struggled to be as defensively secure as the board would like, will we see any improvements on that front today?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+KEY-498935-M: Amid criticism that [%male#1-you] have struggled to be as defensively secure as the board would like, will we see any improvements on that front today?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: Uvidíme dnes s ohledem na kritiku, že se Vám nedaří hrát ze zajištěné obrany, jak by si vedení přálo, v tomto směru nějakou změnu?
+KEY-498935-F: Amid criticism that [%female#1-you] have struggled to be as defensively secure as the board would like, will we see any improvements on that front today?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: Uvidíme dnes s ohledem na kritiku, že se Vám nedaří hrát ze zajištěné obrany, jak by si vedení přálo, v tomto směru nějakou změnu?
+
+KEY-498936: [%person#1-surname] wants to tighten up at the back[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+KEY-498936-M: [%male#1-surname] wants to tighten up at the back[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: [%male#1-surname] to chce vzadu zpevnit
+KEY-498936-F: [%female#1-surname] wants to tighten up at the back[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: [%female#1-surname] to chce vzadu zpevnit
+
+KEY-498937: [%person#1-surname] wants [%team#1-short] to defend properly[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+KEY-498937-M: [%male#1-surname] wants [%team#1-short] to defend properly[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: [%male#1-surname] chce, aby tým [%team#1-short] důkladně bránil
+KEY-498937-F: [%female#1-surname] wants [%team#1-short] to defend properly[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: [%female#1-surname] chce, aby tým [%team#1-short] důkladně bránil
+
+KEY-498938: [%person#1-surname] aiming to strike proper balance at [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+KEY-498938-M: [%male#1-surname] aiming to strike proper balance at [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: [%male#1-surname] usiluje o správnou rovnováhu v týmu [%team#1-short]
+KEY-498938-F: [%female#1-surname] aiming to strike proper balance at [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: [%female#1-surname] usiluje o správnou rovnováhu v týmu [%team#1-short]
+
+KEY-498939: [%person#1-I] can't give an appropriately detailed answer to that right now[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+KEY-498939-M: [%male#1-I] can't give an appropriately detailed answer to that right now[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: Nemůžu na to teď dostatečně odpovědět
+KEY-498939-F: [%female#1-I] can't give an appropriately detailed answer to that right now[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: Nemůžu na to teď dostatečně odpovědět
+
+KEY-498940: [%person#1-I] want us to be defensively secure too! We've not done so well in that regard, and we have to improve[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+KEY-498940-M: [%male#1-I] want us to be defensively secure too! We've not done so well in that regard, and we have to improve[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: Chci, abychom byli jistí i v obraně! V tomto směru na tom nejsme dobře a musíme na tom zapracovat
+KEY-498940-F: [%female#1-I] want us to be defensively secure too! We've not done so well in that regard, and we have to improve[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: Chci, abychom byli jistí i v obraně! V tomto směru na tom nejsme dobře a musíme na tom zapracovat
+
+KEY-498941: Look, [%person#1-I] want us to defend as well as we attack, it's just not always that easy![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+KEY-498941-M: Look, [%male#1-I] want us to defend as well as we attack, it's just not always that easy![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: Podívejte, chci abychom bránili stejně dobře jako útočíme, ale prostě ne vždy to je snadné!
+KEY-498941-F: Look, [%female#1-I] want us to defend as well as we attack, it's just not always that easy![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: Podívejte, chci abychom bránili stejně dobře jako útočíme, ale prostě ne vždy to je snadné!
+
+KEY-498942: It's all about balance. We need to attack too, remember[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_DEFENSIVE_FOOTBALL_CRITICISED]
+STR-1: Je to vždy o rovnováze. Pamatujte, musíme i útočit
+
+KEY-498943: Amid criticism that [%person#1-you] have struggled to play in the manner the board would like, will we see any improvements on that front today?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+KEY-498943-M: Amid criticism that [%male#1-you] have struggled to play in the manner the board would like, will we see any improvements on that front today?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+STR-1: Uvidíme dnes s ohledem na kritiku, že se Vám nedaří hrát stylem, jaký by si vedení přálo, v tomto směru nějakou změnu?
+KEY-498943-F: Amid criticism that [%female#1-you] have struggled to play in the manner the board would like, will we see any improvements on that front today?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+STR-1: Uvidíme dnes s ohledem na kritiku, že se Vám nedaří hrát stylem, jaký by si vedení přálo, v tomto směru nějakou změnu?
+
+KEY-498944: [%person#1-surname] wants to find the right approach[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+KEY-498944-M: [%male#1-surname] wants to find the right approach[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+STR-1: [%male#1-surname] chce najít to správné pojetí hry 
+KEY-498944-F: [%female#1-surname] wants to find the right approach[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+STR-1: [%female#1-surname] chce najít to správné pojetí hry
+
+KEY-498945: [%person#1-surname] wants [%team#1-short] to play in the right way[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+KEY-498945-M: [%male#1-surname] wants [%team#1-short] to play in the right way[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+STR-1: [%male#1-surname] chce, aby tým [%team#1-short] hrál, tak jak má
+KEY-498945-F: [%female#1-surname] wants [%team#1-short] to play in the right way[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+STR-1: [%female#1-surname] chce, aby tým [%team#1-short] hrál, tak jak má
+
+KEY-498946: We've all been working towards it but these things take time. We need to find the right approach[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+STR-1: Všichni jsme na tom pracovali, ale tyto věci vyžadují čas. Musíme najít tu správnou cestu
+
+KEY-498947: Look, [%person#1-I] want us to play in the right way, it's just not always that easy![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+KEY-498947-M: Look, [%male#1-I] want us to play in the right way, it's just not always that easy![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+STR-1: Podívejte, chci, abychom hráli jak máme, ale prostě ne vždy to je snadné!
+KEY-498947-F: Look, [%female#1-I] want us to play in the right way, it's just not always that easy![COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+STR-1: Podívejte, chci, abychom hráli jak máme, ale prostě ne vždy to je snadné!
+
+KEY-498948: It's all about balance at the end of the day. If we're getting results, [%person#1-I]'m not as concerned[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+KEY-498948-M: It's all about balance at the end of the day. If we're getting results, [%male#1-I]'m not as concerned[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+STR-1: Vždy je to o konečné rovnováze. Když máme výsledky, nejsem tak znepokojen 
+KEY-498948-F: It's all about balance at the end of the day. If we're getting results, [%female#1-I]'m not as concerned[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_NOT_PLAYING_SORT_OF_FOOTBALL_CLUB_VISION_DEMANDS]
+STR-1: Vždy je to o konečné rovnováze. Když máme výsledky, nejsem tak znepokojen 
+
+KEY-498949: With increasing spotlight on the club's dressing room atmosphere, has it been hard to prepare for this match?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: Bylo těžké připravit se na tento zápas vzhledem ke stoupající pozornosti na atmosféru v kabině?
+
+KEY-498950: [%person#1-surname] aims to unify [%team#1-short] squad[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+KEY-498950-M: [%male#1-surname] aims to unify [%team#1-short] squad[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: [%male#1-surname] usiluje o stmelení party v týmu [%team#1-short]
+KEY-498950-F: [%female#1-surname] aims to unify [%team#1-short] squad[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: [%male#1-surname] usiluje o stmelení party v týmu [%team#1-short]
+
+KEY-498951: [%person#1-surname] 'working to fix' [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+KEY-498951-M: [%male#1-surname] 'working to fix' [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: [%male#1-surname] pracuje na opravě týmu [%team#1-short]
+KEY-498951-F: [%female#1-surname] 'working to fix' [%team#1-short][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: [%female#1-surname] pracuje na opravě týmu [%team#1-short]
+
+KEY-498952: [%person#1-surname] denies [%team#1-short] have problems[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+KEY-498952-M: [%male#1-surname] denies [%team#1-short] have problems[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: [%male#1-surname] odmítá problémy v týmu [%team#1-short]
+KEY-498952-F: [%female#1-surname] denies [%team#1-short] have problems[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: [%female#1-surname] odmítá problémy v týmu [%team#1-short]
+
+KEY-498953: [%person#1-surname]: We're all together, whatever everyone else says[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+KEY-498953-M: [%male#1-surname]: We're all together, whatever everyone else says[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: [%male#1-surname]: Držíme spolu, ať si říká kdo chce, co chce
+KEY-498953-F: [%female#1-surname]: We're all together, whatever everyone else says[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: [%male#1-surname]: Držíme spolu, ať si říká kdo chce, co chce
+
+KEY-498954: [%person#1-I]'m not going to address that sort of speculation[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+KEY-498954-M: [%male#1-I]'m not going to address that sort of speculation[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: Takovými spekulacemi se nebudu zabývat
+KEY-498954-F: [%female#1-I]'m not going to address that sort of speculation[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: Takovými spekulacemi se nebudu zabývat
+
+KEY-498955: It's important, now more than ever, for us to come together for the cause[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: Nyní je důležité se více než kdy jindy spojit dohromady
+
+KEY-498956: It's something [%person#1-I]'ve been working to try to fix and, though it'll take a while, [%person#1-I]'m confident we'll get there[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+KEY-498956-M: It's something [%male#1-I]'ve been working to try to fix and, though it'll take a while, [%male#1-I]'m confident we'll get there[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: Snažil jsem to napravit a ačkoli to bude chvíli trvat, jsem si jistý, že to zvládneme
+KEY-498956-F: It's something [%female#1-I]'ve been working to try to fix and, though it'll take a while, [%female#1-I]'m confident we'll get there[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: Snažila jsem to napravit a ačkoli to bude chvíli trvat, jsem si jistá, že to zvládneme
+
+KEY-498957: [%person#1-I] don't think we have problems, at least not to the extent you're making out[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+KEY-498957-M: [%male#1-I] don't think we have problems, at least not to the extent you're making out[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: Nemyslím si, že máme problém, alespoň ne takový, jaký naznačujete 
+KEY-498957-F: [%female#1-I] don't think we have problems, at least not to the extent you're making out[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: Nemyslím si, že máme problém, alespoň ne takový, jaký naznačujete 
+
+KEY-498958: It doesn't matter what everyone else says, [%person#1-I] can tell you we're all on the same page[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+KEY-498958-M: It doesn't matter what everyone else says, [%male#1-I] can tell you we're all on the same page[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: Nezáleží, co říkají ostatní. Mohu vám říci, že jsme na stejné lodi
+KEY-498958-F: It doesn't matter what everyone else says, [%female#1-I] can tell you we're all on the same page[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_POOR_DRESSING_ROOM_ATMOSPHERE_PROBLEMS]
+STR-1: Nezáleží, co říkají oatatní. Mohu vám říci, že jsme na stejné lodi
+
+KEY-498959: How hard has it been to prepare for this match with the current injury crisis at the club?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: Jak obtížné bylo se připravit na tento zápas se současnou marodkou v klubu?
+
+KEY-498960: [%person#1-surname] challenges [%team#1-short] to overcome injury crisis[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+KEY-498960-M: [%male#1-surname] challenges [%team#1-short] to overcome injury crisis[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: [%male#1-surname] vybízí tým [%team#1-short], aby překonal velkou marodku
+KEY-498960-F: [%female#1-surname] challenges [%team#1-short] to overcome injury crisis[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: [%female#1-surname] vybízí tým [%team#1-short], aby překonal velkou marodku
+
+KEY-498961: [%person#1-surname] extols virtues of [%team#1-short] squad[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+KEY-498961-M: [%male#1-surname] extols virtues of [%team#1-short] squad[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: [%male#1-surname] vychvaluje statečnost party v týmu [%team#1-short]
+KEY-498961-F: [%female#1-surname] extols virtues of [%team#1-short] squad[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: [%female#1-surname] vychvaluje statečnost party v týmu [%team#1-short]
+
+KEY-498962: [%person#1-surname] struggling under [%team#1-short] injury crisis[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+KEY-498962-M: [%male#1-surname] struggling under [%team#1-short] injury crisis[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: [%male#1-surname] zápasí s velkou marodkou týmu [%team#1-short]
+KEY-498962-F: [%female#1-surname] struggling under [%team#1-short] injury crisis[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: [%female#1-surname] zápasí s velkou marodkou týmu [%team#1-short]
+
+KEY-498963: [%person#1-surname]: We've got hardly any fit players[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+KEY-498963-M: [%male#1-surname]: We've got hardly any fit players[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: [%male#1-surname]: Nemáme téměř žádné zdravé hráče
+KEY-498963-F: [%female#1-surname]: We've got hardly any fit players[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: [%female#1-surname]: Nemáme téměř žádné zdravé hráče
+
+KEY-498964: We have to play the match, so there's no point in moaning[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: Musíme odehrát zápas, takže nemá cenu naříkat 
+
+KEY-498965: It's something we have to try to overcome. [%person#1-I] have faith in this squad[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+KEY-498965-M: It's something we have to try to overcome. [%male#1-I] have faith in this squad[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: Je to něco, co se musíme pokusit překonat. Tahle parta má moji důvěru
+KEY-498965-F: It's something we have to try to overcome. [%female#1-I] have faith in this squad[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: Je to něco, co se musíme pokusit překonat. Tahle parta má moji důvěru
+
+KEY-498966: [%person#1-I]'ve got a great squad at [%person#1-my] disposal and they're going to give their all[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+KEY-498966-M: [%male#1-I]'ve got a great squad at [%male#1-my] disposal and they're going to give their all[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: Mám k dispozici skvělou partu a ta do toho dá všechno
+KEY-498966-F: [%female#1-I]'ve got a great squad at [%female#1-my] disposal and they're going to give their all[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: Mám k dispozici skvělou partu a ta do toho dá všechno
+
+KEY-498967: [%person#1-I] won't lie, we're struggling, and it's not been the easiest match to prepare for[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+KEY-498967-M: [%male#1-I] won't lie, we're struggling, and it's not been the easiest match to prepare for[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: Nebudu lhát, bojujeme. A nebyl nejjednodušší zápas na přípravu
+KEY-498967-F: [%female#1-I] won't lie, we're struggling, and it's not been the easiest match to prepare for[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: Nebudu lhát, bojujeme. A nebyl nejjednodušší zápas na přípravu
+
+KEY-498968: We've had to cobble a team together as we haven't got many fit players. We'll do our best[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_INJURY_CRISIS_AFFECTING_THINGS]
+STR-1: Museli jsme tým skládat dohromady, protože nemáme moc zdravých hráčů. Uděláme maximum
+
+KEY-498969: How important will [%male#2] be to [%team#1-short] today?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: Jak důležitý dnes bude [%male#2] pro tým [%team#1-short]?
+
+KEY-498970: [%person#1-surname] hypes up [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+KEY-498970-M: [%male#1-surname] hypes up [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: [%male#1-surname] vychvaluje [%male#2-surname]
+KEY-498970-F: [%female#1-surname] hypes up [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: [%female#1-surname] vychvaluje [%male#2-surname]
+
+KEY-498971: [%person#1-surname] expects [%male#2-surname] to perform[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+KEY-498971-M: [%male#1-surname] expects [%male#2-surname] to perform[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: [%male#1-surname] očekává, že [%male#2-surname] zahraje
+KEY-498971-F: [%female#1-surname] expects [%male#2-surname] to perform[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: [%female#1-surname] očekává, že [%male#2-surname] zahraje
+
+KEY-498972: [%person#1-surname]: It's not about [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+KEY-498972-M: [%male#1-surname]: It's not about [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: [%male#1-surname]: Není to o [%male#2-surname]
+KEY-498972-F: [%female#1-surname]: It's not about [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: [%female#1-surname]: Není to o [%male#2-surname]
+
+KEY-498973: [%person#1-surname]: [%male#2-surname] has to play his part[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+KEY-498973-M: [%male#1-surname]: [%male#2-surname] has to play his part[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: [%male#1-surname]: [%male#2-surname] musí předvést svůj výkon
+KEY-498973-F: [%female#1-surname]: [%male#2-surname] has to play his part[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: [%female#1-surname]: [%male#2-surname] musí předvést svůj výkon
+
+KEY-498974: How do [%person#1-I] measure importance? Pluck a random number from somewhere?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+KEY-498974-M: How do [%male#1-I] measure importance? Pluck a random number from somewhere?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: Jak změřím důležitost? Vytažením náhodného čísla odkudsi?
+KEY-498974-F: How do [%female#1-I] measure importance? Pluck a random number from somewhere?[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: Jak změřím důležitost? Vytažením náhodného čísla odkudsi?
+
+KEY-498975: Of course he's very important, he's an outstanding player[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: Samozřejmě je velmi důležitý, je to výjimečný hráč
+
+KEY-498976: [%person#1-I] need him to perform, and [%person#1-I]'m sure he will[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+KEY-498976-M: [%male#1-I] need him to perform, and [%male#1-I]'m sure he will[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: Potřebuji, aby zahrál a vím, že i zahraje
+KEY-498976-F: [%female#1-I] need him to perform, and [%female#1-I]'m sure he will[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: Potřebuji, aby zahrál a vím, že i zahraje
+
+KEY-498977: It's not about him, or any individual, but the team as a whole. We're better collectively[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: Není to o něm nebo o někom jiném, je to o týmu jako celku. Společně jsme lepší
+
+KEY-498978: He has to play his part, but we're not focusing on individuals. This is a team game[COMMENT: AREA: Press Conferences; SUB-AREA: Tunnel Interviews; FR-BN: 30218; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_HOW_IMPORTANT_IS_X_PLAYER_TODAY]
+STR-1: Musí předvést svůj výkon, ale my nekoukáme na jednotlivce. Je to týmová hra
+
+KEY-498979: How do [%person#1-you] feel ahead of the second match against [%team#2-short] in quick succession?[COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_SECOND_MATCH_OF_BACK_TO_BACK_AGAINST_SAME_TEAM]
+KEY-498979-M: How do [%male#1-you] feel ahead of the second match against [%team#2-short] in quick succession?[COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_SECOND_MATCH_OF_BACK_TO_BACK_AGAINST_SAME_TEAM]
+STR-1: Jak se cítíme před druhým zápasem v rychlém sledu proti týmu [%team#2-short]?
+KEY-498979-F: How do [%female#1-you] feel ahead of the second match against [%team#2-short] in quick succession?[COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_SECOND_MATCH_OF_BACK_TO_BACK_AGAINST_SAME_TEAM]
+STR-1: Jak se cítíme před druhým zápasem v rychlém sledu proti týmu [%team#2-short]?
+
+KEY-498980: [%person#1-surname] ready to see off [%team#2-short][COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TEAM_PLAYS_SAME_OPPONENT_BACK_TO_BACK_DREW_THE_FIRST_MATCH]
+KEY-498980-M: [%male#1-surname] ready to see off [%team#2-short][COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TEAM_PLAYS_SAME_OPPONENT_BACK_TO_BACK_DREW_THE_FIRST_MATCH]
+STR-1: [%male#1-surname] je připraven vyprovodit tým  [%team#2-short]
+KEY-498980-F: [%female#1-surname] ready to see off [%team#2-short][COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TEAM_PLAYS_SAME_OPPONENT_BACK_TO_BACK_DREW_THE_FIRST_MATCH]
+STR-1: [%female#1-surname] je připravena vyprovodit tým [%team#2-short]
+
+KEY-498981: [%person#1-surname] expects [%team#2-short] to fight hard[COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_SECOND_MATCH_OF_BACK_TO_BACK_AGAINST_SAME_TEAM]
+KEY-498981-M: [%male#1-surname] expects [%team#2-short] to fight hard[COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_SECOND_MATCH_OF_BACK_TO_BACK_AGAINST_SAME_TEAM]
+STR-1: [%male#1-surname] očekává, že [%team#2-short] bude tvrdě bojovat
+KEY-498981-F: [%female#1-surname] expects [%team#2-short] to fight hard[COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_SECOND_MATCH_OF_BACK_TO_BACK_AGAINST_SAME_TEAM]
+STR-1: [%male#1-surname] očekává, že [%team#2-short] bude tvrdě bojovat
+
+KEY-498982: It's just another day at the office[COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_SECOND_MATCH_OF_BACK_TO_BACK_AGAINST_SAME_TEAM]
+STR-1: Jen další den v práci
+
+KEY-498983: [%person#1-I] saw enough from our first meeting to think we're ready to go out there and get the job done[COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TEAM_PLAYS_SAME_OPPONENT_BACK_TO_BACK_DREW_THE_FIRST_MATCH]
+KEY-498983-M: [%male#1-I] saw enough from our first meeting to think we're ready to go out there and get the job done[COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TEAM_PLAYS_SAME_OPPONENT_BACK_TO_BACK_DREW_THE_FIRST_MATCH]
+STR-1: V našem prvním utkání jsem toho viděl dost na to, abych věřil, že jsme připraveni nastoupit a dodělat to 
+KEY-498983-F: [%female#1-I] saw enough from our first meeting to think we're ready to go out there and get the job done[COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TEAM_PLAYS_SAME_OPPONENT_BACK_TO_BACK_DREW_THE_FIRST_MATCH]
+STR-1: V našem prvním utkání jsem toho viděla dost na to, abych věřila, že jsme připraveni nastoupit a dodělat to 
+
+KEY-498984: [%person#1-I]'m confident we've got what it takes here, yeah[COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TEAM_PLAYS_SAME_OPPONENT_BACK_TO_BACK_DREW_THE_FIRST_MATCH]
+KEY-498984-M: [%male#1-I]'m confident we've got what it takes here, yeah[COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TEAM_PLAYS_SAME_OPPONENT_BACK_TO_BACK_DREW_THE_FIRST_MATCH]
+STR-1: Jsem přesvědčen, že tu na to máme, jo
+KEY-498984-F: [%female#1-I]'m confident we've got what it takes here, yeah[COMMENT: AREA: Press Conferences; SUB-AREA: Playing the same team in consecutive fixtures; FR-BN: 30224; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TEAM_PLAYS_SAME_OPPONENT_BACK_TO_BACK_DREW_THE_FIRST_MATCH]
+STR-1: Jsem přesvědčena, že tu na to máme, jo
+
+KEY-498985: [%male#2] misses out due to injury; how much of an absence will he be in this huge match?[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%male#2] chybí kvůli zranění. Jak moc bude jeho absence znát?
+
+KEY-498986: [%team#1-short] will 'deal with' [%male#2-surname] absence[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: Tým [%team#1-short] se bude vypořádávat s absencí [%male#2-surname]
+
+KEY-498987: [%person#1-surname] challenges [%team#2-short] to rally in [%male#2-surname]{s} absence[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+KEY-498987-M: [%male#1-surname] challenges [%team#2-short] to rally in [%male#2-surname]{s} absence[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%male#1-surname] vyzývá tým [%team#2-short] při absenci [%male#2-surname]{} k semknutí se
+KEY-498987-F: [%female#1-surname] challenges [%team#2-short] to rally in [%male#2-surname]{s} absence[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%female#1-surname] vyzývá tým [%team#2-short] při absenci [%male#2-surname]{} k semknutí se
+
+KEY-498988: [%person#1-surname]: We'll miss [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+KEY-498988-M: [%male#1-surname]: We'll miss [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%male#1-surname]: [%male#2-surname] nám bude chybět
+KEY-498988-F: [%female#1-surname]: We'll miss [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%female#1-surname]: [%male#2-surname] nám bude chybět
+
+KEY-498989: [%person#1-surname]: [%male#2-surname] is irreplaceable[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+KEY-498989-M: [%male#1-surname]: [%male#2-surname] is irreplaceable[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%male#1-surname]: [%male#2-surname] je nenahraditelný
+KEY-498989-F: [%female#1-surname]: [%male#2-surname] is irreplaceable[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%female#1-surname]: [%male#2-surname] je nenahraditelný
+
+KEY-498990: We won't know until we're out there[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: To nebudeme vědět, dokud to nenastane
+
+KEY-498991: We'll deal with it because we don't have another choice[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: Popasujeme se s tím, nic jiného nám nezbývá
+
+KEY-498992: It's a big match, you're right, and [%person#1-I] want the players who are fit and available to play to step up to the plate[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+KEY-498992-M: It's a big match, you're right, and [%male#1-I] want the players who are fit and available to play to step up to the plate[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: Máte pravdu, je to velký zápas a já chci hráče, co jsou fit a schopni nastoupit
+KEY-498992-F: It's a big match, you're right, and [%female#1-I] want the players who are fit and available to play to step up to the plate[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: Máte pravdu, je to velký zápas a já chci hráče, co jsou fit a schopni nastoupit
+
+KEY-498993: [%person#1-I] think it's clear that we'll miss him, but injuries happen, and we've got to find a way to win[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+KEY-498993-M: [%male#1-I] think it's clear that we'll miss him, but injuries happen, and we've got to find a way to win[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: Jasně, že bude chybět, ale zranění se stávájí a my musíme přijít na to, jak vyhrát 
+KEY-498993-F: [%female#1-I] think it's clear that we'll miss him, but injuries happen, and we've got to find a way to win[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: Jasně, že bude chybět, ale zranění se stávájí a my musíme přijít na to, jak vyhrát 
+
+KEY-498994: You can't replace a player like [%male#2-first] and it's unthinkable to go into a match of this importance without him[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3392; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_BIG_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: Nemůžete nahradit hráče jako je [%male#2-first] a je nemyslytelné jít do takto důležitého zápasu bez něj
+
+KEY-498995: [%male#2] misses out due to injury; how much of an absence will he be?[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3393; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_NORMAL_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%male#2] bude chybět kvůli zranění. Jak moc velká absence to je?
+
+KEY-498996: [%team#1-short] 'adapting' without injured [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3393; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_NORMAL_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%team#1-short] si zvyká hrát bez zraněného [%male#2-surname]
+
+KEY-498997: [%person#1-surname] challenges [%team#2-short] players to replace injured [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3393; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_NORMAL_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+KEY-498997-M: [%male#1-surname] challenges [%team#2-short] players to replace injured [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3393; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_NORMAL_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%male#1-surname] vyzývá hráče týmu [%team#2-short], aby zastoupili zraněného [%male#2-surname]
+KEY-498997-F: [%female#1-surname] challenges [%team#2-short] players to replace injured [%male#2-surname][COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3393; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_NORMAL_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%female#1-surname] vyzývá hráče týmu [%team#2-short], aby zastoupili zraněného [%male#2-surname]
+
+KEY-498998: [%person#1-surname]: Injured [%male#2-surname] is a big loss[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3393; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_NORMAL_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+KEY-498998-M: [%male#1-surname]: Injured [%male#2-surname] is a big loss[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3393; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_NORMAL_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%male#1-surname]: Zraněný [%male#2-surname] je velká ztráta
+KEY-498998-F: [%female#1-surname]: Injured [%male#2-surname] is a big loss[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3393; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_NORMAL_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%female#1-surname]: Zraněný [%male#2-surname] je velká ztráta
+
+KEY-498999: [%person#1-surname]: [%male#2-surname] 'hard to replace'[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3393; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_NORMAL_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+KEY-498999-M: [%male#1-surname]: [%male#2-surname] 'hard to replace'[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3393; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_NORMAL_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%male#1-surname]: "těžko nahraditelný" [%male#2-surname] 
+KEY-498999-F: [%female#1-surname]: [%male#2-surname] 'hard to replace'[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3393; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_NORMAL_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: [%female#1-surname]: "těžko nahraditelný" [%male#2-surname] 
+
+KEY-499001: It's not ideal, but we're adapting, and we believe we can go out there and win[COMMENT: AREA: Press Conferences; SUB-AREA: Player absences; FR-BN: QID 3393; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: QID_TUNNEL_QUESTION_NORMAL_MATCH_PLAYER_MISSING_THROUGH_INJURY]
+STR-1: Není to ideální, ale my se zařídíme a věříme, že to zvládneme a vyhrajeme

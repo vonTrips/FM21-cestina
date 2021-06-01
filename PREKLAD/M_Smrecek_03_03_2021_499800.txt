@@ -1,0 +1,807 @@
+KEY-499800: I don't think that's fair. I just want to compete on an even footing with everyone else.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nemyslím si, že je to fér. Chci jen soutěžit na stejné úrovni se všemi ostatními. 
+
+KEY-499801: Is a fair chance to fight for my place really too much to ask for?[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Je opravdu moc chtít férovou šanci zabojovat o své místo?
+
+KEY-499802: I don't think we need to do this; I'm probably better off leaving if all we're going to do is bicker about things.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nemyslím si, že je nutné tohle dělat. To snad radši odejdu, jestli se máme mezi sebou jen hašteřit.
+
+KEY-499803: I'm disappointed that [%person#2-you]'ve responded like that and it looks like I'm going to have to leave.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499803-M: I'm disappointed that [%male#2-you]'ve responded like that and it looks like I'm going to have to leave.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Jsem zklamaný, že jste reagoval takto a vypadá to, že budu muset odejít.
+KEY-499803-F: I'm disappointed that [%female#2-you]'ve responded like that and it looks like I'm going to have to leave.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Jsem zklamaný, že jste reagovala takto a vypadá to, že budu muset odejít.
+
+KEY-499804: I didn't want it to come to this but I know I'm doing the right thing for my career.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechtěl jsem, aby to došlo až sem, ale vím, že dělám správnou věc pro svou kariéru.
+
+KEY-499805: It'll be good to get a fresh start and to finally make the progress I know I'm capable of.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Bude dobré začít znova a konečně dosáhnout pokroku, kterého jsem schopen.
+
+KEY-499806: That's football at the end of the day. I'm confident in my own ability.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nakonec, je to fotbal. Svými schopnostmi jsem si jistý.
+
+KEY-499807: It hasn't really worked out for either of us, has it? Better luck next time.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Ve skutečnosti to ani jednomu z nás nevyšlo, že? Příště víc štěstí.
+
+KEY-499808: Maybe this will be good for both of us? I guess we'll find out one way or another.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Možná to bude dobré pro nás oba? Myslím, že to tak i tak zjistíme.
+
+KEY-499809: I'm sad to say that I've lost faith in [%person#2-your] management. Unless something changes, I'm going to have to seriously consider my future.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499809-M: I'm sad to say that I've lost faith in [%male#2-your] management. Unless something changes, I'm going to have to seriously consider my future.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Mrzí mě, že to říkám, ale ztratil jsem důvěru ve Vaše vedení. Pokud se něco nezmění, budu muset vážně pouvažovat o své budoucnosti.
+KEY-499809-F: I'm sad to say that I've lost faith in [%female#2-your] management. Unless something changes, I'm going to have to seriously consider my future.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Mrzí mě, že to říkám, ale ztratil jsem důvěru ve Vaše vedení. Pokud se něco nezmění, budu muset vážně pouvažovat o své budoucnosti.
+
+KEY-499810: I can't say I have much faith in [%person#2-you] as a manager any more. I think my future lies elsewhere.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499810-M: I can't say I have much faith in [%male#2-you] as a manager any more. I think my future lies elsewhere.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Už nemohu říct, že Vám jako manažerovi hodně věřím. Myslím, že má budoucnost leží jinde.
+KEY-499810-F: I can't say I have much faith in [%female#2-you] as a manager any more. I think my future lies elsewhere.[COMMENT: AREA: Player Happiness; SUB-AREA: Unhappy with agreed playing time; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Už nemohu říct, že Vám jako manažerce hodně věřím. Myslím, že má budoucnost leží jinde.
+
+KEY-499811: [%person#2], seeking to replace the outgoing [%job#1], has made headlines by promising to investigate the opportunity of building a brand new stadium which [%person#1-he] envisages as being able to catapult the club into a new era of success.[COMMENT: AREA: Media and News; SUB-AREA: Board Takeovers; FR-BN: 28163; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: speculation about changes a new chairman might make]
+KEY-499811-MM: [%male#2], seeking to replace the outgoing [%job#1], has made headlines by promising to investigate the opportunity of building a brand new stadium which [%male#1-he] envisages as being able to catapult the club into a new era of success.[COMMENT: AREA: Media and News; SUB-AREA: Board Takeovers; FR-BN: 28163; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: speculation about changes a new chairman might make]
+STR-1: [%male#2], který usiluje o pozici odcházejícího [%job#1], se dostal na titulní stránky slibem, že prozkoumá možnost výstavby zcela nového stadionu, který podle něj dokáže vystřelit tým do nové úspěšné éry.
+KEY-499811-MF: [%male#2], seeking to replace the outgoing [%job#1], has made headlines by promising to investigate the opportunity of building a brand new stadium which [%female#1-she] envisages as being able to catapult the club into a new era of success.[COMMENT: AREA: Media and News; SUB-AREA: Board Takeovers; FR-BN: 28163; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: speculation about changes a new chairman might make]
+STR-1: [%male#2], který usiluje o pozici odcházejícího [%job#1], se dostal na titulní stránky slibem, že prozkoumá možnost výstavby zcela nového stadionu, který podle ní dokáže vystřelit tým do nové úspěšné éry.
+KEY-499811-FM: [%female#2], seeking to replace the outgoing [%job#1], has made headlines by promising to investigate the opportunity of building a brand new stadium which [%male#1-he] envisages as being able to catapult the club into a new era of success.[COMMENT: AREA: Media and News; SUB-AREA: Board Takeovers; FR-BN: 28163; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: speculation about changes a new chairman might make]
+STR-1: [%female#2], která usiluje o pozici odcházejícího [%job#1], se dostala na titulní stránky slibem, že prozkoumá možnost výstavby zcela nového stadionu, co podle něj dokáže vystřelit tým do nové úspěšné éry.
+KEY-499811-FF: [%female#2], seeking to replace the outgoing [%job#1], has made headlines by promising to investigate the opportunity of building a brand new stadium which [%female#1-she] envisages as being able to catapult the club into a new era of success.[COMMENT: AREA: Media and News; SUB-AREA: Board Takeovers; FR-BN: 28163; TONE: Formal; CHARLIMIT: None; REF-ID: n/a; NOTE: speculation about changes a new chairman might make]
+STR-1: [%female#2], která usiluje o pozici odcházejícího [%job#1], se dostala na titulní stránky slibem, že prozkoumá možnost výstavby zcela nového stadionu, co podle ní dokáže vystřelit tým do nové úspěšné éry.
+
+KEY-499812: [%team#1-short] are restricted to signing one player over the age of 21.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Rules; FR-BN: 31332; TONE: Formal; CHARLIMIT: None;]
+STR-1: Tým [%team#1-short] může podepsat jen jednoho hráče staršího 21 let.
+
+KEY-499813: [%team#1-short] cannot sign any players over the age of 21.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Rules; FR-BN: 31332; TONE: Formal; CHARLIMIT: None;]
+STR-1: Tým [%team#1-short] nemůže podepsat žádné hráče starší 21 let.
+
+KEY-499814: [%team#1-short] are restricted to signing [%number#1] players over the age of 21.[COMMENT: AREA: Transfers; SUB-AREA: Transfer Rules; FR-BN: 31332; TONE: Formal; CHARLIMIT: None;]
+STR-1: Tým [%team#1-short] může podepsat jen [%number#1] hráčů starších 21 let.
+
+KEY-499816: That sounds good to me.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Za mě to zní dobře.
+
+KEY-499817: I'll be glad to have the chance to start afresh elsewhere.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Budu rád za šanci začít někde jinde od začátku.
+
+KEY-499818: I've had some concerns of late but I don't have the need to talk about them right now.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Měl jsem poslední dobou nějaké obavy, ale nepotřebuji si o nich teď promluvit.
+
+KEY-499819: I've been having doubts about my future here but this isn't the time to talk about that, I'm okay right now.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Měl jsem pochybnosti o své budoucnosti zde, ale nyní není čas o tom mluvit, teď jsem v pohodě.
+
+KEY-499820: It feels like I've heard this all before and it's hard to trust [%person#2-you].[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499820-M: It feels like I've heard this all before and it's hard to trust [%male#2-you].[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Mám pocit, že tohle všechno jsem už slyšel a je těžké Vám uvěřit.
+KEY-499820-F: It feels like I've heard this all before and it's hard to trust [%female#2-you].[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Mám pocit, že tohle všechno jsem už slyšel a je těžké Vám uvěřit.
+
+KEY-499821: Yeah, I don't believe [%person#2-you], not this time.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499821-M: Yeah, I don't believe [%male#2-you], not this time.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Ano, nevěřím Vám, ne teď.
+KEY-499821-F: Yeah, I don't believe [%female#2-you], not this time.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Ano, nevěřím Vám, ne teď.
+
+KEY-499822: I appreciate [%person#2-you] saying that.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499822-M: I appreciate [%male#2-you] saying that.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Oceňuji, že to říkáte.
+KEY-499822-F: I appreciate [%female#2-you] saying that.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Oceňuji, že to říkáte.
+
+KEY-499823: I'm glad to hear it.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: To rád slyším.
+
+KEY-499824: I hope we can put this behind us and move on in a more positive fashion.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Doufám, že to můžeme nechat plavat a posunout se k něčemu více pozitivnímu.
+
+KEY-499825: Don't let it happen again.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Ať už se to znova nestane.
+
+KEY-499826: I don't think I can give [%person#2-you] any more chances, unfortunately.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499826-M: I don't think I can give [%male#2-you] any more chances, unfortunately.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nemyslím si, že Vám můžu dát další šanci, bohužel.
+KEY-499826-F: I don't think I can give [%female#2-you] any more chances, unfortunately.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nemyslím si, že Vám můžu dát další šanci, bohužel.
+
+KEY-499827: [%person#2-You]'ve run out of chances. I can't waste any more time.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499827-M: [%male#2-You]'ve run out of chances. I can't waste any more time.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Vyčerpal jste šance. Už nemohu ztrácet čas.
+KEY-499827-F: [%female#2-You]'ve run out of chances. I can't waste any more time.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Vyčerpala jste šance. Už nemohu ztrácet čas.
+
+KEY-499828: Okay, fair enough, let's leave it at that.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Fajn, budiž, nechme to tak.
+
+KEY-499829: Alright, I hear [%person#2-you], and I'll say no more on the subject.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499829-M: Alright, I hear [%male#2-you], and I'll say no more on the subject.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: V pořádku, slyším Vás a na toto téma již nic neřeknu.
+KEY-499829-F: Alright, I hear [%female#2-you], and I'll say no more on the subject.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: V pořádku, slyším Vás a na toto téma již nic neřeknu.
+
+KEY-499830: I'm sorry, I can't let this go.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Omlouvám se, nemůžu to nechat být.
+
+KEY-499831: That doesn't work for me. I refuse to back down.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: To mi nevyhovuje. Odmítám ustoupit.
+
+KEY-499832: I don't know what [%person#2-you]'re trying to achieve here.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499832-M: I don't know what [%male#2-you]'re trying to achieve here.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nevím, čeho se tu snažíte dosáhnout.
+KEY-499832-F: I don't know what [%female#2-you]'re trying to achieve here.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nevím, čeho se tu snažíte dosáhnout.
+
+KEY-499833: What are [%person#2-you] doing? I don't understand where [%person#2-you]'re coming from.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499833-M: What are [%male#2-you] doing? I don't understand where [%male#2-you]'re coming from.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Co to děláte? Nechápu, odkud se to ve Vás bere.
+KEY-499833-F: What are [%female#2-you] doing? I don't understand where [%female#2-you]'re coming from.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Co to děláte? Nechápu, odkud se to ve Vás bere.
+
+KEY-499834: Alright, I'll concede the point here.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: V pořádku, v tomto bodě ustupuji.
+
+KEY-499835: Let's do things [%person#2-your] way then.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499835-M: Let's do things [%male#2-your] way then.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Udělejme tedy věci po Vašem.
+KEY-499835-F: Let's do things [%female#2-your] way then.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Udělejme tedy věci po Vašem.
+
+KEY-499836: Okay, I'll say no more.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Fajn, už nic neřeknu.
+
+KEY-499837: Let's do it [%person#2-your] way then.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499837-M: Let's do it [%male#2-your] way then.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Udělejme to tedy po Vašem.
+KEY-499837-F: Let's do it [%female#2-your] way then.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Udělejme to tedy po Vašem.
+
+KEY-499838: I'm not sure I can continue to play for [%person#2-you] after this.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499838-M: I'm not sure I can continue to play for [%male#2-you] after this.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nejsem si jist, jestli po tomto můžu nadále za Vás hrát.
+KEY-499838-F: I'm not sure I can continue to play for [%female#2-you] after this.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nejsem si jist, jestli po tomto můžu nadále za Vás hrát.
+
+KEY-499839: I can't work with [%person#2-you] anymore, I've had enough.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499839-M: I can't work with [%male#2-you] anymore, I've had enough.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Už s Vámi nemůžu nadále pracovat, mám toho dost.
+KEY-499839-F: I can't work with [%female#2-you] anymore, I've had enough.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Už s Vámi nemůžu nadále pracovat, mám toho dost.
+
+KEY-499840: If [%person#2-you] don't want me here, let me go.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499840-M: If [%male#2-you] don't want me here, let me go.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Jestli mě zde nechcete, nechte mě jít.
+KEY-499840-F: If [%female#2-you] don't want me here, let me go.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Jestli mě zde nechcete, nechte mě jít.
+
+KEY-499841: Stop messing me around and put me on the transfer list if that's how it's going to be.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Přestaňte si se mnou zahrávat a dejte mě na přestupovou listinu, jestli to má být takto.
+
+KEY-499842: I don't think I can let this go that easily.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nemyslím si, že to můžu jen tak lehce nechat být.
+
+KEY-499843: [%person#2-You]'re not going to get away with this that easily, I'm not letting this go.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499843-M: [%male#2-You]'re not going to get away with this that easily, I'm not letting this go.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Z toho se tak snadno nedostanete, nenechám to být.
+KEY-499843-F: [%female#2-You]'re not going to get away with this that easily, I'm not letting this go.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Z toho se tak snadno nedostanete, nenechám to být.
+
+KEY-499844: I think my concerns are valid.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Myslím, že mé obavy jsou oprávněné.
+
+KEY-499845: I don't care if [%person#2-you] think I'm being unprofessional, I'm really not happy.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499845-M: I don't care if [%male#2-you] think I'm being unprofessional, I'm really not happy.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Je mi jedno, zda si myslíte, že jsem neprofesionální, jsem opravdu nešťastný.
+KEY-499845-F: I don't care if [%female#2-you] think I'm being unprofessional, I'm really not happy.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Je mi jedno, zda si myslíte, že jsem neprofesionální, jsem opravdu nešťastný.
+
+KEY-499846: I don't think [%person#2-you] reaise how unhappy this has made me.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499846-M: I don't think [%male#2-you] reaise how unhappy this has made me.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nemyslím si, že si uvědomujete, jak mě to udělalo nešťastným.
+KEY-499846-F: I don't think [%female#2-you] reaise how unhappy this has made me.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nemyslím si, že si uvědomujete, jak mě to udělalo nešťastným.
+
+KEY-499847: I'm extremely unhappy about this and it's [%person#2-your] fault.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499847-M: I'm extremely unhappy about this and it's [%male#2-your] fault.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Jsem z toho nesmírně nešťastný a je to Vaše chyba.
+KEY-499847-F: I'm extremely unhappy about this and it's [%female#2-your] fault.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Jsem z toho nesmírně nešťastný a je to Vaše chyba.
+
+KEY-499848: I don't want to leave; I've said my piece and we can leave it there.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager, said my piece means said what I wanted to say]
+STR-1: Nechci odejít, řekl jsem své a můžeme to tady ukončit.
+
+KEY-499849: I'm not going anywhere. We can leave it there and see what happens.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nikam nejdu. Můžeme to tady ukončit a uvidíme, co se stane.
+
+KEY-499850: I think I'm going to have to leave the club. This isn't working for me.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Myslím, že budu muset klub opustit. Tohle pro mě nefunguje.
+
+KEY-499851: I'm done here, I can't work for someone like [%person#2-you] anymore.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499851-M: I'm done here, I can't work for someone like [%male#2-you] anymore.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Tady jsem skončil, nemůžu už dále pracovat pro někoho jako jste Vy.
+KEY-499851-F: I'm done here, I can't work for someone like [%female#2-you] anymore.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Tady jsem skončil, nemůžu už dále pracovat pro někoho jako jste Vy.
+
+KEY-499852: I'm glad we've been able to work something out.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Jsem rád, že jsme byli schopni něco vyřešit.
+
+KEY-499853: I'm glad [%person#2-you]'ve seen sense.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499853-M: I'm glad [%male#2-you]'ve seen sense.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Jsem rád, že jste to pochopil.
+KEY-499853-F: I'm glad [%female#2-you]'ve seen sense.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Jsem rád, že jste to pochopila.
+
+KEY-499854: Can we talk about the coaching course [%person#2-you] said I could go on? It hasn't happened yet.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499854-M: Can we talk about the coaching course [%male#2-you] said I could go on? It hasn't happened yet.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Mohli bychom si promluvit o trenérském kursu, o kterém jste řekl, že bych na něj mohl jít? Ještě se tak nestalo.
+KEY-499854-F: Can we talk about the coaching course [%female#2-you] said I could go on? It hasn't happened yet.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Mohli bychom si promluvit o trenérském kursu, o kterém jste řekla, že bych na něj mohl jít? Ještě se tak nestalo.
+
+KEY-499855: Why did [%person#2-you] lie to me about sending me on a coaching course?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499855-M: Why did [%male#2-you] lie to me about sending me on a coaching course?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Proč jste mi lhal o tom, že mě pošlete na trenérský kurs?
+KEY-499855-F: Why did [%female#2-you] lie to me about sending me on a coaching course?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Proč jste mi lhala o tom, že mě pošlete na trenérský kurs?
+
+KEY-499856: I'll give [%person#2-you] another chance but I really hope it works out this time.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499856-M: I'll give [%male#2-you] another chance but I really hope it works out this time.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Dám Vám další šanci, ale opravdu doufám, že to tentokrát vyjde.
+KEY-499856-F: I'll give [%female#2-you] another chance but I really hope it works out this time.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Dám Vám další šanci, ale opravdu doufám, že to tentokrát vyjde.
+
+KEY-499857: This is [%person#2-your] last chance. If [%person#2-you] fail to see this through, I'm off.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499857-M: This is [%male#2-your] last chance. If [%male#2-you] fail to see this through, I'm off.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: To je Vaše poslední šance. Jestli to nechápete, odcházím.
+KEY-499857-F: This is [%female#2-your] last chance. If [%female#2-you] fail to see this through, I'm off.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: To je Vaše poslední šance. Jestli to nechápete, odcházím.
+
+KEY-499858: I'm tired of this and I really think it'd be for the best if I were to leave the club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Už mě to unavuje a opravdu si myslím, že by bylo nejlepší, kdybych klub opustil.
+
+KEY-499859: I've had enough. I want to leave.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Mám toho dost. Chci odejít.
+
+KEY-499860: I think we can both move on and leave this in the past, where it belongs.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Myslím, že se můžeme oba posunout dál a nechat to v minulosti, kam to patří.
+
+KEY-499861: Fine, let's move on.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Skvěle, pojďme dál.
+
+KEY-499862: I'm really surprised at [%person#2-your] reaction and I don't know if I should stay at the club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499862-M: I'm really surprised at [%male#2-your] reaction and I don't know if I should stay at the club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Jsem velmi překvapen Vaší reakcí a nevím, zda bych měl zůstat v klubu.
+KEY-499862-F: I'm really surprised at [%female#2-your] reaction and I don't know if I should stay at the club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Jsem velmi překvapen Vaší reakcí a nevím, zda bych měl zůstat v klubu.
+
+KEY-499863: [%person#2-Your] reaction tells me everything. I've got to leave this club for my own good.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499863-M: [%male#2-Your] reaction tells me everything. I've got to leave this club for my own good.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Vaše reakce mluví za vše. Musím tento klub pro své vlastní dobro opustit.
+KEY-499863-F: [%female#2-Your] reaction tells me everything. I've got to leave this club for my own good.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Vaše reakce mluví za vše. Musím tento klub pro své vlastní dobro opustit.
+
+KEY-499864: I'm happy to hear that, let's put this behind us and move on.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: To rád slyším, nechme to plavat a pojďme dál.
+
+KEY-499865: Okay, that's fair enough.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Fajn, to je dostatečně spravedlivé.
+
+KEY-499866: I don't think [%person#2-you]'ve handled this well and I'm considering my future at the club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499866-M: I don't think [%male#2-you]'ve handled this well and I'm considering my future at the club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nemyslím si, že jste se s tím vypořádal dobře a zvažuji svou budoucnost v klubu.
+KEY-499866-F: I don't think [%female#2-you]'ve handled this well and I'm considering my future at the club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nemyslím si, že jste se s tím vypořádala dobře a zvažuji svou budoucnost v klubu.
+
+KEY-499867: [%person#2-You]'re not listening to my concerns and I don't see why I should stay at the club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499867-M: [%male#2-You]'re not listening to my concerns and I don't see why I should stay at the club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nenasloucháte mým obavám a já nechápu, proč bych měl zůstat v klubu.
+KEY-499867-F: [%female#2-You]'re not listening to my concerns and I don't see why I should stay at the club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nenasloucháte mým obavám a já nechápu, proč bych měl zůstat v klubu.
+
+KEY-499868: Why haven't [%person#2-you] followed through on [%person#2-your] promise to improve our training facilities?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499868-M: Why haven't [%male#2-you] followed through on [%male#2-your] promise to improve our training facilities?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Proč jste nesplnil Váš slib zlepšit naše tréninkové zařízení?
+KEY-499868-F: Why haven't [%female#2-you] followed through on [%female#2-your] promise to improve our training facilities?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Proč jste nesplnila Váš slib zlepšit naše tréninkové zařízení?
+
+KEY-499869: What happened to improving our training facilities? Have [%person#2-you] made a promise [%person#2-you] can't keep?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499869-M: What happened to improving our training facilities? Have [%male#2-you] made a promise [%male#2-you] can't keep?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Co se stalo se zlepšením našich tréninkových zařízení? Dal jste slib, který nemůžete splnit?
+KEY-499869-F: What happened to improving our training facilities? Have [%female#2-you] made a promise [%female#2-you] can't keep?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Co se stalo se zlepšením našich tréninkových zařízení? Dala jste slib, který nemůžete splnit?
+
+KEY-499870: Alright, I'll wait a little bit longer, but I would like to see some action that would encourage me to stay at this club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Tak jo, počkám o něco déle, ale chci vidět nějakou akci, která mě povzbudí zůstat v klubu.
+
+KEY-499871: Make sure it happens or I'll leave.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Ujistěte se, že se to stane, jinak odejdu.
+
+KEY-499872: I hate to say it but I think I'm going to have to find a new club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nerad to říkám, ale myslím, že si budu muset najít nový klub.
+
+KEY-499873: I'm losing faith in [%person#2-your] ability to manage the club and I think my future lies elsewhere.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499873-M: I'm losing faith in [%male#2-your] ability to manage the club and I think my future lies elsewhere.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Ztrácím víru ve Vaši schopnost vést klub a myslím si, že má budoucnost leží jinde.
+KEY-499873-F: I'm losing faith in [%female#2-your] ability to manage the club and I think my future lies elsewhere.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Ztrácím víru ve Vaši schopnost vést klub a myslím si, že má budoucnost leží jinde.
+
+KEY-499874: Oh, okay, that explains it. Thanks![COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Aha, fajn, to to vysvětluje. Dík!
+
+KEY-499875: Fair enough, I understand.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Budiž, chápu to.
+
+KEY-499876: I'd really like to see a bit more action from [%person#2-you] on this.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499876-M: I'd really like to see a bit more action from [%male#2-you] on this.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Opravdu bych rád ohledně toho viděl od Vás trochu více akce.
+KEY-499876-F: I'd really like to see a bit more action from [%female#2-you] on this.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Opravdu bych rád ohledně toho viděl od Vás trochu více akce.
+
+KEY-499877: As far as I'm concerned [%person#2-you] need to go back to the board and make this happen.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499877-M: As far as I'm concerned [%male#2-you] need to go back to the board and make this happen.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Pokud jde o mě, musíte jít zpět za vedením a uskutečnit to.
+KEY-499877-F: As far as I'm concerned [%female#2-you] need to go back to the board and make this happen.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Pokud jde o mě, musíte jít zpět za vedením a uskutečnit to.
+
+KEY-499878: Okay, great, that'll do for me.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Fajn, super, to mi stačí.
+
+KEY-499879: Let's leave it there.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Tady to utněme.
+
+KEY-499880: I won't lie, it's a bit disappointing to hear that.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nebudu lhát, je trochu zklamáním to slyšet.
+
+KEY-499881: If that's how [%person#2-you]'re going to act then I have to seriously consider my future at this club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499881-M: If that's how [%male#2-you]'re going to act then I have to seriously consider my future at this club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Pokud bude jednat takto, musím vážně uvažovat o své budoucnosti v tomto klubu.
+KEY-499881-F: If that's how [%female#2-you]'re going to act then I have to seriously consider my future at this club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Pokud bude jednat takto, musím vážně uvažovat o své budoucnosti v tomto klubu.
+
+KEY-499882: Can we talk about the coaching team? [%person#2-You] promised to improve things but that hasn't happened yet.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499882-M: Can we talk about the coaching team? [%male#2-You] promised to improve things but that hasn't happened yet.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Můžeme si promluvit o trenérském týmu? Slíbil jste ho zlepšit, ale zatím se tak nestalo.
+KEY-499882-F: Can we talk about the coaching team? [%female#2-You] promised to improve things but that hasn't happened yet.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Můžeme si promluvit o trenérském týmu? Slíbil jste ho zlepšit, ale zatím se tak nestalo.
+
+KEY-499883: Why haven't [%person#2-you] improved the quality of the coaching team yet? Was that an empty promise?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499883-M: Why haven't [%male#2-you] improved the quality of the coaching team yet? Was that an empty promise?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Proč jste ještě nezlepšil kvalitu trenérského týmu? Byly to jen plané sliby?
+KEY-499883-F: Why haven't [%female#2-you] improved the quality of the coaching team yet? Was that an empty promise?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Proč jste ještě nezlepšila kvalitu trenérského týmu? Byly to jen plané sliby?
+
+KEY-499884: I want to see this happen, and I trust that [%person#2-you]'ll get there, but I'll have to consider my options if it doesn't.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager, wants to see the backroom staff improved]
+KEY-499884-M: I want to see this happen, and I trust that [%male#2-you]'ll get there, but I'll have to consider my options if it doesn't.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager, wants to see the backroom staff improved]
+STR-1: Chci, aby se to stalo a věřím, že se Vám to povede, ale pokud ne, budu muset zvážit své možnosti.
+KEY-499884-F: I want to see this happen, and I trust that [%female#2-you]'ll get there, but I'll have to consider my options if it doesn't.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager, wants to see the backroom staff improved]
+STR-1: Chci, aby se to stalo a věřím, že se Vám to povede, ale pokud ne, budu muset zvážit své možnosti.
+
+KEY-499885: Make sure this happens or I'll be finding myself a new club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager, wants to see the backroom staff improved]
+STR-1: Ujistěte se, že se tak stane, jinak si najdu nový klub.
+
+KEY-499886: I'm increasingly concerned about this and I'm starting to think that my future lies elsewhere.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Stále více mě to znepokojuje a začínám si myslet, že má budoucnost leží jinde.
+
+KEY-499887: [%person#2-Your] recent conduct hasn't impressed me and I think I might have to find a new club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499887-M: [%male#2-Your] recent conduct hasn't impressed me and I think I might have to find a new club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Vaše nedávné chování na mě neudělalo dojem a myslím, že si možná budu muset najít nový klub.
+KEY-499887-F: [%female#2-Your] recent conduct hasn't impressed me and I think I might have to find a new club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Vaše nedávné chování na mě neudělalo dojem a myslím, že si možná budu muset najít nový klub.
+
+KEY-499888: Oh, right, in that case I fully understand. Thanks![COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Aha, dobře, v tom případě to plně chápu. Dík!
+
+KEY-499889: Alright, that's fair enough.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: V pořádku, to je dostatečně spravedlivé.
+
+KEY-499890: Surely there are people out there who can improve us?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Určitě existují lidé, kteří nás mohou zlepšit?
+
+KEY-499891: I refuse to believe there aren't staff out there who are interested in working here and making us better.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Odmítám věřit, že neexistují žádní zaměstnanci, kteří by zde chtěli pracovat a zlepšovat nás. 
+
+KEY-499892: I don't think [%person#2-you]'ve handled this as well as [%person#2-you] could have.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499892-M: I don't think [%male#2-you]'ve handled this as well as [%male#2-you] could have.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nemyslím si, že jste se s tím vypořádal tak dobře, jak jste mohl.
+KEY-499892-F: I don't think [%female#2-you]'ve handled this as well as [%female#2-you] could have.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nemyslím si, že jste se s tím vypořádala tak dobře, jak jste mohla.
+
+KEY-499893: [%person#2-You]'ve handled this terribly.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499893-M: [%male#2-You]'ve handled this terribly.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Vypořádal jste se s tím strašně.
+KEY-499893-F: [%female#2-You]'ve handled this terribly.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Vypořádala jste se s tím strašně.
+
+KEY-499894: If [%person#2-you]'ve tried, that's fair enough as far as I'm concerned.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499894-M: If [%male#2-you]'ve tried, that's fair enough as far as I'm concerned.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Pokud jste to zkusil, za mě je to dostatečně spravedlivé.
+KEY-499894-F: If [%female#2-you]'ve tried, that's fair enough as far as I'm concerned.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Pokud jste to zkusila, za mě je to dostatečně spravedlivé.
+
+KEY-499895: I sympathise with [%person#2-you] but, having made a promise, it looks bad if [%person#2-you]'re now backing away from it.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499895-M: I sympathise with [%male#2-you] but, having made a promise, it looks bad if [%male#2-you]'re now backing away from it.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Soucítím s Vámi, ale dal jste slib a vypadá to špatně, když od něj teď odstupujete.
+KEY-499895-F: I sympathise with [%female#2-you] but, having made a promise, it looks bad if [%female#2-you]'re now backing away from it.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Soucítím s Vámi, ale dala jste slib a vypadá to špatně, když od něj teď odstupujete.
+
+KEY-499896: [%person#2-You] made a promise, it's up to [%person#2-you] to keep it.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499896-M: [%male#2-You] made a promise, it's up to [%male#2-you] to keep it.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Slíbil jste to, je na Vás to splnit.
+KEY-499896-F: [%female#2-You] made a promise, it's up to [%female#2-you] to keep it.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Slíbila jste to, je na Vás to splnit.
+
+KEY-499897: Okay, I'll leave this alone now, I'm happy to get on with my football.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Fajn, nechám to nyní tak. Jsem šťastný, že se mohu soustředit na fotbal. 
+
+KEY-499898: Let's leave it there, shall we?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Můžeme to tady utnout?
+
+KEY-499899: I'm a bit disappointed at how [%person#2-you]'ve handled this to be completely honest.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499899-M: I'm a bit disappointed at how [%male#2-you]'ve handled this to be completely honest.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Abych byl upřímný, jsem trochu zklamaný z toho, jak jste se s tím vypořádal.
+KEY-499899-F: I'm a bit disappointed at how [%female#2-you]'ve handled this to be completely honest.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Abych byl upřímný, jsem trochu zklamaný z toho, jak jste se s tím vypořádala.
+
+KEY-499900: [%person#2-You] can't just dismiss my concerns like that, I won't allow it.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499900-M: [%male#2-You] can't just dismiss my concerns like that, I won't allow it.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nemůžete jen tak odmítnout mé obavy, to nedovolím.
+KEY-499900-F: [%female#2-You] can't just dismiss my concerns like that, I won't allow it.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Nemůžete jen tak odmítnout mé obavy, to nedovolím.
+
+KEY-499901: I was promised a certain squad number and [%person#2-you] haven't given it to me. What happened?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499901-M: I was promised a certain squad number and [%male#2-you] haven't given it to me. What happened?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Bylo mi slíbeno určité číslo dresu a Vy jste mi ho nedal. Co se stalo?
+KEY-499901-F: I was promised a certain squad number and [%female#2-you] haven't given it to me. What happened?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Bylo mi slíbeno určité číslo dresu a Vy jste mi ho nedala. Co se stalo?
+
+KEY-499902: Why didn't [%person#2-you] give me the squad number I was promised?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499902-M: Why didn't [%male#2-you] give me the squad number I was promised?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Proč jste mi nedal číslo dresu, které mi bylo slíbeno?
+KEY-499902-F: Why didn't [%female#2-you] give me the squad number I was promised?[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Proč jste mi nedala číslo dresu, které mi bylo slíbeno?
+
+KEY-499903: Alright, let's get on with business.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: V pořádku, pojďme pokračovat v práci.
+
+KEY-499904: Fair enough, I'll drop it.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Budiž, nechám to být.
+
+KEY-499905: It matters to me, whether [%person#2-you] like it or not. I just wanted to say that.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499905-M: It matters to me, whether [%male#2-you] like it or not. I just wanted to say that.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Záleží mi na tom, ať se Vám to líbí nebo ne. Jen jsem to chtěl říct.
+KEY-499905-F: It matters to me, whether [%female#2-you] like it or not. I just wanted to say that.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Záleží mi na tom, ať se Vám to líbí nebo ne. Jen jsem to chtěl říct.
+
+KEY-499906: Don't tell me what does and doesn't matter. If [%person#2-you]'re going to act like that, players will quickly look for a way out of this club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499906-M: Don't tell me what does and doesn't matter. If [%male#2-you]'re going to act like that, players will quickly look for a way out of this club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Neříkejte mi, na čem záleží a na čem ne. Jestli se budete chovat takto, hráči rychle budou hledat z tohoto klubu cestu ven.
+KEY-499906-F: Don't tell me what does and doesn't matter. If [%female#2-you]'re going to act like that, players will quickly look for a way out of this club.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Neříkejte mi, na čem záleží a na čem ne. Jestli se budete chovat takto, hráči rychle budou hledat z tohoto klubu cestu ven.
+
+KEY-499907: I look forward to seeing that happen.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Těším se, až se stane.
+
+KEY-499908: Make sure [%person#2-you] don't let me down.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+KEY-499908-M: Make sure [%male#2-you] don't let me down.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Ujistěte se, že mě nezklamete.
+KEY-499908-F: Make sure [%female#2-you] don't let me down.[COMMENT: AREA: Player Happiness; SUB-AREA: Player Happiness; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness, player speaking to manager]
+STR-1: Ujistěte se, že mě nezklamete.
+
+KEY-499909: I've not been happy with my playing time but we can talk about it in more detail at a later date if it's still an issue.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nejsem spokojen s mým herním vytížením, ale můžeme si o tom detailněji promluvit později, pokud to stále bude aktuální.
+
+KEY-499910: I have concerns about my playing time but now isn't the right time to talk about them. You'll hear from me if things continue in this way.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Mám obavy ohledně mého herního vytížení, ale teď není správný čas o tom mluvit. Ozvu se, když to bude nadále pokračovat.
+
+KEY-499911: I don't want to kick up a fuss but it doesn't feel like I'm being treated as a star player and I've not been playing enough.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, ale nemám pocit, že se se mnou jedná jako s hvězdným hráčem a ani jsem tolik nehrál.
+
+KEY-499912: I want to talk about my playing time; I'm supposedly a star player but it doesn't really feel like it.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Chci mluvit o mém herním vytížení. Údajně jsem hvězdný hráč, ale ve skutečnosti se tak necítím.
+
+KEY-499913: I don't want to kick up a fuss but it doesn't feel like I'm the important player I've been told I am and I've not been playing enough.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, ale necítím se jako důležitý hráč, jak mi bylo řečeno a ani jsem tolik nehrál.
+
+KEY-499914: I want to talk about my playing time; I'm supposedly an important player but it doesn't really feel like it.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Chci mluvit o mém herním vytížení. Údajně jsem důležitý hráč, ale ve skutečnosti se tak necítím.
+
+KEY-499915: I don't want to kick up a fuss but it doesn't feel like I'm the regular team player I've been told I am and I've not been playing enough.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, ale necítím se jako pravidelný hráč základní sestavy, jak mi bylo řečeno a ani jsem tolik nehrál.
+
+KEY-499916: I want to talk about my playing time; I'm supposedly a regular starter but it doesn't really feel like it.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Chci mluvit o mém herním vytížení. Údajně jsem pravidelný hráč základní sestavy, ale ve skutečnosti se tak necítím.
+
+KEY-499917: I don't want to kick up a fuss but it doesn't feel like I'm getting a fair chance to compete for a place in the team.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, ale nemám pocit, že dostávám spravedlivou šanci zabojovat o místo v týmu.
+
+KEY-499918: I want to talk about my playing time; I'm supposedly meant to be challenging for a place in the team but it doesn't really feel like I've been given a fair shot.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Chci mluvit o mém herním vytížení. Údajně mám bojovat o místo v sestavě, ale ve skutečnosti nemám pocit, že bych dostal spravedlivou šanci.
+
+KEY-499919: I don't want to kick up a fuss but it doesn't feel like I'm getting a chance to be the impact sub I've been told I can be.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, ale nemám pocit, že dostávám šanci být pravidelným náhradníkem, jak mi bylo řečeno.
+
+KEY-499920: I want to talk about my playing time; I'm supposedly an impact sub but it doesn't really feel like I've been given a fair shot.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Chci mluvit o mém herním vytížení. Údajně mám být pravidelným náhradníkem, ale ve skutečnosti nemám pocit, že bych dostal spravedlivou šanci.
+
+KEY-499921: I don't want to kick up a fuss, as I know I'm only meant to be on the fringes of the first team, but surely I could be playing a little more?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, vím, že mám být jen okrajový hráč sestavy, ale nepochybně bych mohl hrát o něco více, ne?
+
+KEY-499922: I want to talk about my playing time; I'm supposedly a fringe player but it doesn't really feel like I've been given a fair shot to be even that.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Chci mluvit o mém herním vytížení. Údajně mám být okrajový hráč sestavy, ale mám pocit, že jsem ani nedostal spravedlivou šanci jím být.
+
+KEY-499923: I don't want to kick up a fuss as I'm still at the start of my career but, for a supposed breakthrough prospect, it feels like I could be playing a little bit more.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, protože jsem stále ještě na začátku mé kariéry, ale mám pocit, že jako talentovaný hráč bych měl hrát o něco více, nemyslíte?
+
+KEY-499924: I want to talk about my playing time; I'm supposedly a breakthrough prospect but it doesn't really feel like I've been given a fair chance to impress.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Chci mluvit o mém herním vytížení. Údajně mám být talentovaný hráč, ale ve skutečnosti nemám pocit, že bych dostal spravedlivou šanci zapůsobit.
+
+KEY-499925: I don't want to kick up a fuss as I'm still at the start of my career but, for a supposed hot prospect, it feels like I could be playing a little bit more.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, protože jsem stále ještě na začátku mé kariéry, ale mám pocit, že jako nadějný hráč bych měl hrát o něco více, nemyslíte?
+
+KEY-499926: I want to talk about my playing time; I'm supposedly a hot prospect but it doesn't really feel like I've been given a fair chance to impress.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Chci mluvit o mém herním vytížení. Údajně mám být nadějný hráč, ale ve skutečnosti nemám pocit, že bych dostal spravedlivou šanci zapůsobit.
+
+KEY-499927: I don't want to kick up a fuss but, since I'm meant to be the first-choice goalkeeper here, it's starting to feel as if I'm not playing as much as I should be.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, ale poněvadž tu mám být brankařská jednička, začínám mít pocit, jako bych nehrál tolik, kolik bych měl.
+
+KEY-499928: I'm meant to be the first-choice goalkeeper but my playing time hasn't reflected that recently.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Mám být brankářskou jedničkou, ale mém herní vytížení tomu poslední dobou neodpovídá.
+
+KEY-499929: I don't want to kick up a fuss but, since I'm meant to be the designated cup goalkeeper here, it's starting to feel as if I'm not playing as much as I should be.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, ale poněvadž tu mám být jako brankář určený pro poháry, začínám mít pocit, jako bych nehrál tolik, kolik bych měl.
+
+KEY-499930: I'm meant to be the designated cup goalkeeper but my playing time hasn't reflected that recently.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Mám být brankářem určeným pro poháry, ale mé herní vytížení tomu poslední dobou neodpovídá.
+
+KEY-499931: I don't want to kick up a fuss but, since I'm meant to be the designated domestic cup goalkeeper here, it's starting to feel as if I'm not playing as much as I should be.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, ale poněvadž tu mám být jako brankář pro domácí poháry, začínám mít pocit, jako bych nehrál tolik, kolik bych měl.
+
+KEY-499932: I'm the designated domestic cup goalkeeper but I've not been given the games recently.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Jsem brankářem pro domácí poháry, ale v poslední době jsem se nedostal do hry.
+
+KEY-499933: I don't want to kick up a fuss but, since I am the designated continental cup goalkeeper here, it's starting to feel as if I'm not playing as much as I should be.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, ale jako brankář určený pro kontinentální poháry začínám mít pocit, jako bych nehrál tolik, kolik bych měl.
+
+KEY-499934: I'm meant to be the designated continental cup goalkeeper but my playing time hasn't reflected that recently.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Mám být brankářem určeným pro kontinentální poháry, ale mé herní vytížení tomu poslední dobou neodpovídá.
+
+KEY-499935: I don't want to kick up a fuss, not least because I'm only the backup goalkeeper here, but is there a chance I could be given a little more first-team football?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, už jen protože jsem tu jako náhradní brankář, ale existuje šance, že bych dostal trochu více času v prvním týmu?
+
+KEY-499936: It feels like I haven't been getting the opportunities I'd expect to get as the backup goalkeeper here and I wanted to see if anything could be done about that.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Mám pocit, že jsem tu jako náhradní brankář nedostal příležitost, kterou jsem čekal a chtěl jsem zjistit, zda se s tím dá něco udělat.
+
+KEY-499937: I don't want to kick up a fuss, since I'm a B Team player, but it's starting to feel as if I'm not playing as much as I should be.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, poněvadž jsem hráčem B týmu, ale začínám mít pocit, jako bych nehrál tolik, kolik bych měl.
+
+KEY-499938: I'm meant to be a B Team player but my overall playing time hasn't reflected that recently.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Mám být hráčem B týmu, ale mé celkové herní vytížení tomu poslední dobou neodpovídá.
+
+KEY-499939: I don't want to kick up a fuss, as I know I'm only really an emergency option, but it's starting to feel as if I'm not playing as much as I could be.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat rozruch, poněvadž vím, že jsem jenom nouzová možnost, ale začínám mít pocit, jako bych nehrál tolik, kolik bych mohl.
+
+KEY-499940: I know I'm only an emergency option as far as the first team is concerned but I would like to play a little more often if possible.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Vím, že jsem, když jde o první tým, pouze nouzová možnost, ale pokud je to možní, rád bych hrál o něco častěji.
+
+KEY-499941: Look, I'm meant to be a star player but I've not been playing as much as I should be. Can we sort this out amicably?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Podívejte, měl jsem být hvězdným hráčem, ale nehrál jsem tolik, kolik jsem měl. Můžeme to vyřešit po dobrém?
+
+KEY-499942: I'm supposed to be a star player here but my playing time hasn't really reflected that. What's going on?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Měl jsem tu být hvězdným hráčem, ale ve skutečnosti tomu mé herní vytížení neodpovídá. Co se děje?
+
+KEY-499943: Look, I'm meant to be an important player but I've not been playing as much as I should be. Can we sort this out amicably?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Podívejte, měl jsem být důležitým hráčem, ale nehrál jsem tolik, kolik jsem měl. Můžeme to vyřešit po dobrém?
+
+KEY-499944: I'm supposed to be an important player here but my playing time hasn't really reflected that. What's going on?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Měl jsem tu být důležitým hráčem, ale ve skutečnosti tomu mé herní vytížení neodpovídá. Co se děje?
+
+KEY-499945: Look, I'm meant to be a regular starter but I've not been playing as much as I should be. Can we sort this out amicably?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Podívejte, měl jsem být pravidelným hráčem základní sestavy, ale nehrál jsem tolik, kolik jsem měl. Můžeme to vyřešit po dobrém?
+
+KEY-499946: I'm supposed to be a regular starter here but my playing time hasn't really reflected that. What's going on?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Měl jsem tu být pravidelným hráčem základní sestavy, ale ve skutečnosti tomu mé herní vytížení neodpovídá. Co se děje?
+
+KEY-499947: Look, I know I'm meant to be challenging for regular playing time but it feels like I've not been getting a fair shot at doing that. Can we sort this out amicably?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Podívejte, vím, že jsem měl bojovat o pravidelné herní vytížení, ale mám pocit, že jsem nedostal spravedlivou šanci udělat to. Můžeme to vyřešit po dobrém?
+
+KEY-499948: I'm supposed to be challenging for more playing time here but the opportunities haven't been coming. What's going on?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Měl jsem bojovat o větší herní vytížení, ale příležitosti nepřišly. Co se děje?
+
+KEY-499949: I appreciate being given the chance to impress as a sub recently, so thanks for that. Can we build on that with some more starts now, please?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Oceňuji, že jsem v poslední době dostal šanci zaujmout jako náhradník, za to díky. Můžeme na to teď navázat dalšími zápasy, prosím?
+
+KEY-499950: I've shown [%person#2-you] that I'm good enough in my recent sub appearances so I think the time has come to give me more starts.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499950-M: I've shown [%male#2-you] that I'm good enough in my recent sub appearances so I think the time has come to give me more starts.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Ukázal jsem Vám v nedávných utkáních jako střídající hráč, že jsem dost dobrý, takže si myslím, že nadešel čas na nějaké zápasy od začátku.
+KEY-499950-F: I've shown [%female#2-you] that I'm good enough in my recent sub appearances so I think the time has come to give me more starts.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Ukázal jsem Vám v nedávných utkáních jako střídající hráč, že jsem dost dobrý, takže si myslím, že nadešel čas na nějaké zápasy od začátku.
+
+KEY-499951: I appreciate being given the chance to impress in the cup recently, so thanks for that. Can we build on that with some more league starts now, please?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Oceňuji, že jsem v poslední době dostal šanci zaujmout v poháru, za to díky. Můžeme na to teď navázat dalšími ligovými zápasy, prosím?
+
+KEY-499952: I've shown [%person#2-you] that I'm good enough in my recent cup appearances so I think the time has come to give me more starts.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499952-M: I've shown [%male#2-you] that I'm good enough in my recent cup appearances so I think the time has come to give me more starts.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Ukázal jsem Vám v nedávných pohárových utkáních, že jsem dost dobrý, takže si myslím, že nadešel čas na více zápasů.
+KEY-499952-F: I've shown [%female#2-you] that I'm good enough in my recent cup appearances so I think the time has come to give me more starts.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Ukázal jsem Vám v nedávných pohárových utkáních, že jsem dost dobrý, takže si myslím, že nadešel čas na více zápasů.
+
+KEY-499953: I found my loan move really helpful, thanks! If we can talk about building on that progress and earning more first-team starts here, I would appreciate it.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Shledávám mé hostování jako velmi prospěšné, díky! Pokud si můžeme promluvit o navázání na tento pokrok a získání více startů za první tým, ocenil bych to.
+
+KEY-499954: I've shown everyone that I'm good enough to be starting here, my loan spell showed that, so I expect some assurances from [%person#2-you] now.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager about opportunities after a successful loan spell out]
+KEY-499954-M: I've shown everyone that I'm good enough to be starting here, my loan spell showed that, so I expect some assurances from [%male#2-you] now.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager about opportunities after a successful loan spell out]
+STR-1: Všem jsem ukázal, že jsem dostatečně dobrý na to hrát zde v základní sestavě. Mé hostování to dokázalo, takže od Vás nyní očekávám nějaké záruky.
+KEY-499954-F: I've shown everyone that I'm good enough to be starting here, my loan spell showed that, so I expect some assurances from [%female#2-you] now.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player speaking to manager about opportunities after a successful loan spell out]
+STR-1: Všem jsem ukázal, že jsem dostatečně dobrý na to hrát zde v základní sestavě. Mé hostování to dokázalo, takže od Vás nyní očekávám nějaké záruky.
+
+KEY-499955: I'd just like a chance to show what I can do.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Jen bych chtěl šanci ukázat, co dokážu.
+
+KEY-499956: I need to take the next step in my career and, while I'd like to do that here, I need to hear from [%person#2-you] that it'll be possible here.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499956-M: I need to take the next step in my career and, while I'd like to do that here, I need to hear from [%male#2-you] that it'll be possible here.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Musím učinit další krok ve své kariéře a pokud ho mám udělat tady, potřebuji od Vás slyšet, že to bude možné.
+KEY-499956-F: I need to take the next step in my career and, while I'd like to do that here, I need to hear from [%female#2-you] that it'll be possible here.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Musím učinit další krok ve své kariéře a pokud ho mám udělat tady, potřebuji od Vás slyšet, že to bude možné.
+
+KEY-499957: I'd just like a chance to show what I can do from the start if possible.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Jen bych chtěl šanci ukázat, co dokážu od začátku, pokud je to možné.
+
+KEY-499958: I need to take the next step in my career and, while I'd like to do that here, I need more than just coming off the bench.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Musím učinit další krok ve své kariéře a pokud ho mám udělat tady, potřebuji víc než jen střídat.
+
+KEY-499959: I appreciate the opportunity; [%person#2-you] won't regret this.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499959-M: I appreciate the opportunity; [%male#2-you] won't regret this.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Oceňuji příležitost. Nebudete litovat.
+KEY-499959-F: I appreciate the opportunity; [%female#2-you] won't regret this.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Oceňuji příležitost. Nebudete litovat.
+
+KEY-499960: I'm glad to hear it. Make sure [%person#2-you] don't let me down.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499960-M: I'm glad to hear it. Make sure [%male#2-you] don't let me down.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: To rád slyším. Ujistěte se, že mě nezklamete.
+KEY-499960-F: I'm glad to hear it. Make sure [%female#2-you] don't let me down.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: To rád slyším. Ujistěte se, že mě nezklamete.
+
+KEY-499961: I'm not worried about that and I don't want [%person#2-you] to worry either. Let's work this out together.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499961-M: I'm not worried about that and I don't want [%male#2-you] to worry either. Let's work this out together.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nedělá mi to starosti a ani Vám by nemělo. Pojďme to vyřešit společně.
+KEY-499961-F: I'm not worried about that and I don't want [%female#2-you] to worry either. Let's work this out together.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nedělá mi to starosti a ani Vám by nemělo. Pojďme to vyřešit společně.
+
+KEY-499962: I've got no injury concerns and all that matters now is playing regularly, be it here or somewhere else. I'd prefer for it to be here, obviously.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nemám obavy ze zranění a jediné, na čem teď záleží, je hrát pravidelně. Buď zde, nebo někde jinde. Samozřejmě preferuji zde.
+
+KEY-499963: [%male#3-first] is a great player but we can co-exist here! I want to show what I can do too.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: [%male#3-first] je skvělý hráč, ale můžeme tu být oba! Také chci ukázat, co dokážu.
+
+KEY-499964: He's playing well but I've got plenty to offer as well. If [%person#2-you] give me the chance to show that, I won't let [%person#2-you] down.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499964-M: He's playing well but I've got plenty to offer as well. If [%male#2-you] give me the chance to show that, I won't let [%male#2-you] down.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Hraje dobře, ale já mám také co nabídnout. Když mi dáte možnost to ukázat, nezklamu Vás.
+KEY-499964-F: He's playing well but I've got plenty to offer as well. If [%female#2-you] give me the chance to show that, I won't let [%female#2-you] down.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Hraje dobře, ale já mám také co nabídnout. Když mi dáte možnost to ukázat, nezklamu Vás.
+
+KEY-499965: How will [%person#2-you] know for sure if [%person#2-you] don't give me a chance?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499965-M: How will [%male#2-you] know for sure if [%male#2-you] don't give me a chance?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Jak to budete vědět jistě, když mi nedáte šanci?
+KEY-499965-F: How will [%female#2-you] know for sure if [%female#2-you] don't give me a chance?[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Jak to budete vědět jistě, když mi nedáte šanci?
+
+KEY-499966: I'm confident I have what it takes to perform on the big stage but I need the chance to show that. I'd prefer for that to happen here but I can't wait forever.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Jsem si jistý, že mám na fotbal na úrovni, ale potřebuji šanci to ukázat. Radši bych to udělal zde, ale nemůžu čekat věčně.
+
+KEY-499967: I want to show I can be a part of a winning team too. I'd love to be given that vote of confidence from [%person#2-you].[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499967-M: I want to show I can be a part of a winning team too. I'd love to be given that vote of confidence from [%male#2-you].[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Chci ukázat, že také můžu být součástí vítězného týmu. Rád bych, kdybyste mi právě Vy projevil důvěru. 
+KEY-499967-F: I want to show I can be a part of a winning team too. I'd love to be given that vote of confidence from [%female#2-you].[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Chci ukázat, že také můžu být součástí vítězného týmu. Rád bych, kdybyste mi právě Vy projevila důvěru. 
+
+KEY-499968: It sounds as if [%person#2-you]'re saying that I'm not good enough to be trusted. If that's true, I really can't see a future for myself at this club.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499968-M: It sounds as if [%male#2-you]'re saying that I'm not good enough to be trusted. If that's true, I really can't see a future for myself at this club.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Zní to jako byste říkal, že nejsem dost dobrý, abyste mi věřil. Pokud je to pravda, opravdu nevidím v tomto klubu budoucnost.
+KEY-499968-F: It sounds as if [%female#2-you]'re saying that I'm not good enough to be trusted. If that's true, I really can't see a future for myself at this club.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Zní to jako byste říkala, že nejsem dost dobrý, abyste mi věřil. Pokud je to pravda, opravdu nevidím v tomto klubu budoucnost.
+
+KEY-499969: Everyone has a bad day from time to time, please don't hold it against me.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Každý má občas špatný den, prosím, nezlobte se na mě.
+
+KEY-499970: I learned some valuable lessons from those experiences and have no intention of letting the team down again.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player talking to manager about learning lessons from playing badly last time he was given a chance]
+STR-1: Poučil jsem se z toho a nemám v úmyslu nechat tým znova na holičkách. 
+
+KEY-499971: That's fine, I'll keep my head down and work hard, and hopefully good things will come along eventually.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: To je v pořádku, skloním hlavu a budu tvrdě pracovat a doufejme, že dobré věci nakonec přijdou.
+
+KEY-499972: Those are [%person#2-your] reasons, fair enough. I'm not happy but I'll leave it alone for now.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499972-M: Those are [%male#2-your] reasons, fair enough. I'm not happy but I'll leave it alone for now.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: To jsou Vaše důvody, budiž. Nejsem šťastný, ale protentokrát to nechám tak.
+KEY-499972-F: Those are [%female#2-your] reasons, fair enough. I'm not happy but I'll leave it alone for now.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: To jsou Vaše důvody, budiž. Nejsem šťastný, ale protentokrát to nechám tak.
+
+KEY-499973: I'm not going to kick up a huge fuss right now but I'd hope to see progress on this sooner rather than later.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nebudu teď dělat velký rozruch, ale doufám, že pokrok v této oblasti uvidím spíše dříve než později.
+
+KEY-499974: I'm not happy with how this has gone but I'm prepared to wait it out a little longer.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nejsem spokojený s tím, jak to šlo, ale jsem připraven počkat si na to o něco déle.
+
+KEY-499975: I'd rather not go on loan if at all possible. If I have to leave, let's find a permanent deal that works for everyone, or better still figure out a way for me to be able to play here.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Pokud je to možné, radši bych na hostování nešel. Jestli mám odejít, najděte trvalou nabídku vhodnou pro všechny nebo ještě lépe, vymyslete způsob, jak bych mohl hrát zde.
+
+KEY-499976: I'm not interested in a loan move and surely it's not in the club's best interests either? If I can't get regular football here it's best if I leave.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nemám zájem jít na hostování a zajisté to není ani to nejlepší pro klub. Jestli tu nemůžu pravidelně nastupovat, bude nejlepší, když odejdu.
+
+KEY-499977: I'd rather bide my time for a chance here than go on loan.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Radši bych si počkal na šanci zde než jít na hostování.
+
+KEY-499978: I'm not interested in a loan; I want to play here. I'll prove that I deserve it.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nemám zájem o hostování. Chci hrát zde. Dokážu, že si to zasloužím.
+
+KEY-499979: I'm up for a loan, it sounds like a good idea![COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Jsem pro hostování, zní to jako dobrý nápad!
+
+KEY-499980: Okay, let's see what a loan does for my career, hopefully it'll give me a chance to show what I can do.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Fajn, uvidíme, co hostování udělá s mojí kariérou. Snad mi dá šanci ukázat, co umím.
+
+KEY-499981: I didn't want it to come to this but, if leaving is the only option, so be it.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechtěl jsem, aby k tomu došlo, ale pokud je odchod jediná možnost, budiž.
+
+KEY-499982: If I'm not going to play here then I suppose I have to leave.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Pokud zde nebudu hrát, předpokládám, že budu muset odejít.
+
+KEY-499983: I don't want to leave; this hasn't exactly gone to plan, but I'm happy to drop the issue and focus on my football.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci odejít. Nešlo to přesně podle plánu, ale rád od toho upustím a budu se soustředit na svou hru.
+
+KEY-499984: I'd have loved for it to work out here, but that's football, and maybe I'll fare better elsewhere.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Byl bych rád, kdyby to tu vyšlo, ale tohle je fotbal a možná se mi bude dařit lépe jinde. 
+
+KEY-499985: I can't wait to leave; someone else will give me the playing time I deserve.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nemůžu se dočkat, až odejdu. Někdo jiný mi dá herní vytížení, které si zasloužím.
+
+KEY-499986: I've no hard feelings about this; hopefully it works out well for everyone.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nemám z toho výčitky. Doufejme, že to pro všechny dobře dopadne. 
+
+KEY-499987: The sooner I'm out of here the better. It's time for me to get on with my career.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Čím dříve budu odsud, tím lépe. Je čas se v kariéře posunout.
+
+KEY-499988: Okay, let's do it [%person#2-your] way. I'll see what chances come my way.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499988-M: Okay, let's do it [%male#2-your] way. I'll see what chances come my way.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Fajn, udělejme to po Vašem. Uvidím, jaké příležitosti se mi naskytnou.
+KEY-499988-F: Okay, let's do it [%female#2-your] way. I'll see what chances come my way.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Fajn, udělejme to po Vašem. Uvidím, jaké příležitosti se mi naskytnou.
+
+KEY-499989: I don't really have a choice but to play along now, do I? I'm not happy but I intend to prove my value here.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nemám jinou možnost než se podřídit, že? Nejsem z toho šťastný, ale hodlám zde dokázat svou hodnotu.
+
+KEY-499990: I want to play here; I don't need a loan move.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Chci hrát zde. Nepotřebuji hostování.
+
+KEY-499991: A loan move is a waste of time at this point in my career. I want to make it at [%team#1-short].[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: V této fázi mé kariéry je hostování ztráta času. Chci to zvládnout v týmu [%team#1-short].
+
+KEY-499992: I don't want to cause problems but I can't sit around and wait for tomorrow to come. I need to play more football![COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nechci dělat problémy, ale nemůžu sedět a čekat, co přijde zítra. Musím víc hrát!
+
+KEY-499993: There are plenty of other places I could go to and play more first-team football. It doesn't have to be here.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Existuje spousta míst, kam bych mohl jít a hrát v prvním týmu. Nemusí to být zde. 
+
+KEY-499994: I've spoken to other players here about their experiences with these sorts of promises and I'm concerned that nothing will happen. I really want to play more football.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Mluvil jsem s dalšími hráči, kteří mají zkušenosti s těmito sliby a obávám se, že se nic nestane. Opravdu chci víc hrát.
+
+KEY-499995: I'd rather not be the latest player to take [%person#2-you] at [%person#2-your] word only to be let down.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499995-M: I'd rather not be the latest player to take [%male#2-you] at [%male#2-your] word only to be let down.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Raději bych nebyl nejnovějším hráčem, který Vás vzal za slovo a jen se zklamal.
+KEY-499995-F: I'd rather not be the latest player to take [%female#2-you] at [%female#2-your] word only to be let down.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Raději bych nebyl nejnovějším hráčem, který Vás vzal za slovo a jen se zklamal.
+
+KEY-499996: Could I go on loan instead? That's a good way to showcase my talents.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Mohl bych místo toho jít na hostování? To je dobrý způsob, jak předvést můj talent.
+
+KEY-499997: I need to go on loan then. One way or another, [%person#2-you] have to let me play football.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499997-M: I need to go on loan then. One way or another, [%male#2-you] have to let me play football.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Pak potřebuji jít na hostování. Tak či tak, musíte mě nechat hrát.
+KEY-499997-F: I need to go on loan then. One way or another, [%female#2-you] have to let me play football.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Pak potřebuji jít na hostování. Tak či tak, musíte mě nechat hrát.
+
+KEY-499998: I'd prefer to go on loan rather than leave permanently. I like being {an}[%team#1-short] player.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Radši bych šel na hostování, jak úplně odejít. Líbí se mi být hráčem týmu {}[%team#1-short].
+
+KEY-499999: Don't take the easy way out by selling me. Arrange a loan so I can show [%person#2-you] what I can do.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+KEY-499999-M: Don't take the easy way out by selling me. Arrange a loan so I can show [%male#2-you] what I can do.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nezlehčujte si to tím, že mě prodáte. Domluvte mi hostování, ať Vám můžu ukázat, co dokážu.
+KEY-499999-F: Don't take the easy way out by selling me. Arrange a loan so I can show [%female#2-you] what I can do.[COMMENT: AREA: Player Happiness; SUB-AREA: Wants First Team Football; FR-BN: 31178; TONE: Informal; CHARLIMIT: None; REF-ID: n/a; NOTE: own player conversations; player happiness]
+STR-1: Nezlehčujte si to tím, že mě prodáte. Domluvte mi hostování, ať Vám můžu ukázat, co dokážu.
