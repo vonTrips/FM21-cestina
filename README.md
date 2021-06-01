@@ -16,4 +16,4 @@ Na internetu a hlavně na překlady her + FB kolují různé informace o nás p�
 Češtinu v tuto chvíli upravuje tým okolo F-mko.cz (majanek) a pak lidé okolo FMseries.cz (Smrk15).
 Naším jediným cílem je, aby čeština byla pro komunitu volně dostupná. HOWG!
 
-+ k veřejnému překladu přibyla část od M. Smreček.
+PLUS k veřejnému překladu přibyla část od M. Smreček.
